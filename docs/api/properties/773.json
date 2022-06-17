@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/773",
+    "@type": "o:Property",
+    "o:comment": "Whether The costs to the patient for services under this network or formulary.",
+    "o:id": 773,
+    "o:label": "healthPlanCostSharing",
+    "o:local_name": "healthPlanCostSharing",
+    "o:term": "schema:healthPlanCostSharing",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

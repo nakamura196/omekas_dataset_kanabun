@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1235",
+    "@type": "o:Property",
+    "o:comment": "Audiences defined by a person's maximum age.",
+    "o:id": 1235,
+    "o:label": "requiredMaxAge",
+    "o:local_name": "requiredMaxAge",
+    "o:term": "schema:requiredMaxAge",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

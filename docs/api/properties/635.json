@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/635",
+    "@type": "o:Property",
+    "o:comment": "The end time of the clip expressed as the number of seconds from the beginning of the work.",
+    "o:id": 635,
+    "o:label": "endOffset",
+    "o:local_name": "endOffset",
+    "o:term": "schema:endOffset",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

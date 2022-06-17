@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1409",
+    "@type": "o:Property",
+    "o:comment": "Reference to an asset (e.g., Barcode, QR code image or PDF) usable for entrance.",
+    "o:id": 1409,
+    "o:label": "ticketToken",
+    "o:local_name": "ticketToken",
+    "o:term": "schema:ticketToken",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

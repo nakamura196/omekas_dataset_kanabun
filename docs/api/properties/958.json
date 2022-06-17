@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/958",
+    "@type": "o:Property",
+    "o:comment": "Indicates that the vehicle meets the respective emission standard.",
+    "o:id": 958,
+    "o:label": "meetsEmissionStandard",
+    "o:local_name": "meetsEmissionStandard",
+    "o:term": "schema:meetsEmissionStandard",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

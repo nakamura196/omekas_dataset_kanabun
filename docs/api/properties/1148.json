@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1148",
+    "@type": "o:Property",
+    "o:comment": "The edition of the print product in which the NewsArticle appears.",
+    "o:id": 1148,
+    "o:label": "printEdition",
+    "o:local_name": "printEdition",
+    "o:term": "schema:printEdition",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

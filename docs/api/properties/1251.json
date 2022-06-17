@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1251",
+    "@type": "o:Property",
+    "o:comment": "The type of return method offered, specified from an enumeration.",
+    "o:id": 1251,
+    "o:label": "returnMethod",
+    "o:local_name": "returnMethod",
+    "o:term": "schema:returnMethod",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

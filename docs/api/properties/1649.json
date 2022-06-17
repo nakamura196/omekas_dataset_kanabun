@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1649",
+    "@type": "o:Property",
+    "o:comment": "A sub-property of instrument. A supply consumed when performing instructions or a direction.",
+    "o:id": 1649,
+    "o:label": "supply",
+    "o:local_name": "supply",
+    "o:term": "schema:supply",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

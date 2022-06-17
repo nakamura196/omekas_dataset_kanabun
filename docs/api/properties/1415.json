@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1415",
+    "@type": "o:Property",
+    "o:comment": "The title of the job.",
+    "o:id": 1415,
+    "o:label": "title",
+    "o:local_name": "title",
+    "o:term": "schema:title",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

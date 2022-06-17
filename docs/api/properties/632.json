@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/632",
+    "@type": "o:Property",
+    "o:comment": "The supported encoding type(s) for an EntryPoint request.",
+    "o:id": 632,
+    "o:label": "encodingType",
+    "o:local_name": "encodingType",
+    "o:term": "schema:encodingType",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

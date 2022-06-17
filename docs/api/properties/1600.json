@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1600",
+    "@type": "o:Property",
+    "o:comment": "A photograph of this place.",
+    "o:id": 1600,
+    "o:label": "photo",
+    "o:local_name": "photo",
+    "o:term": "schema:photo",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

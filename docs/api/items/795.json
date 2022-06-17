@@ -1,0 +1,225 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/items/795",
+    "@type": [
+        "o:Item",
+        "ex:missive"
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "1544",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:modified": [
+        {
+            "@value": "15-Jan-20",
+            "is_public": true,
+            "property_id": 24,
+            "property_label": "Date Modified",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "金沢貞顕書状等写",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:age": [
+        {
+            "@value": "鎌倉時代後期",
+            "is_public": true,
+            "property_id": 214,
+            "property_label": "成立",
+            "type": "literal"
+        }
+    ],
+    "ex:deficit": [
+        {
+            "@value": "前後欠",
+            "is_public": true,
+            "property_id": 199,
+            "property_label": "欠損",
+            "type": "literal"
+        }
+    ],
+    "ex:figure": [
+        {
+            "@value": "竪紙",
+            "is_public": true,
+            "property_id": 202,
+            "property_label": "形状",
+            "type": "literal"
+        }
+    ],
+    "ex:ibun": [
+        {
+            "@value": "鎌31764",
+            "is_public": true,
+            "property_id": 210,
+            "property_label": "遺文",
+            "type": "literal"
+        }
+    ],
+    "ex:japaneseCalendarDate": [
+        {
+            "@value": "(正慶元年６月２３日他）",
+            "is_public": true,
+            "property_id": 211,
+            "property_label": "和暦年月日",
+            "type": "literal"
+        }
+    ],
+    "ex:kanagawakenshi": [
+        {
+            "@value": "3010",
+            "is_public": true,
+            "property_id": 208,
+            "property_label": "神奈川県史",
+            "type": "literal"
+        }
+    ],
+    "ex:kinbunbango": [
+        {
+            "@value": "5409",
+            "is_public": true,
+            "property_id": 207,
+            "property_label": "金文番号",
+            "type": "literal"
+        }
+    ],
+    "ex:medium": [
+        {
+            "@value": "楮紙",
+            "is_public": true,
+            "property_id": 203,
+            "property_label": "料紙",
+            "type": "literal"
+        }
+    ],
+    "ex:note": [
+        {
+            "@value": "3通の文書を1紙に写す。本文は『金文』未収/S1543「某置文案」と同筆。",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "付加情報",
+            "type": "literal"
+        }
+    ],
+    "ex:seiribango": [
+        {
+            "@value": "1544",
+            "is_public": true,
+            "property_id": 209,
+            "property_label": "整理番号",
+            "type": "literal"
+        }
+    ],
+    "ex:shihai": [
+        {
+            "@value": "なし",
+            "is_public": true,
+            "property_id": 200,
+            "property_label": "紙背",
+            "type": "literal"
+        }
+    ],
+    "ex:subject": [
+        {
+            "@value": "金沢貞顕書状等写",
+            "is_public": true,
+            "property_id": 205,
+            "property_label": "史料名",
+            "type": "literal"
+        }
+    ],
+    "ex:transcript": [
+        {
+            "@value": "（氏名未詳書状写）\r\n［　　］よりの御よろこひ、いつと申［　　］\r\n［　　］わたらせをはしまし候はん［　　］\r\n［　　］さかへ申つくし□（か）たく候、よも［　　］\r\n［　　］たゝゝおほしめす［　　］めてたき御［　　］\r\n［　　］んれうにすてに八旬にもみち候ぬ、\r\n［　　］みまいらせ候はんとて、いまゝて□ても\r\n［　　］の御文としの中に申いれ候、\r\n［　　］つほねにあつけをきて候へは、わす\r\n［　　］かへしたひて候つる、むかしのたひ\r\n［　　］とのこれへにて候しか、かたられ候しはこの御\r\nたうの御事、よもさをい（相違）候はし、又おほかたの\r\n［　　］も、ほかゝゝへにては候はし、\r\nこの御一もんの御かたゝゝ\r\n［　　］そ候はんすらんとて候し、わたくしふみをは\r\n［　　］へ候ては、かへしたひ候へ、さためてかみより申\r\n［　　］をはしまし候はんすらん、あなかしく、\r\n\r\n\r\n（金沢貞顕書状写）\r\n《前司忠随》\r\n常葉（相模国）の□慈院事、こしきふの大夫殿（北条時雄）の御はか\r\nも候へは、ときは（常葉）殿・にし御かと（西御門）殿の御文、如覚の\r\n□二通あいそへてまいらせ候、かまへて御興隆\r\n□（あ）るへく候、あなかしく\r\n　　正慶元年六月廿三日　　崇顕（金沢貞顕）御判\r\nほりのうち殿（堀内殿）へまいらせ候\r\n\r\n（金沢貞顕書状写）\r\n《［　　　］》\r\n□慈院の事、かやうにうけ給はり候、ことによろこひ\r\nおほえさせおはしまし候、労わつらはしく候て、物かき［　　］\r\n［　　］すから［　　］候程に、人して申候、心もとなくおほえ□\r\n□（あ）なかしく\r\n　　　　　　　　　　　　　　　　　　　　《表書》\r\n　　　　　　　　　　　　　　　　　　　　　そう［　　］（崇顕ヵ）\r\n\r\n\r",
+            "is_public": true,
+            "property_id": 218,
+            "property_label": "transcript",
+            "type": "literal"
+        }
+    ],
+    "ex:volume": [
+        {
+            "@value": "1通",
+            "is_public": true,
+            "property_id": 215,
+            "property_label": "紙数",
+            "type": "literal"
+        },
+        {
+            "@value": "1紙",
+            "is_public": true,
+            "property_id": 215,
+            "property_label": "紙数",
+            "type": "literal"
+        }
+    ],
+    "ex:yearCode": [
+        {
+            "@value": "13320060230",
+            "is_public": true,
+            "property_id": 213,
+            "property_label": "西暦コード",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2022-03-31T07:26:08+00:00"
+    },
+    "o:id": 795,
+    "o:is_public": true,
+    "o:item_set": [],
+    "o:media": [
+        {
+            "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/media/2662",
+            "o:id": 2662
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2022-05-30T02:04:49+00:00"
+    },
+    "o:owner": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/resource_classes/108",
+        "o:id": 108
+    },
+    "o:resource_template": null,
+    "o:site": [
+        {
+            "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/sites/1",
+            "o:id": 1
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "金沢貞顕書状等写",
+    "schema:url": [
+        {
+            "@value": "https://wwwap.hi.u-tokyo.ac.jp/sda/w21/20051125002031",
+            "is_public": true,
+            "property_id": 1459,
+            "property_label": "url",
+            "type": "literal"
+        }
+    ],
+    "thumbnail_display_urls": {
+        "large": "https://kanazawabunko-db.pen-kanagawa.ed.jp/files/large/79e04710183f3c73205e10aaddd76e3a1431ddc6.jpg",
+        "medium": "https://kanazawabunko-db.pen-kanagawa.ed.jp/files/medium/79e04710183f3c73205e10aaddd76e3a1431ddc6.jpg",
+        "square": "https://kanazawabunko-db.pen-kanagawa.ed.jp/files/square/79e04710183f3c73205e10aaddd76e3a1431ddc6.jpg"
+    }
+}

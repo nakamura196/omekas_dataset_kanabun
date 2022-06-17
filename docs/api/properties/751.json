@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/751",
+    "@type": "o:Property",
+    "o:comment": "An offering of the course at a specific time and place or through specific media or mode of study or to a specific section of students.",
+    "o:id": 751,
+    "o:label": "hasCourseInstance",
+    "o:local_name": "hasCourseInstance",
+    "o:term": "schema:hasCourseInstance",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

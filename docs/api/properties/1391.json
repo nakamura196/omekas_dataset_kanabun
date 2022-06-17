@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1391",
+    "@type": "o:Property",
+    "o:comment": "Characteristics of the population for which this is intended, or which typically uses it, e.g. 'adults'.",
+    "o:id": 1391,
+    "o:label": "targetPopulation",
+    "o:local_name": "targetPopulation",
+    "o:term": "schema:targetPopulation",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

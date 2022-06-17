@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/767",
+    "@type": "o:Property",
+    "o:comment": "Headline of the article.",
+    "o:id": 767,
+    "o:label": "headline",
+    "o:local_name": "headline",
+    "o:term": "schema:headline",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

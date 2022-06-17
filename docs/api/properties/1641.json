@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1641",
+    "@type": "o:Property",
+    "o:comment": "A material that something is made from, e.g. leather, wool, cotton, paper.",
+    "o:id": 1641,
+    "o:label": "material",
+    "o:local_name": "material",
+    "o:term": "schema:material",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

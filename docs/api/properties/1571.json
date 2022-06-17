@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1571",
+    "@type": "o:Property",
+    "o:comment": "Either the actual menu as a structured representation, as text, or a URL of the menu.",
+    "o:id": 1571,
+    "o:label": "hasMenu",
+    "o:local_name": "hasMenu",
+    "o:term": "schema:hasMenu",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

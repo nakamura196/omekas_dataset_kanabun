@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1208",
+    "@type": "o:Property",
+    "o:comment": "A refund type, from an enumerated list.",
+    "o:id": 1208,
+    "o:label": "refundType",
+    "o:local_name": "refundType",
+    "o:term": "schema:refundType",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

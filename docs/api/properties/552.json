@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/552",
+    "@type": "o:Property",
+    "o:comment": "The stop or station from which the bus departs.",
+    "o:id": 552,
+    "o:label": "departureBusStop",
+    "o:local_name": "departureBusStop",
+    "o:term": "schema:departureBusStop",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

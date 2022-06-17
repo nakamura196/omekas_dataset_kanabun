@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1568",
+    "@type": "o:Property",
+    "o:comment": "Indicates a BioChemEntity that (in some sense) has this BioChemEntity as a part. ",
+    "o:id": 1568,
+    "o:label": "hasBioChemEntityPart",
+    "o:local_name": "hasBioChemEntityPart",
+    "o:term": "schema:hasBioChemEntityPart",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

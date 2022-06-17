@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/556",
+    "@type": "o:Property",
+    "o:comment": "Identifier of the flight's departure terminal.",
+    "o:id": 556,
+    "o:label": "departureTerminal",
+    "o:local_name": "departureTerminal",
+    "o:term": "schema:departureTerminal",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

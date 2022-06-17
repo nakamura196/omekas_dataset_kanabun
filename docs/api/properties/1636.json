@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1636",
+    "@type": "o:Property",
+    "o:comment": "An associated [[Review]].",
+    "o:id": 1636,
+    "o:label": "associatedReview",
+    "o:local_name": "associatedReview",
+    "o:term": "schema:associatedReview",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1388",
+    "@type": "o:Property",
+    "o:comment": "The description of a node in an established educational framework.",
+    "o:id": 1388,
+    "o:label": "targetDescription",
+    "o:local_name": "targetDescription",
+    "o:term": "schema:targetDescription",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

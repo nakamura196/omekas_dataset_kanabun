@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/663",
+    "@type": "o:Property",
+    "o:comment": "A sub property of instrument. The exercise plan used on this action.",
+    "o:id": 663,
+    "o:label": "exercisePlan",
+    "o:local_name": "exercisePlan",
+    "o:term": "schema:exercisePlan",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

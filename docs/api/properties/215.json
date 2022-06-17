@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/215",
+    "@type": "o:Property",
+    "o:comment": null,
+    "o:id": 215,
+    "o:label": "紙数",
+    "o:local_name": "volume",
+    "o:term": "ex:volume",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/6",
+        "o:id": 6
+    }
+}

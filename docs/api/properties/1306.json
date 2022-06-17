@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1306",
+    "@type": "o:Property",
+    "o:comment": "The address for accessing the service by mail.",
+    "o:id": 1306,
+    "o:label": "servicePostalAddress",
+    "o:local_name": "servicePostalAddress",
+    "o:term": "schema:servicePostalAddress",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/241",
+    "@type": "o:Property",
+    "o:comment": "Specifies the Person that is legally accountable for the CreativeWork.",
+    "o:id": 241,
+    "o:label": "accountablePerson",
+    "o:local_name": "accountablePerson",
+    "o:term": "schema:accountablePerson",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

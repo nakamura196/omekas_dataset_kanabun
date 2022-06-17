@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1370",
+    "@type": "o:Property",
+    "o:comment": "The individual reservations included in the package. Typically a repeated property.",
+    "o:id": 1370,
+    "o:label": "subReservation",
+    "o:local_name": "subReservation",
+    "o:term": "schema:subReservation",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

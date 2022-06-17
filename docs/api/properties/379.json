@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/379",
+    "@type": "o:Property",
+    "o:comment": "The format of the book.",
+    "o:id": 379,
+    "o:label": "bookFormat",
+    "o:local_name": "bookFormat",
+    "o:term": "schema:bookFormat",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

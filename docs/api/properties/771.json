@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/771",
+    "@type": "o:Property",
+    "o:comment": "Whether The copay amount.",
+    "o:id": 771,
+    "o:label": "healthPlanCopay",
+    "o:local_name": "healthPlanCopay",
+    "o:term": "schema:healthPlanCopay",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

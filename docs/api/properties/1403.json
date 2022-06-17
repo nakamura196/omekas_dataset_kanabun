@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1403",
+    "@type": "o:Property",
+    "o:comment": "The textual content of this CreativeWork.",
+    "o:id": 1403,
+    "o:label": "text",
+    "o:local_name": "text",
+    "o:term": "schema:text",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

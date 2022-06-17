@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1602",
+    "@type": "o:Property",
+    "o:comment": "The BroadcastService offered on this channel.",
+    "o:id": 1602,
+    "o:label": "providesBroadcastService",
+    "o:local_name": "providesBroadcastService",
+    "o:term": "schema:providesBroadcastService",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

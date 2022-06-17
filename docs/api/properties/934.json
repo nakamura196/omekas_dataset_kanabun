@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/934",
+    "@type": "o:Property",
+    "o:comment": "Indicates the kind of Map, from the MapCategoryType Enumeration.",
+    "o:id": 934,
+    "o:label": "mapType",
+    "o:local_name": "mapType",
+    "o:term": "schema:mapType",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

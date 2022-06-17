@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/447",
+    "@type": "o:Property",
+    "o:comment": "The coding system, e.g. 'ICD-10'.",
+    "o:id": 447,
+    "o:label": "codingSystem",
+    "o:local_name": "codingSystem",
+    "o:term": "schema:codingSystem",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

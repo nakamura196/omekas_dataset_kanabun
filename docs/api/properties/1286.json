@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1286",
+    "@type": "o:Property",
+    "o:comment": "A season in a media series.",
+    "o:id": 1286,
+    "o:label": "seasons",
+    "o:local_name": "seasons",
+    "o:term": "schema:seasons",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

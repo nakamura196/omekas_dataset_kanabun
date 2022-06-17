@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1474",
+    "@type": "o:Property",
+    "o:comment": "Specifies the minimum allowed range for number of characters in a literal value.",
+    "o:id": 1474,
+    "o:label": "valueMinLength",
+    "o:local_name": "valueMinLength",
+    "o:term": "schema:valueMinLength",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

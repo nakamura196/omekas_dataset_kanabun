@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/551",
+    "@type": "o:Property",
+    "o:comment": "The terminal or port from which the boat departs.",
+    "o:id": 551,
+    "o:label": "departureBoatTerminal",
+    "o:local_name": "departureBoatTerminal",
+    "o:term": "schema:departureBoatTerminal",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

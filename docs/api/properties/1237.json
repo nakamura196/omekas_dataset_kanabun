@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1237",
+    "@type": "o:Property",
+    "o:comment": "The required quantity of the item(s).",
+    "o:id": 1237,
+    "o:label": "requiredQuantity",
+    "o:local_name": "requiredQuantity",
+    "o:term": "schema:requiredQuantity",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

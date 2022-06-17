@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1002",
+    "@type": "o:Property",
+    "o:comment": "A link to the ListItem that follows the current one.",
+    "o:id": 1002,
+    "o:label": "nextItem",
+    "o:local_name": "nextItem",
+    "o:term": "schema:nextItem",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

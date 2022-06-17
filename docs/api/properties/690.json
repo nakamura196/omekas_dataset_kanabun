@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/690",
+    "@type": "o:Property",
+    "o:comment": "A floor limit is the amount of money above which credit card transactions must be authorized.",
+    "o:id": 690,
+    "o:label": "floorLimit",
+    "o:local_name": "floorLimit",
+    "o:term": "schema:floorLimit",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

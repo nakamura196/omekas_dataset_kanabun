@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1009",
+    "@type": "o:Property",
+    "o:comment": "The number of adults staying in the unit.",
+    "o:id": 1009,
+    "o:label": "numAdults",
+    "o:local_name": "numAdults",
+    "o:term": "schema:numAdults",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

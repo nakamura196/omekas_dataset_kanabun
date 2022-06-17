@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1184",
+    "@type": "o:Property",
+    "o:comment": "Guidelines about quarantine rules, e.g. in the context of a pandemic.",
+    "o:id": 1184,
+    "o:label": "quarantineGuidelines",
+    "o:local_name": "quarantineGuidelines",
+    "o:term": "schema:quarantineGuidelines",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

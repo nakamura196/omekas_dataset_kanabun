@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1097",
+    "@type": "o:Property",
+    "o:comment": "Event that this person is a performer or participant in.",
+    "o:id": 1097,
+    "o:label": "performerIn",
+    "o:local_name": "performerIn",
+    "o:term": "schema:performerIn",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1151",
+    "@type": "o:Property",
+    "o:comment": "A description of the procedure involved in setting up, using, and/or installing the device.",
+    "o:id": 1151,
+    "o:label": "procedure",
+    "o:local_name": "procedure",
+    "o:term": "schema:procedure",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

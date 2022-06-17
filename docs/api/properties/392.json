@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/392",
+    "@type": "o:Property",
+    "o:comment": "The name displayed in the channel guide. For many US affiliates, it is the network name.",
+    "o:id": 392,
+    "o:label": "broadcastDisplayName",
+    "o:local_name": "broadcastDisplayName",
+    "o:term": "schema:broadcastDisplayName",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/72",
+    "@type": "o:Property",
+    "o:comment": "Owner of a document or a collection of documents.",
+    "o:id": 72,
+    "o:label": "owner",
+    "o:local_name": "owner",
+    "o:term": "bibo:owner",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/3",
+        "o:id": 3
+    }
+}

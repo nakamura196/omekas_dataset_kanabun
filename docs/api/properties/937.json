@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/937",
+    "@type": "o:Property",
+    "o:comment": "For a [[NewsMediaOrganization]], a link to the masthead page or a page listing top editorial management.",
+    "o:id": 937,
+    "o:label": "masthead",
+    "o:local_name": "masthead",
+    "o:term": "schema:masthead",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

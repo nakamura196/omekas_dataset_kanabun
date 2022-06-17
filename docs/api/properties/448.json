@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/448",
+    "@type": "o:Property",
+    "o:comment": "A colleague of the person.",
+    "o:id": 448,
+    "o:label": "colleagues",
+    "o:local_name": "colleagues",
+    "o:term": "schema:colleagues",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

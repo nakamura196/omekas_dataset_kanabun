@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1004",
+    "@type": "o:Property",
+    "o:comment": "This ordering relation for qualitative values indicates that the subject is not equal to the object.",
+    "o:id": 1004,
+    "o:label": "nonEqual",
+    "o:local_name": "nonEqual",
+    "o:term": "schema:nonEqual",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

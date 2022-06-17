@@ -1,0 +1,218 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/items/293",
+    "@type": [
+        "o:Item",
+        "ex:missive"
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "665",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:modified": [
+        {
+            "@value": "16-Mar-21",
+            "is_public": true,
+            "property_id": 24,
+            "property_label": "Date Modified",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "金沢貞顕書状",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:age": [
+        {
+            "@value": "鎌倉時代後期",
+            "is_public": true,
+            "property_id": 214,
+            "property_label": "成立",
+            "type": "literal"
+        }
+    ],
+    "ex:figure": [
+        {
+            "@value": "竪紙（本紙一、礼紙二）",
+            "is_public": true,
+            "property_id": 202,
+            "property_label": "形状",
+            "type": "literal"
+        }
+    ],
+    "ex:ibun": [
+        {
+            "@value": "鎌29255",
+            "is_public": true,
+            "property_id": 210,
+            "property_label": "遺文",
+            "type": "literal"
+        }
+    ],
+    "ex:japaneseCalendarYear": [
+        {
+            "@value": "正中２",
+            "is_public": true,
+            "property_id": 212,
+            "property_label": "和暦",
+            "type": "literal"
+        }
+    ],
+    "ex:kanagawakenshi": [
+        {
+            "@value": "2448",
+            "is_public": true,
+            "property_id": 208,
+            "property_label": "神奈川県史",
+            "type": "literal"
+        }
+    ],
+    "ex:kinbunbango": [
+        {
+            "@value": "368",
+            "is_public": true,
+            "property_id": 207,
+            "property_label": "金文番号",
+            "type": "literal"
+        }
+    ],
+    "ex:medium": [
+        {
+            "@value": "楮紙",
+            "is_public": true,
+            "property_id": 203,
+            "property_label": "料紙",
+            "type": "literal"
+        }
+    ],
+    "ex:note": [
+        {
+            "@value": "金沢貞顕自筆。",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "付加情報",
+            "type": "literal"
+        }
+    ],
+    "ex:seiribango": [
+        {
+            "@value": "665",
+            "is_public": true,
+            "property_id": 209,
+            "property_label": "整理番号",
+            "type": "literal"
+        }
+    ],
+    "ex:shihai": [
+        {
+            "@value": "（一）『甫文口伝抄』巻二第2紙、（二）『甫文口伝抄』巻二第3紙、（三）『甫文口伝抄』巻二第4紙",
+            "is_public": true,
+            "property_id": 200,
+            "property_label": "紙背",
+            "type": "literal"
+        }
+    ],
+    "ex:subject": [
+        {
+            "@value": "金沢貞顕書状",
+            "is_public": true,
+            "property_id": 205,
+            "property_label": "史料名",
+            "type": "literal"
+        }
+    ],
+    "ex:transcript": [
+        {
+            "@value": "太守（北条高時）御愛物〈常葉前（五大院宗繁妹）〉、今暁〈寅刻〉御産\r\n無為之上、男子（北条邦時）御誕生之際、天下大慶、\r\n家門繁昌嘉瑞候、千万幸甚々々候也、\r\n辰始刻に令参候了、以長崎新左衛門（高資）\r\n申入候之処、即若御前（北条邦時）御坐所《六間なる所》へ可参\r\n旨被申候之際、令同道、参候て奉見\r\n侯了、目出無申計候、御乳母いたき\r\nまいらせられ候、尼御乳母ふかさわ殿〈三郎左衛門入道（長崎思元）妻〉\r\n・工藤殿〈大膳大夫入道妻〉・美濃殿・播磨殿、其外若き\r\n女房一人祗候候つ、外二間所に兵庫\r\n頭入道候つるあひた、令賀申候了、こしよせ\r\nの二間所に大夫僧都貞昭候つるほとに同前、\r\n新左衛門（長崎高資）尉同前候き、\r\n\r\n其後参太守候て、謁長禅門（長崎高綱）賀申候、次\r\n太守御出之間、入見参候て、帰宅し候て、\r\n物をは進て候、御釼一柄〈左巻/菊作〉、鎧一領〈紅糸威〉、\r\n馬一疋〈栗毛糟毛置具揃〉、以貞季進候、貞匡（金沢）分野釼\r\n一腰〈左巻〉同進入候了、新左衛門尉（長崎高資）貞季に対面\r\n候て種々物給候、特悦入之由可申云々、\r\n諸人参事、相模左近大夫将監殿（北条泰家）・奥州（大仏維貞）\r\n相模新左近大夫将監等未明に参候云々、愚身\r\n退出之後進物候時、武州（赤橋守時）御参候之由、貞季\r\n語申候、\r\n進物事は左親衛（北条泰家）より御釼・御馬被進候\r\n外は、外さまの人は未進候歟、愚老\r\n参入之時は、若御前のかたわらに太刀\r\n五六はかり、ふたつけておかれて候き、\r\n長禅門（長崎高綱）のふるいのにてそ候らんと\r\n推量候、\r\n御辺よりの御使周防十郎左衛門尉にて\r\n候かしと、先日状に申て候へとも、便\r\n宜候はて、いまた不進候、今度進候、\r\n\r\n此上者自元用意候はむ御使そ、早々\r\nに下向も候はむすれは、いそき可被下候、\r\n進物は大刀・鎧はかりにて候へく候、鎧持\r\n下候はんもわつらひにて候はゝ、是に下品\r\nのは候へは、野釼はかりを下され候へく候、大刀は\r\nよく候へく候、\r\nこの事きかれて後に、しはらく候て、\r\n披露ならぬさきに、定きこしめされて\r\n候らめとも、とく北方（常葉範貞）并両使へは内々\r\n可被申候、これはわたくしならぬ事にて\r\n候へは、使者は過書を持ちてこそ下候\r\nはんすらめと存候、\r\n大方殿（北条貞時後家）はいまゝては御産所へ無御出\r\n候、只今可参賀之由思給候、\r\n城務（安達時顕）一門御産所にも太守にも不見候つ、\r\n不審候也、\r\n真乗院（顕助）への状一裹遣候、忩可被付遣候也、\r\nあなかしく、\r\n　　　　　　　　　　　　　　　　（正中二年）十一月廿二日",
+            "is_public": true,
+            "property_id": 218,
+            "property_label": "transcript",
+            "type": "literal"
+        }
+    ],
+    "ex:volume": [
+        {
+            "@value": "1通",
+            "is_public": true,
+            "property_id": 215,
+            "property_label": "紙数",
+            "type": "literal"
+        },
+        {
+            "@value": "3紙",
+            "is_public": true,
+            "property_id": 215,
+            "property_label": "紙数",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2022-03-31T07:24:51+00:00"
+    },
+    "o:id": 293,
+    "o:is_public": true,
+    "o:item_set": [],
+    "o:media": [
+        {
+            "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/media/1617",
+            "o:id": 1617
+        },
+        {
+            "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/media/1618",
+            "o:id": 1618
+        },
+        {
+            "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/media/1619",
+            "o:id": 1619
+        },
+        {
+            "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/media/1620",
+            "o:id": 1620
+        },
+        {
+            "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/media/1621",
+            "o:id": 1621
+        },
+        {
+            "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/media/1622",
+            "o:id": 1622
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2022-05-30T01:12:07+00:00"
+    },
+    "o:owner": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/resource_classes/108",
+        "o:id": 108
+    },
+    "o:resource_template": null,
+    "o:site": [
+        {
+            "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/sites/1",
+            "o:id": 1
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "金沢貞顕書状",
+    "thumbnail_display_urls": {
+        "large": "https://kanazawabunko-db.pen-kanagawa.ed.jp/files/large/6f3d4e423207f25cd283301381d526566befb89b.jpg",
+        "medium": "https://kanazawabunko-db.pen-kanagawa.ed.jp/files/medium/6f3d4e423207f25cd283301381d526566befb89b.jpg",
+        "square": "https://kanazawabunko-db.pen-kanagawa.ed.jp/files/square/6f3d4e423207f25cd283301381d526566befb89b.jpg"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1418",
+    "@type": "o:Property",
+    "o:comment": "A sub property of recipient. The recipient who was directly sent the message.",
+    "o:id": 1418,
+    "o:label": "toRecipient",
+    "o:local_name": "toRecipient",
+    "o:term": "schema:toRecipient",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

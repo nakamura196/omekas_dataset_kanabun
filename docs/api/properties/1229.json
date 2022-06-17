@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1229",
+    "@type": "o:Property",
+    "o:comment": "A sub property of object. The object that replaces.",
+    "o:id": 1229,
+    "o:label": "replacer",
+    "o:local_name": "replacer",
+    "o:term": "schema:replacer",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

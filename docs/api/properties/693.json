@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/693",
+    "@type": "o:Property",
+    "o:comment": "The most generic uni-directional social relation.",
+    "o:id": 693,
+    "o:label": "follows",
+    "o:local_name": "follows",
+    "o:term": "schema:follows",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

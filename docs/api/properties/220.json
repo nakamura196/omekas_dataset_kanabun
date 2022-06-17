@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/220",
+    "@type": "o:Property",
+    "o:comment": null,
+    "o:id": 220,
+    "o:label": "差出",
+    "o:local_name": "author",
+    "o:term": "ex:author",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/6",
+        "o:id": 6
+    }
+}

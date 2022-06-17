@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1095",
+    "@type": "o:Property",
+    "o:comment": "The 75th percentile value.",
+    "o:id": 1095,
+    "o:label": "percentile75",
+    "o:local_name": "percentile75",
+    "o:term": "schema:percentile75",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/803",
+    "@type": "o:Property",
+    "o:comment": "InChIKey is a hashed version of the full InChI (using the SHA-256 algorithm).",
+    "o:id": 803,
+    "o:label": "inChIKey",
+    "o:local_name": "inChIKey",
+    "o:term": "schema:inChIKey",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

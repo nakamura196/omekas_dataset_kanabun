@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/428",
+    "@type": "o:Property",
+    "o:comment": "The earliest someone may check into a lodging establishment.",
+    "o:id": 428,
+    "o:label": "checkinTime",
+    "o:local_name": "checkinTime",
+    "o:term": "schema:checkinTime",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/443",
+    "@type": "o:Property",
+    "o:comment": "A person that acts in a coaching role for a sports team.",
+    "o:id": 443,
+    "o:label": "coach",
+    "o:local_name": "coach",
+    "o:term": "schema:coach",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

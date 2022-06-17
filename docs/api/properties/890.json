@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/890",
+    "@type": "o:Property",
+    "o:comment": "A schematic image showing the floorplan layout.",
+    "o:id": 890,
+    "o:label": "layoutImage",
+    "o:local_name": "layoutImage",
+    "o:term": "schema:layoutImage",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/968",
+    "@type": "o:Property",
+    "o:comment": "Specifies a Web page or service by URL, for product returns.",
+    "o:id": 968,
+    "o:label": "merchantReturnLink",
+    "o:local_name": "merchantReturnLink",
+    "o:term": "schema:merchantReturnLink",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

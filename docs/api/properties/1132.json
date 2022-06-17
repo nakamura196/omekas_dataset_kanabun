@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1132",
+    "@type": "o:Property",
+    "o:comment": "Typical preparation that a patient must undergo before having the procedure performed.",
+    "o:id": 1132,
+    "o:label": "preparation",
+    "o:local_name": "preparation",
+    "o:term": "schema:preparation",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

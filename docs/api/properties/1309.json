@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1309",
+    "@type": "o:Property",
+    "o:comment": "The website to access the service.",
+    "o:id": 1309,
+    "o:label": "serviceUrl",
+    "o:local_name": "serviceUrl",
+    "o:term": "schema:serviceUrl",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

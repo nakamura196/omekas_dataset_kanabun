@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1308",
+    "@type": "o:Property",
+    "o:comment": "The type of service being offered, e.g. veterans' benefits, emergency relief, etc.",
+    "o:id": 1308,
+    "o:label": "serviceType",
+    "o:local_name": "serviceType",
+    "o:term": "schema:serviceType",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

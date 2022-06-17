@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/562",
+    "@type": "o:Property",
+    "o:comment": "An image containing a diagram that illustrates the structure and/or its component substructures and/or connections with other structures.",
+    "o:id": 562,
+    "o:label": "diagram",
+    "o:local_name": "diagram",
+    "o:term": "schema:diagram",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

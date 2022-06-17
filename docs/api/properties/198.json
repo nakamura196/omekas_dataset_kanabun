@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/198",
+    "@type": "o:Property",
+    "o:comment": null,
+    "o:id": 198,
+    "o:label": "備考",
+    "o:local_name": "remark",
+    "o:term": "ex:remark",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/6",
+        "o:id": 6
+    }
+}

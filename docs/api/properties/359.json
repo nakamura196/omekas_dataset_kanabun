@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/359",
+    "@type": "o:Property",
+    "o:comment": "The highest value allowed in this rating system. If bestRating is omitted, 5 is assumed.",
+    "o:id": 359,
+    "o:label": "bestRating",
+    "o:local_name": "bestRating",
+    "o:term": "schema:bestRating",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

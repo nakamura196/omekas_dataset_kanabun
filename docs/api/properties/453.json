@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/453",
+    "@type": "o:Property",
+    "o:comment": "Comments, typically from users.",
+    "o:id": 453,
+    "o:label": "comment",
+    "o:local_name": "comment",
+    "o:term": "schema:comment",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1077",
+    "@type": "o:Property",
+    "o:comment": "The season to which this episode belongs.",
+    "o:id": 1077,
+    "o:label": "partOfSeason",
+    "o:local_name": "partOfSeason",
+    "o:term": "schema:partOfSeason",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/850",
+    "@type": "o:Property",
+    "o:comment": "A pointer to another, somehow related product (or multiple products).",
+    "o:id": 850,
+    "o:label": "isRelatedTo",
+    "o:local_name": "isRelatedTo",
+    "o:term": "schema:isRelatedTo",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

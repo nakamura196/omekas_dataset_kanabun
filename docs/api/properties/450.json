@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/450",
+    "@type": "o:Property",
+    "o:comment": "The number of items in the [[Collection]].",
+    "o:id": 450,
+    "o:label": "collectionSize",
+    "o:local_name": "collectionSize",
+    "o:term": "schema:collectionSize",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

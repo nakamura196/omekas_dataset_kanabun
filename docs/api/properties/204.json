@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/204",
+    "@type": "o:Property",
+    "o:comment": null,
+    "o:id": 204,
+    "o:label": "法量",
+    "o:local_name": "size",
+    "o:term": "ex:size",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/6",
+        "o:id": 6
+    }
+}

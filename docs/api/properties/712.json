@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/712",
+    "@type": "o:Property",
+    "o:comment": "An item is an object within the game world that can be collected by a player or, occasionally, a non-player character.",
+    "o:id": 712,
+    "o:label": "gameItem",
+    "o:local_name": "gameItem",
+    "o:term": "schema:gameItem",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/744",
+    "@type": "o:Property",
+    "o:comment": "Date on which this guideline's recommendation was made.",
+    "o:id": 744,
+    "o:label": "guidelineDate",
+    "o:local_name": "guidelineDate",
+    "o:term": "schema:guidelineDate",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

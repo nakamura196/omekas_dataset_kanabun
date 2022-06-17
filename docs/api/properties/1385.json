@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1385",
+    "@type": "o:Property",
+    "o:comment": "Supporting data for a SoftwareApplication.",
+    "o:id": 1385,
+    "o:label": "supportingData",
+    "o:local_name": "supportingData",
+    "o:term": "schema:supportingData",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1014",
+    "@type": "o:Property",
+    "o:comment": "The number or type of airbags in the vehicle.",
+    "o:id": 1014,
+    "o:label": "numberOfAirbags",
+    "o:local_name": "numberOfAirbags",
+    "o:term": "schema:numberOfAirbags",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

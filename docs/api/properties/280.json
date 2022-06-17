@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/280",
+    "@type": "o:Property",
+    "o:comment": "Another gene which is a variation of this one.",
+    "o:id": 280,
+    "o:label": "alternativeOf",
+    "o:local_name": "alternativeOf",
+    "o:term": "schema:alternativeOf",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

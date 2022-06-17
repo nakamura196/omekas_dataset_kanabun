@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1492",
+    "@type": "o:Property",
+    "o:comment": "'vendor' is an earlier term for 'seller'.",
+    "o:id": 1492,
+    "o:label": "vendor",
+    "o:local_name": "vendor",
+    "o:term": "schema:vendor",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

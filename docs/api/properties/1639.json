@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1639",
+    "@type": "o:Property",
+    "o:comment": "A media object that encodes this CreativeWork. This property is a synonym for associatedMedia.",
+    "o:id": 1639,
+    "o:label": "encoding",
+    "o:local_name": "encoding",
+    "o:term": "schema:encoding",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

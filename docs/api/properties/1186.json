@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1186",
+    "@type": "o:Property",
+    "o:comment": "The task that a player-controlled character, or group of characters may complete in order to gain a reward.",
+    "o:id": 1186,
+    "o:label": "quest",
+    "o:local_name": "quest",
+    "o:term": "schema:quest",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/506",
+    "@type": "o:Property",
+    "o:comment": "The current price of a currency.",
+    "o:id": 506,
+    "o:label": "currentExchangeRate",
+    "o:local_name": "currentExchangeRate",
+    "o:term": "schema:currentExchangeRate",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

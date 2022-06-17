@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/684",
+    "@type": "o:Property",
+    "o:comment": "A financial aid type or program which students may use to pay for tuition or fees associated with the program.",
+    "o:id": 684,
+    "o:label": "financialAidEligible",
+    "o:local_name": "financialAidEligible",
+    "o:term": "schema:financialAidEligible",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

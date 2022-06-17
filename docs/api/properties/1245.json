@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1245",
+    "@type": "o:Property",
+    "o:comment": "How often one should break from the activity.",
+    "o:id": 1245,
+    "o:label": "restPeriods",
+    "o:local_name": "restPeriods",
+    "o:term": "schema:restPeriods",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

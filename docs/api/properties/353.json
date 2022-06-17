@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/353",
+    "@type": "o:Property",
+    "o:comment": "A sub property of recipient. The recipient blind copied on a message.",
+    "o:id": 353,
+    "o:label": "bccRecipient",
+    "o:local_name": "bccRecipient",
+    "o:term": "schema:bccRecipient",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

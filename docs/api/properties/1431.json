@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1431",
+    "@type": "o:Property",
+    "o:comment": "Tracking url for the parcel delivery.",
+    "o:id": 1431,
+    "o:label": "trackingUrl",
+    "o:local_name": "trackingUrl",
+    "o:term": "schema:trackingUrl",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1028",
+    "@type": "o:Property",
+    "o:comment": "The number of pages in the book.",
+    "o:id": 1028,
+    "o:label": "numberOfPages",
+    "o:local_name": "numberOfPages",
+    "o:term": "schema:numberOfPages",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

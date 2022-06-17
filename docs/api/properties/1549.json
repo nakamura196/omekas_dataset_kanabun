@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1549",
+    "@type": "o:Property",
+    "o:comment": "The date on which the CreativeWork was created or the item was added to a DataFeed.",
+    "o:id": 1549,
+    "o:label": "dateCreated",
+    "o:local_name": "dateCreated",
+    "o:term": "schema:dateCreated",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

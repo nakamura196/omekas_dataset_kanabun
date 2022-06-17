@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/664",
+    "@type": "o:Property",
+    "o:comment": "A sub property of instrument. The diet used in this action.",
+    "o:id": 664,
+    "o:label": "exerciseRelatedDiet",
+    "o:local_name": "exerciseRelatedDiet",
+    "o:term": "schema:exerciseRelatedDiet",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

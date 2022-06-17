@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1241",
+    "@type": "o:Property",
+    "o:comment": "A unique identifier for the reservation.",
+    "o:id": 1241,
+    "o:label": "reservationId",
+    "o:local_name": "reservationId",
+    "o:term": "schema:reservationId",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/561",
+    "@type": "o:Property",
+    "o:comment": "One or more alternative conditions considered in the differential diagnosis process as output of a diagnosis process.",
+    "o:id": 561,
+    "o:label": "diagnosis",
+    "o:local_name": "diagnosis",
+    "o:term": "schema:diagnosis",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

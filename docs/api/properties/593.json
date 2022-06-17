@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/593",
+    "@type": "o:Property",
+    "o:comment": "The number of downvotes this question, answer or comment has received from the community.",
+    "o:id": 593,
+    "o:label": "downvoteCount",
+    "o:local_name": "downvoteCount",
+    "o:term": "schema:downvoteCount",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

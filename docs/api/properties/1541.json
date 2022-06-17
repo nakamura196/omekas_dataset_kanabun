@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1541",
+    "@type": "o:Property",
+    "o:comment": "What type of code sample: full (compile ready) solution, code snippet, inline code, scripts, template.",
+    "o:id": 1541,
+    "o:label": "codeSampleType",
+    "o:local_name": "codeSampleType",
+    "o:term": "schema:codeSampleType",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

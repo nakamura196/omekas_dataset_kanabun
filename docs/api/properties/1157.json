@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1157",
+    "@type": "o:Property",
+    "o:comment": "Indicates a textual identifier for a ProductGroup.",
+    "o:id": 1157,
+    "o:label": "productGroupID",
+    "o:local_name": "productGroupID",
+    "o:term": "schema:productGroupID",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

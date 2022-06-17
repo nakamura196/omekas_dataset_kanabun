@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1535",
+    "@type": "o:Property",
+    "o:comment": "A posting that is part of this blog.",
+    "o:id": 1535,
+    "o:label": "blogPost",
+    "o:local_name": "blogPost",
+    "o:term": "schema:blogPost",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

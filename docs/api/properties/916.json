@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/916",
+    "@type": "o:Property",
+    "o:comment": "Amount of mortgage mandate that can be converted into a proper mortgage at a later stage.",
+    "o:id": 916,
+    "o:label": "loanMortgageMandateAmount",
+    "o:local_name": "loanMortgageMandateAmount",
+    "o:term": "schema:loanMortgageMandateAmount",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

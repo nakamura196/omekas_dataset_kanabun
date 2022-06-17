@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/818",
+    "@type": "o:Property",
+    "o:comment": "The condition, complication, etc. influenced by this factor.",
+    "o:id": 818,
+    "o:label": "increasesRiskOf",
+    "o:local_name": "increasesRiskOf",
+    "o:term": "schema:increasesRiskOf",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

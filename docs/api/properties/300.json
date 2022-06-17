@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/300",
+    "@type": "o:Property",
+    "o:comment": "The delivery method(s) to which the delivery charge or payment charge specification applies.",
+    "o:id": 300,
+    "o:label": "appliesToDeliveryMethod",
+    "o:local_name": "appliesToDeliveryMethod",
+    "o:term": "schema:appliesToDeliveryMethod",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

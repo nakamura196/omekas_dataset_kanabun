@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1183",
+    "@type": "o:Property",
+    "o:comment": "Specific qualifications required for this role or Occupation.",
+    "o:id": 1183,
+    "o:label": "qualifications",
+    "o:local_name": "qualifications",
+    "o:term": "schema:qualifications",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

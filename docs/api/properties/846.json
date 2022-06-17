@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/846",
+    "@type": "o:Property",
+    "o:comment": "True if the broadcast is of a live event.",
+    "o:id": 846,
+    "o:label": "isLiveBroadcast",
+    "o:local_name": "isLiveBroadcast",
+    "o:term": "schema:isLiveBroadcast",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

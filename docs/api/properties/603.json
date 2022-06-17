@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/603",
+    "@type": "o:Property",
+    "o:comment": "The duration of the warranty promise. Common unitCode values are ANN for year, MON for months, or DAY for days.",
+    "o:id": 603,
+    "o:label": "durationOfWarranty",
+    "o:local_name": "durationOfWarranty",
+    "o:term": "schema:durationOfWarranty",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

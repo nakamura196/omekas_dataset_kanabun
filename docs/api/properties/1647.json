@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1647",
+    "@type": "o:Property",
+    "o:comment": "A single step item (as HowToStep, text, document, video, etc.) or a HowToSection.",
+    "o:id": 1647,
+    "o:label": "step",
+    "o:local_name": "step",
+    "o:term": "schema:step",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1328",
+    "@type": "o:Property",
+    "o:comment": "A slogan or motto associated with the item.",
+    "o:id": 1328,
+    "o:label": "slogan",
+    "o:local_name": "slogan",
+    "o:term": "schema:slogan",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

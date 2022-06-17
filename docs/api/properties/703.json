@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/703",
+    "@type": "o:Property",
+    "o:comment": "A sub property of location. The original location of the object or the agent before the action.",
+    "o:id": 703,
+    "o:label": "fromLocation",
+    "o:local_name": "fromLocation",
+    "o:term": "schema:fromLocation",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

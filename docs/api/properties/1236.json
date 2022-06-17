@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1236",
+    "@type": "o:Property",
+    "o:comment": "Audiences defined by a person's minimum age.",
+    "o:id": 1236,
+    "o:label": "requiredMinAge",
+    "o:local_name": "requiredMinAge",
+    "o:term": "schema:requiredMinAge",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

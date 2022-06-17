@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/358",
+    "@type": "o:Property",
+    "o:comment": "The URL that goes directly to the summary of benefits and coverage for the specific standard plan or plan variation.",
+    "o:id": 358,
+    "o:label": "benefitsSummaryUrl",
+    "o:local_name": "benefitsSummaryUrl",
+    "o:term": "schema:benefitsSummaryUrl",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

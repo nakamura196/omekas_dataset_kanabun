@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1522",
+    "@type": "o:Property",
+    "o:comment": "An application that can complete the request.",
+    "o:id": 1522,
+    "o:label": "actionApplication",
+    "o:local_name": "actionApplication",
+    "o:term": "schema:actionApplication",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

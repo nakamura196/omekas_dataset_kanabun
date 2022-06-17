@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1212",
+    "@type": "o:Property",
+    "o:comment": "A medical condition associated with this anatomy.",
+    "o:id": 1212,
+    "o:label": "relatedCondition",
+    "o:local_name": "relatedCondition",
+    "o:term": "schema:relatedCondition",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

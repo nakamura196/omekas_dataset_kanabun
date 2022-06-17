@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/427",
+    "@type": "o:Property",
+    "o:comment": "Cheat codes to the game.",
+    "o:id": 427,
+    "o:label": "cheatCode",
+    "o:local_name": "cheatCode",
+    "o:term": "schema:cheatCode",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/187",
+    "@type": "o:Property",
+    "o:comment": "Define the resource as a restricted access one as soon a value is set, whatever it is.",
+    "o:id": 187,
+    "o:label": "Reserved",
+    "o:local_name": "reserved",
+    "o:term": "curation:reserved",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/5",
+        "o:id": 5
+    }
+}

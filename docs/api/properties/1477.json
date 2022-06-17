@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1477",
+    "@type": "o:Property",
+    "o:comment": "A secondary value that provides additional information on the original value, e.g. a reference temperature or a type of measurement.",
+    "o:id": 1477,
+    "o:label": "valueReference",
+    "o:local_name": "valueReference",
+    "o:term": "schema:valueReference",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

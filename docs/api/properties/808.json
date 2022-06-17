@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/808",
+    "@type": "o:Property",
+    "o:comment": "Qualification, candidature, degree, application that Thesis supports.",
+    "o:id": 808,
+    "o:label": "inSupportOf",
+    "o:local_name": "inSupportOf",
+    "o:term": "schema:inSupportOf",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

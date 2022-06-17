@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1280",
+    "@type": "o:Property",
+    "o:comment": "The number of screens in the movie theater.",
+    "o:id": 1280,
+    "o:label": "screenCount",
+    "o:local_name": "screenCount",
+    "o:term": "schema:screenCount",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

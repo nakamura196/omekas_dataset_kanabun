@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/98",
+    "@type": "o:Property",
+    "o:comment": null,
+    "o:id": 98,
+    "o:label": "identifier",
+    "o:local_name": "identifier",
+    "o:term": "bibo:identifier",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/3",
+        "o:id": 3
+    }
+}

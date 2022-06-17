@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1657",
+    "@type": "o:Property",
+    "o:comment": "A description of the item.",
+    "o:id": 1657,
+    "o:label": "description",
+    "o:local_name": "description",
+    "o:term": "schema:description",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

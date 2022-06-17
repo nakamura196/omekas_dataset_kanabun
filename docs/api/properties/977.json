@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/977",
+    "@type": "o:Property",
+    "o:comment": "The date and time the reservation was modified.",
+    "o:id": 977,
+    "o:label": "modifiedTime",
+    "o:local_name": "modifiedTime",
+    "o:term": "schema:modifiedTime",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

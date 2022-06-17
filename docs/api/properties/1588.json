@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1588",
+    "@type": "o:Property",
+    "o:comment": "Indicates the primary entity described in some page or other CreativeWork.",
+    "o:id": 1588,
+    "o:label": "mainEntity",
+    "o:local_name": "mainEntity",
+    "o:term": "schema:mainEntity",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

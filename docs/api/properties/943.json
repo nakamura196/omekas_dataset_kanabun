@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/943",
+    "@type": "o:Property",
+    "o:comment": "The maximum number of students who may be enrolled in the program.",
+    "o:id": 943,
+    "o:label": "maximumEnrollment",
+    "o:local_name": "maximumEnrollment",
+    "o:term": "schema:maximumEnrollment",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

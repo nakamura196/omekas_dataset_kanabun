@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1276",
+    "@type": "o:Property",
+    "o:comment": "The date the invoice is scheduled to be paid.",
+    "o:id": 1276,
+    "o:label": "scheduledPaymentDate",
+    "o:local_name": "scheduledPaymentDate",
+    "o:term": "schema:scheduledPaymentDate",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

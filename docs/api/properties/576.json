@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/576",
+    "@type": "o:Property",
+    "o:comment": "The date that this organization was dissolved.",
+    "o:id": 576,
+    "o:label": "dissolutionDate",
+    "o:local_name": "dissolutionDate",
+    "o:term": "schema:dissolutionDate",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

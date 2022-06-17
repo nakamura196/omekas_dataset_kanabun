@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/922",
+    "@type": "o:Property",
+    "o:comment": "The location where the CreativeWork was created, which may not be the same as the location depicted in the CreativeWork.",
+    "o:id": 922,
+    "o:label": "locationCreated",
+    "o:local_name": "locationCreated",
+    "o:term": "schema:locationCreated",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

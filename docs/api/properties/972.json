@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/972",
+    "@type": "o:Property",
+    "o:comment": "The lower value of some characteristic or property.",
+    "o:id": 972,
+    "o:label": "minValue",
+    "o:local_name": "minValue",
+    "o:term": "schema:minValue",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

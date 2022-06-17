@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/508",
+    "@type": "o:Property",
+    "o:comment": "The type of return fees if the product is returned due to customer remorse.",
+    "o:id": 508,
+    "o:label": "customerRemorseReturnFees",
+    "o:local_name": "customerRemorseReturnFees",
+    "o:term": "schema:customerRemorseReturnFees",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

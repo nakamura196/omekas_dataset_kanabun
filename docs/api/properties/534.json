@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/534",
+    "@type": "o:Property",
+    "o:comment": "Date of first broadcast/publication.",
+    "o:id": 534,
+    "o:label": "datePublished",
+    "o:local_name": "datePublished",
+    "o:term": "schema:datePublished",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

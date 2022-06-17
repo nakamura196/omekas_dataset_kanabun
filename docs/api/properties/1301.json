@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1301",
+    "@type": "o:Property",
+    "o:comment": "The cuisine of the restaurant.",
+    "o:id": 1301,
+    "o:label": "servesCuisine",
+    "o:local_name": "servesCuisine",
+    "o:term": "schema:servesCuisine",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/380",
+    "@type": "o:Property",
+    "o:comment": "'bookingAgent' is an out-dated term indicating a 'broker' that serves as a booking agent.",
+    "o:id": 380,
+    "o:label": "bookingAgent",
+    "o:local_name": "bookingAgent",
+    "o:term": "schema:bookingAgent",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1456",
+    "@type": "o:Property",
+    "o:comment": "The number of grams of unsaturated fat.",
+    "o:id": 1456,
+    "o:label": "unsaturatedFatContent",
+    "o:local_name": "unsaturatedFatContent",
+    "o:term": "schema:unsaturatedFatContent",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

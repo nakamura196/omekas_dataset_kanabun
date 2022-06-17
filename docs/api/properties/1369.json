@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1369",
+    "@type": "o:Property",
+    "o:comment": "Events that are a part of this event. For example, a conference event includes many presentations, each subEvents of the conference.",
+    "o:id": 1369,
+    "o:label": "subEvents",
+    "o:local_name": "subEvents",
+    "o:term": "schema:subEvents",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

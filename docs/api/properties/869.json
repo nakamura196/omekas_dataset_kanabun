@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/869",
+    "@type": "o:Property",
+    "o:comment": "Type of ordering (e.g. Ascending, Descending, Unordered).",
+    "o:id": 869,
+    "o:label": "itemListOrder",
+    "o:local_name": "itemListOrder",
+    "o:term": "schema:itemListOrder",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

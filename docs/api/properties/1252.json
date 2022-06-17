@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1252",
+    "@type": "o:Property",
+    "o:comment": "Specifies an applicable return policy (from an enumeration).",
+    "o:id": 1252,
+    "o:label": "returnPolicyCategory",
+    "o:local_name": "returnPolicyCategory",
+    "o:term": "schema:returnPolicyCategory",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

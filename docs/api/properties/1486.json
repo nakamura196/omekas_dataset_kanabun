@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1486",
+    "@type": "o:Property",
+    "o:comment": "The color or color combination of the interior of the vehicle.",
+    "o:id": 1486,
+    "o:label": "vehicleInteriorColor",
+    "o:local_name": "vehicleInteriorColor",
+    "o:term": "schema:vehicleInteriorColor",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

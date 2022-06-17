@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1127",
+    "@type": "o:Property",
+    "o:comment": "A description of the workup, testing, and other preparations required before implanting this device.",
+    "o:id": 1127,
+    "o:label": "preOp",
+    "o:local_name": "preOp",
+    "o:term": "schema:preOp",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

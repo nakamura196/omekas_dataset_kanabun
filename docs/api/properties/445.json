@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/445",
+    "@type": "o:Property",
+    "o:comment": "Link to the repository where the un-compiled, human readable code and related code is located (SVN, github, CodePlex).",
+    "o:id": 445,
+    "o:label": "codeRepository",
+    "o:local_name": "codeRepository",
+    "o:term": "schema:codeRepository",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

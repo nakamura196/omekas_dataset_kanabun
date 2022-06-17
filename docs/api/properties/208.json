@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/208",
+    "@type": "o:Property",
+    "o:comment": null,
+    "o:id": 208,
+    "o:label": "神奈川県史",
+    "o:local_name": "kanagawakenshi",
+    "o:term": "ex:kanagawakenshi",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/6",
+        "o:id": 6
+    }
+}

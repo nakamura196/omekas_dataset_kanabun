@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/774",
+    "@type": "o:Property",
+    "o:comment": "TODO.",
+    "o:id": 774,
+    "o:label": "healthPlanDrugOption",
+    "o:local_name": "healthPlanDrugOption",
+    "o:term": "schema:healthPlanDrugOption",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1119",
+    "@type": "o:Property",
+    "o:comment": "A description of the postoperative procedures, care, and/or followups for this device.",
+    "o:id": 1119,
+    "o:label": "postOp",
+    "o:local_name": "postOp",
+    "o:term": "schema:postOp",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

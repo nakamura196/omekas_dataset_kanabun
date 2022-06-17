@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/653",
+    "@type": "o:Property",
+    "o:comment": "The condition, complication, or symptom whose risk is being estimated.",
+    "o:id": 653,
+    "o:label": "estimatesRiskOf",
+    "o:local_name": "estimatesRiskOf",
+    "o:term": "schema:estimatesRiskOf",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

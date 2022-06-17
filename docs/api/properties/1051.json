@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1051",
+    "@type": "o:Property",
+    "o:comment": "The delivery of the parcel related to this order or order item.",
+    "o:id": 1051,
+    "o:label": "orderDelivery",
+    "o:local_name": "orderDelivery",
+    "o:term": "schema:orderDelivery",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

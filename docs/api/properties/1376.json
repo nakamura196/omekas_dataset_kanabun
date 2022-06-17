@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1376",
+    "@type": "o:Property",
+    "o:comment": "The number of grams of sugar.",
+    "o:id": 1376,
+    "o:label": "sugarContent",
+    "o:local_name": "sugarContent",
+    "o:term": "schema:sugarContent",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

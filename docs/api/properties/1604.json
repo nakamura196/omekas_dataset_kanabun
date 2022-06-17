@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1604",
+    "@type": "o:Property",
+    "o:comment": "An audio recording of the work.",
+    "o:id": 1604,
+    "o:label": "recordedAs",
+    "o:local_name": "recordedAs",
+    "o:term": "schema:recordedAs",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

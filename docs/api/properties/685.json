@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/685",
+    "@type": "o:Property",
+    "o:comment": "Indicates the first known occurence of a [[Claim]] in some [[CreativeWork]].",
+    "o:id": 685,
+    "o:label": "firstAppearance",
+    "o:local_name": "firstAppearance",
+    "o:term": "schema:firstAppearance",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

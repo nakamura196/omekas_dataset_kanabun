@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/136",
+    "@type": "o:Property",
+    "o:comment": "A Yahoo chat ID",
+    "o:id": 136,
+    "o:label": "Yahoo chat ID",
+    "o:local_name": "yahooChatID",
+    "o:term": "foaf:yahooChatID",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/4",
+        "o:id": 4
+    }
+}

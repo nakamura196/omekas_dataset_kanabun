@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1599",
+    "@type": "o:Property",
+    "o:comment": "A performer at the event&#x2014;for example, a presenter, musician, musical group or actor.",
+    "o:id": 1599,
+    "o:label": "performer",
+    "o:local_name": "performer",
+    "o:term": "schema:performer",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

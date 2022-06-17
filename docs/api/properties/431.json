@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/431",
+    "@type": "o:Property",
+    "o:comment": "A role played by the BioChemEntity within a chemical context.",
+    "o:id": 431,
+    "o:label": "chemicalRole",
+    "o:local_name": "chemicalRole",
+    "o:term": "schema:chemicalRole",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

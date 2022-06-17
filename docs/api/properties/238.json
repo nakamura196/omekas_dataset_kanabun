@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/238",
+    "@type": "o:Property",
+    "o:comment": "The identifier for the account the payment will be applied to.",
+    "o:id": 238,
+    "o:label": "accountId",
+    "o:local_name": "accountId",
+    "o:term": "schema:accountId",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

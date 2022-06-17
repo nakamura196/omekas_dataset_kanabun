@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/791",
+    "@type": "o:Property",
+    "o:comment": "The hours during which this service or contact is available.",
+    "o:id": 791,
+    "o:label": "hoursAvailable",
+    "o:local_name": "hoursAvailable",
+    "o:term": "schema:hoursAvailable",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

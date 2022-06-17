@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/239",
+    "@type": "o:Property",
+    "o:comment": "A minimum amount that has to be paid in every month.",
+    "o:id": 239,
+    "o:label": "accountMinimumInflow",
+    "o:local_name": "accountMinimumInflow",
+    "o:term": "schema:accountMinimumInflow",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

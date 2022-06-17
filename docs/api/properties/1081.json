@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1081",
+    "@type": "o:Property",
+    "o:comment": "The priority status assigned to a passenger for security or boarding (e.g. FastTrack or Priority).",
+    "o:id": 1081,
+    "o:label": "passengerPriorityStatus",
+    "o:local_name": "passengerPriorityStatus",
+    "o:term": "schema:passengerPriorityStatus",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

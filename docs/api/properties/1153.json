@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1153",
+    "@type": "o:Property",
+    "o:comment": "Estimated processing time for the service using this channel.",
+    "o:id": 1153,
+    "o:label": "processingTime",
+    "o:local_name": "processingTime",
+    "o:term": "schema:processingTime",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

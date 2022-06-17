@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/275",
+    "@type": "o:Property",
+    "o:comment": "Any precaution, guidance, contraindication, etc. related to consumption of alcohol while taking this drug.",
+    "o:id": 275,
+    "o:label": "alcoholWarning",
+    "o:local_name": "alcoholWarning",
+    "o:term": "schema:alcoholWarning",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

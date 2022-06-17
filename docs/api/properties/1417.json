@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1417",
+    "@type": "o:Property",
+    "o:comment": "A sub property of location. The final location of the object or the agent after the action.",
+    "o:id": 1417,
+    "o:label": "toLocation",
+    "o:local_name": "toLocation",
+    "o:term": "schema:toLocation",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

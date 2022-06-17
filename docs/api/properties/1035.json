@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1035",
+    "@type": "o:Property",
+    "o:comment": "Nutrition information about the recipe or menu item.",
+    "o:id": 1035,
+    "o:label": "nutrition",
+    "o:local_name": "nutrition",
+    "o:term": "schema:nutrition",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

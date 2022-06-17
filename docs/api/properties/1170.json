@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1170",
+    "@type": "o:Property",
+    "o:comment": "Proprietary name given to the diet plan, typically by its originator or creator.",
+    "o:id": 1170,
+    "o:label": "proprietaryName",
+    "o:local_name": "proprietaryName",
+    "o:term": "schema:proprietaryName",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

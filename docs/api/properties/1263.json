@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1263",
+    "@type": "o:Property",
+    "o:comment": "Specific physiologic risks associated to the diet plan.",
+    "o:id": 1263,
+    "o:label": "risks",
+    "o:local_name": "risks",
+    "o:term": "schema:risks",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

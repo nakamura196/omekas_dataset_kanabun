@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/169",
+    "@type": "o:Property",
+    "o:comment": "A logo representing some thing.",
+    "o:id": 169,
+    "o:label": "logo",
+    "o:local_name": "logo",
+    "o:term": "foaf:logo",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/4",
+        "o:id": 4
+    }
+}

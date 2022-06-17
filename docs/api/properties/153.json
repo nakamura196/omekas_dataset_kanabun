@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/153",
+    "@type": "o:Property",
+    "o:comment": "An agent that  made this thing.",
+    "o:id": 153,
+    "o:label": "maker",
+    "o:local_name": "maker",
+    "o:term": "foaf:maker",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/4",
+        "o:id": 4
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/308",
+    "@type": "o:Property",
+    "o:comment": "The platform where the train arrives.",
+    "o:id": 308,
+    "o:label": "arrivalPlatform",
+    "o:local_name": "arrivalPlatform",
+    "o:term": "schema:arrivalPlatform",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

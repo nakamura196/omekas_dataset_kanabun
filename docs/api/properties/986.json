@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/986",
+    "@type": "o:Property",
+    "o:comment": "An arrangement derived from the composition.",
+    "o:id": 986,
+    "o:label": "musicArrangement",
+    "o:local_name": "musicArrangement",
+    "o:term": "schema:musicArrangement",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

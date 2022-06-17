@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1642",
+    "@type": "o:Property",
+    "o:comment": "An Organization (or ProgramMembership) to which this Person or Organization belongs.",
+    "o:id": 1642,
+    "o:label": "memberOf",
+    "o:local_name": "memberOf",
+    "o:term": "schema:memberOf",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

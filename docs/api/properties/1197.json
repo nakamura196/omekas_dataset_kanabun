@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1197",
+    "@type": "o:Property",
+    "o:comment": "The cuisine of the recipe (for example, French or Ethiopian).",
+    "o:id": 1197,
+    "o:label": "recipeCuisine",
+    "o:local_name": "recipeCuisine",
+    "o:term": "schema:recipeCuisine",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

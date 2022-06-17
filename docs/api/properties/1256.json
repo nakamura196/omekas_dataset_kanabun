@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1256",
+    "@type": "o:Property",
+    "o:comment": "This Review or Rating is relevant to this part or facet of the itemReviewed.",
+    "o:id": 1256,
+    "o:label": "reviewAspect",
+    "o:local_name": "reviewAspect",
+    "o:term": "schema:reviewAspect",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

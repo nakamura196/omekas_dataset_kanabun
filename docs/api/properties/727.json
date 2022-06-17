@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/727",
+    "@type": "o:Property",
+    "o:comment": "Indicates the approximate radius of a GeoCircle (metres unless indicated otherwise via Distance notation).",
+    "o:id": 727,
+    "o:label": "geoRadius",
+    "o:local_name": "geoRadius",
+    "o:term": "schema:geoRadius",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

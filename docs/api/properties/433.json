@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/433",
+    "@type": "o:Property",
+    "o:comment": "Minimal age of the child.",
+    "o:id": 433,
+    "o:label": "childMinAge",
+    "o:local_name": "childMinAge",
+    "o:term": "schema:childMinAge",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

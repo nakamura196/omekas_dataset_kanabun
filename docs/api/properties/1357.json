@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1357",
+    "@type": "o:Property",
+    "o:comment": "The position of the steering wheel or similar device (mostly for cars).",
+    "o:id": 1357,
+    "o:label": "steeringPosition",
+    "o:local_name": "steeringPosition",
+    "o:term": "schema:steeringPosition",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/179",
+    "@type": "o:Property",
+    "o:comment": "Indicates the name (identifier) associated with this online account.",
+    "o:id": 179,
+    "o:label": "account name",
+    "o:local_name": "accountName",
+    "o:term": "foaf:accountName",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/4",
+        "o:id": 4
+    }
+}

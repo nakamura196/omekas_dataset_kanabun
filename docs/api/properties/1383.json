@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1383",
+    "@type": "o:Property",
+    "o:comment": "Relates a term (i.e. a property, class or enumeration) to one that supersedes it.",
+    "o:id": 1383,
+    "o:label": "supersededBy",
+    "o:local_name": "supersededBy",
+    "o:term": "schema:supersededBy",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1438",
+    "@type": "o:Property",
+    "o:comment": "The number of grams of trans fat.",
+    "o:id": 1438,
+    "o:label": "transFatContent",
+    "o:local_name": "transFatContent",
+    "o:term": "schema:transFatContent",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

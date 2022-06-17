@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/480",
+    "@type": "o:Property",
+    "o:comment": "The year during which the claimed copyright for the CreativeWork was first asserted.",
+    "o:id": 480,
+    "o:label": "copyrightYear",
+    "o:local_name": "copyrightYear",
+    "o:term": "schema:copyrightYear",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

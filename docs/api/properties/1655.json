@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1655",
+    "@type": "o:Property",
+    "o:comment": "A sub property of participant. The participant who is at the receiving end of the action.",
+    "o:id": 1655,
+    "o:label": "recipient",
+    "o:local_name": "recipient",
+    "o:term": "schema:recipient",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1154",
+    "@type": "o:Property",
+    "o:comment": "Processor architecture required to run the application (e.g. IA64).",
+    "o:id": 1154,
+    "o:label": "processorRequirements",
+    "o:local_name": "processorRequirements",
+    "o:term": "schema:processorRequirements",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

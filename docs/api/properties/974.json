@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/974",
+    "@type": "o:Property",
+    "o:comment": "For a [[NewsMediaOrganization]], a statement on coverage priorities, including any public agenda or stance on issues.",
+    "o:id": 974,
+    "o:label": "missionCoveragePrioritiesPolicy",
+    "o:local_name": "missionCoveragePrioritiesPolicy",
+    "o:term": "schema:missionCoveragePrioritiesPolicy",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

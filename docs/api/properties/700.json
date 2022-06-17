@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/700",
+    "@type": "o:Property",
+    "o:comment": "The place where the Organization was founded.",
+    "o:id": 700,
+    "o:label": "foundingLocation",
+    "o:local_name": "foundingLocation",
+    "o:term": "schema:foundingLocation",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/49",
+    "@type": "o:Property",
+    "o:comment": "A legal document giving official permission to do something with the resource.",
+    "o:id": 49,
+    "o:label": "License",
+    "o:local_name": "license",
+    "o:term": "dcterms:license",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/1",
+        "o:id": 1
+    }
+}

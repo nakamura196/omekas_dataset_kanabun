@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1317",
+    "@type": "o:Property",
+    "o:comment": "Link to a page containing [[ShippingRateSettings]] and [[DeliveryTimeSettings]] details.",
+    "o:id": 1317,
+    "o:label": "shippingSettingsLink",
+    "o:local_name": "shippingSettingsLink",
+    "o:term": "schema:shippingSettingsLink",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/366",
+    "@type": "o:Property",
+    "o:comment": "A similar BioChemEntity, e.g., obtained by fingerprint similarity algorithms.",
+    "o:id": 366,
+    "o:label": "bioChemSimilarity",
+    "o:local_name": "bioChemSimilarity",
+    "o:term": "schema:bioChemSimilarity",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1390",
+    "@type": "o:Property",
+    "o:comment": "Type of app development: phone, Metro style, desktop, XBox, etc.",
+    "o:id": 1390,
+    "o:label": "targetPlatform",
+    "o:local_name": "targetPlatform",
+    "o:term": "schema:targetPlatform",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

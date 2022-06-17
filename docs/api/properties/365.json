@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/365",
+    "@type": "o:Property",
+    "o:comment": "A BioChemEntity that is known to interact with this item.",
+    "o:id": 365,
+    "o:label": "bioChemInteraction",
+    "o:local_name": "bioChemInteraction",
+    "o:term": "schema:bioChemInteraction",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/676",
+    "@type": "o:Property",
+    "o:comment": "Family name. In the U.S., the last name of a Person.",
+    "o:id": 676,
+    "o:label": "familyName",
+    "o:local_name": "familyName",
+    "o:term": "schema:familyName",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

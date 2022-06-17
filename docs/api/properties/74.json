@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/74",
+    "@type": "o:Property",
+    "o:comment": "Relates a document to an event; for example, a paper to a conference.",
+    "o:id": 74,
+    "o:label": "presented at",
+    "o:local_name": "presentedAt",
+    "o:term": "bibo:presentedAt",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/3",
+        "o:id": 3
+    }
+}

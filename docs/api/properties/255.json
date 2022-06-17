@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/255",
+    "@type": "o:Property",
+    "o:comment": "If responding yes, the number of guests who will attend in addition to the invitee.",
+    "o:id": 255,
+    "o:label": "additionalNumberOfGuests",
+    "o:local_name": "additionalNumberOfGuests",
+    "o:term": "schema:additionalNumberOfGuests",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

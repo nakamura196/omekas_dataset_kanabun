@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/731",
+    "@type": "o:Property",
+    "o:comment": "Information about getting tested (for a [[MedicalCondition]]), e.g. in the context of a pandemic.",
+    "o:id": 731,
+    "o:label": "gettingTestedInfo",
+    "o:local_name": "gettingTestedInfo",
+    "o:term": "schema:gettingTestedInfo",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

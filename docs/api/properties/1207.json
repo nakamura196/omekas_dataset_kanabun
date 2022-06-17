@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1207",
+    "@type": "o:Property",
+    "o:comment": "The Order(s) related to this Invoice. One or more Orders may be combined into a single Invoice.",
+    "o:id": 1207,
+    "o:label": "referencesOrder",
+    "o:local_name": "referencesOrder",
+    "o:term": "schema:referencesOrder",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

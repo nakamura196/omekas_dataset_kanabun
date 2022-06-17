@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/870",
+    "@type": "o:Property",
+    "o:comment": "Current location of the item.",
+    "o:id": 870,
+    "o:label": "itemLocation",
+    "o:local_name": "itemLocation",
+    "o:term": "schema:itemLocation",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

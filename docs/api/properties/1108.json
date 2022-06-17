@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1108",
+    "@type": "o:Property",
+    "o:comment": "Where a taxi will pick up a passenger or a rental car can be picked up.",
+    "o:id": 1108,
+    "o:label": "pickupLocation",
+    "o:local_name": "pickupLocation",
+    "o:term": "schema:pickupLocation",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

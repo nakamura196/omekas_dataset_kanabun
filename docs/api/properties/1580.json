@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1580",
+    "@type": "o:Property",
+    "o:comment": "Another BioChemEntity encoding by this one.",
+    "o:id": 1580,
+    "o:label": "isEncodedByBioChemEntity",
+    "o:local_name": "isEncodedByBioChemEntity",
+    "o:term": "schema:isEncodedByBioChemEntity",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

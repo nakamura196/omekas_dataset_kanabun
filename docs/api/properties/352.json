@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/352",
+    "@type": "o:Property",
+    "o:comment": "The base salary of the job or of an employee in an EmployeeRole.",
+    "o:id": 352,
+    "o:label": "baseSalary",
+    "o:local_name": "baseSalary",
+    "o:term": "schema:baseSalary",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

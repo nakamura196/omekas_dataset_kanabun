@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/732",
+    "@type": "o:Property",
+    "o:comment": "Given name. In the U.S., the first name of a Person.",
+    "o:id": 732,
+    "o:label": "givenName",
+    "o:local_name": "givenName",
+    "o:term": "schema:givenName",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1348",
+    "@type": "o:Property",
+    "o:comment": "A sub property of participant. The sports team that participated on this action.",
+    "o:id": 1348,
+    "o:label": "sportsTeam",
+    "o:local_name": "sportsTeam",
+    "o:term": "schema:sportsTeam",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

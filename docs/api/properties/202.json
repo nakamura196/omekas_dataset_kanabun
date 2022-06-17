@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/202",
+    "@type": "o:Property",
+    "o:comment": null,
+    "o:id": 202,
+    "o:label": "形状",
+    "o:local_name": "figure",
+    "o:term": "ex:figure",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/6",
+        "o:id": 6
+    }
+}
