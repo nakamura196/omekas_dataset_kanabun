@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/628",
+    "@type": "o:Property",
+    "o:comment": "People working for this organization.",
+    "o:id": 628,
+    "o:label": "employees",
+    "o:local_name": "employees",
+    "o:term": "schema:employees",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

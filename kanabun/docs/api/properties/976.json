@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/976",
+    "@type": "o:Property",
+    "o:comment": "The release date of a vehicle model (often used to differentiate versions of the same make and model).",
+    "o:id": 976,
+    "o:label": "modelDate",
+    "o:local_name": "modelDate",
+    "o:term": "schema:modelDate",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

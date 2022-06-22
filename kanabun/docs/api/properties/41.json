@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/41",
+    "@type": "o:Property",
+    "o:comment": "Temporal characteristics of the resource.",
+    "o:id": 41,
+    "o:label": "Temporal Coverage",
+    "o:local_name": "temporal",
+    "o:term": "dcterms:temporal",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/1",
+        "o:id": 1
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/749",
+    "@type": "o:Property",
+    "o:comment": "A Category code contained in this code set.",
+    "o:id": 749,
+    "o:label": "hasCategoryCode",
+    "o:local_name": "hasCategoryCode",
+    "o:term": "schema:hasCategoryCode",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

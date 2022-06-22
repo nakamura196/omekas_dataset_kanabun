@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1012",
+    "@type": "o:Property",
+    "o:comment": "The number of tracks in this album or playlist.",
+    "o:id": 1012,
+    "o:label": "numTracks",
+    "o:local_name": "numTracks",
+    "o:term": "schema:numTracks",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

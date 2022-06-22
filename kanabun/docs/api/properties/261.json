@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/261",
+    "@type": "o:Property",
+    "o:comment": "The locality in which the street address is, and which is in the region. For example, Mountain View.",
+    "o:id": 261,
+    "o:label": "addressLocality",
+    "o:local_name": "addressLocality",
+    "o:term": "schema:addressLocality",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

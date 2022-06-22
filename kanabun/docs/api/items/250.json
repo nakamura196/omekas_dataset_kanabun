@@ -1,0 +1,202 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/items/250",
+    "@type": [
+        "o:Item",
+        "ex:missive"
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "622",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:modified": [
+        {
+            "@value": "12-Jan-20",
+            "is_public": true,
+            "property_id": 24,
+            "property_label": "Date Modified",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "金沢貞顕書状",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:age": [
+        {
+            "@value": "鎌倉時代後期",
+            "is_public": true,
+            "property_id": 214,
+            "property_label": "成立",
+            "type": "literal"
+        }
+    ],
+    "ex:deficit": [
+        {
+            "@value": "後欠",
+            "is_public": true,
+            "property_id": 199,
+            "property_label": "欠損",
+            "type": "literal"
+        }
+    ],
+    "ex:figure": [
+        {
+            "@value": "竪紙（本紙）",
+            "is_public": true,
+            "property_id": 202,
+            "property_label": "形状",
+            "type": "literal"
+        }
+    ],
+    "ex:ibun": [
+        {
+            "@value": "鎌29432",
+            "is_public": true,
+            "property_id": 210,
+            "property_label": "遺文",
+            "type": "literal"
+        }
+    ],
+    "ex:kanagawakenshi": [
+        {
+            "@value": "2485",
+            "is_public": true,
+            "property_id": 208,
+            "property_label": "神奈川県史",
+            "type": "literal"
+        }
+    ],
+    "ex:kinbunbango": [
+        {
+            "@value": "325",
+            "is_public": true,
+            "property_id": 207,
+            "property_label": "金文番号",
+            "type": "literal"
+        }
+    ],
+    "ex:medium": [
+        {
+            "@value": "楮紙",
+            "is_public": true,
+            "property_id": 203,
+            "property_label": "料紙",
+            "type": "literal"
+        }
+    ],
+    "ex:note": [
+        {
+            "@value": "金沢貞顕自筆。",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "付加情報",
+            "type": "literal"
+        }
+    ],
+    "ex:seiribango": [
+        {
+            "@value": "622",
+            "is_public": true,
+            "property_id": 209,
+            "property_label": "整理番号",
+            "type": "literal"
+        }
+    ],
+    "ex:shihai": [
+        {
+            "@value": "『即身成仏義聞書〈第三／第四〉』第3紙",
+            "is_public": true,
+            "property_id": 200,
+            "property_label": "紙背",
+            "type": "literal"
+        }
+    ],
+    "ex:subject": [
+        {
+            "@value": "金沢貞顕書状",
+            "is_public": true,
+            "property_id": 205,
+            "property_label": "史料名",
+            "type": "literal"
+        }
+    ],
+    "ex:transcript": [
+        {
+            "@value": "朔日御慶申籠候了、\r\n抑別駕（安達時顕）御訪のためには\r\n何日御出候哉、明日者評定\r\nにて候、三日四日之間にて□□\r\nやらん、さも候はゝ、四日早旦に\r\n是へ入御候者悦入候、下品□（之）\r\n小点心を可令用意候、又地\r\n曳事、何程に候やらん、",
+            "is_public": true,
+            "property_id": 218,
+            "property_label": "transcript",
+            "type": "literal"
+        }
+    ],
+    "ex:volume": [
+        {
+            "@value": "1通",
+            "is_public": true,
+            "property_id": 215,
+            "property_label": "紙数",
+            "type": "literal"
+        },
+        {
+            "@value": "1紙",
+            "is_public": true,
+            "property_id": 215,
+            "property_label": "紙数",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2022-03-31T07:24:45+00:00"
+    },
+    "o:id": 250,
+    "o:is_public": true,
+    "o:item_set": [],
+    "o:media": [
+        {
+            "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/media/1531",
+            "o:id": 1531
+        },
+        {
+            "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/media/1532",
+            "o:id": 1532
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2022-05-30T01:10:23+00:00"
+    },
+    "o:owner": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/resource_classes/108",
+        "o:id": 108
+    },
+    "o:resource_template": null,
+    "o:site": [
+        {
+            "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/sites/1",
+            "o:id": 1
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "金沢貞顕書状",
+    "thumbnail_display_urls": {
+        "large": "https://kanazawabunko-db.pen-kanagawa.ed.jp/files/large/921d5418439d0ebeb6f4bfe8c3a66712f46c6dac.jpg",
+        "medium": "https://kanazawabunko-db.pen-kanagawa.ed.jp/files/medium/921d5418439d0ebeb6f4bfe8c3a66712f46c6dac.jpg",
+        "square": "https://kanazawabunko-db.pen-kanagawa.ed.jp/files/square/921d5418439d0ebeb6f4bfe8c3a66712f46c6dac.jpg"
+    }
+}

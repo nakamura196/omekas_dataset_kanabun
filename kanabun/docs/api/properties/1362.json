@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1362",
+    "@type": "o:Property",
+    "o:comment": "The units of an active ingredient's strength, e.g. mg.",
+    "o:id": 1362,
+    "o:label": "strengthUnit",
+    "o:local_name": "strengthUnit",
+    "o:term": "schema:strengthUnit",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

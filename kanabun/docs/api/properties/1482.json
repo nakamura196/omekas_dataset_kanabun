@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1482",
+    "@type": "o:Property",
+    "o:comment": "The Value-added Tax ID of the organization or person.",
+    "o:id": 1482,
+    "o:label": "vatID",
+    "o:local_name": "vatID",
+    "o:term": "schema:vatID",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

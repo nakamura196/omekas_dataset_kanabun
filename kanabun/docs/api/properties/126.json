@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/126",
+    "@type": "o:Property",
+    "o:comment": "A textual geekcode for this person, see http://www.geekcode.com/geek.html",
+    "o:id": 126,
+    "o:label": "geekcode",
+    "o:local_name": "geekcode",
+    "o:term": "foaf:geekcode",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/4",
+        "o:id": 4
+    }
+}

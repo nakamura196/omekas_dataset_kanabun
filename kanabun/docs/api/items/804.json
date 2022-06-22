@@ -1,0 +1,220 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/items/804",
+    "@type": [
+        "o:Item",
+        "ex:missive"
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "2862",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:modified": [
+        {
+            "@value": "15-Dec-20",
+            "is_public": true,
+            "property_id": 24,
+            "property_label": "Date Modified",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "円観書状",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:age": [
+        {
+            "@value": "鎌倉時代後期",
+            "is_public": true,
+            "property_id": 214,
+            "property_label": "成立",
+            "type": "literal"
+        }
+    ],
+    "ex:figure": [
+        {
+            "@value": "竪紙（本紙）",
+            "is_public": true,
+            "property_id": 202,
+            "property_label": "形状",
+            "type": "literal"
+        }
+    ],
+    "ex:ibun": [
+        {
+            "@value": "鎌17696",
+            "is_public": true,
+            "property_id": 210,
+            "property_label": "遺文",
+            "type": "literal"
+        }
+    ],
+    "ex:japaneseCalendarDate": [
+        {
+            "@value": "（年月日未詳）",
+            "is_public": true,
+            "property_id": 211,
+            "property_label": "和暦年月日",
+            "type": "literal"
+        }
+    ],
+    "ex:kanagawakenshi": [
+        {
+            "@value": "1096",
+            "is_public": true,
+            "property_id": 208,
+            "property_label": "神奈川県史",
+            "type": "literal"
+        }
+    ],
+    "ex:kinbunbango": [
+        {
+            "@value": "925",
+            "is_public": true,
+            "property_id": 207,
+            "property_label": "金文番号",
+            "type": "literal"
+        }
+    ],
+    "ex:medium": [
+        {
+            "@value": "楮紙",
+            "is_public": true,
+            "property_id": 203,
+            "property_label": "料紙",
+            "type": "literal"
+        }
+    ],
+    "ex:note": [
+        {
+            "@value": "本文書はK924/S2861「円観書状」の本紙と考えられる。",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "付加情報",
+            "type": "literal"
+        }
+    ],
+    "ex:seiribango": [
+        {
+            "@value": "2862",
+            "is_public": true,
+            "property_id": 209,
+            "property_label": "整理番号",
+            "type": "literal"
+        }
+    ],
+    "ex:shihai": [
+        {
+            "@value": "朗海稿本（袋綴装）",
+            "is_public": true,
+            "property_id": 200,
+            "property_label": "紙背",
+            "type": "literal"
+        }
+    ],
+    "ex:subject": [
+        {
+            "@value": "円観書状",
+            "is_public": true,
+            "property_id": 205,
+            "property_label": "史料名",
+            "type": "literal"
+        }
+    ],
+    "ex:transcript": [
+        {
+            "@value": "　　若此御房持来給候\r\n　　事、難合候はゝ、只\r\n　　甫正六二帖、知足抄、\r\n　　愚身抄候一巻、可給候、\r\n　　若可持候はゝ、六七共可給候、\r\n　　［　　］可給預候、妙行御房書状、\r\n　　［　　］\r\n其後何條御事候哉、\r\n抑、［　　］身罷帰候之後、\r\n心地不宜候儀之候、\r\n［　　］一巻于今延引\r\n仕［　　］以近日畢候、\r\n文句談義所望仕候はんと\r\n相存候、御寺談義\r\n\r",
+            "is_public": true,
+            "property_id": 218,
+            "property_label": "transcript",
+            "type": "literal"
+        }
+    ],
+    "ex:volume": [
+        {
+            "@value": "1通",
+            "is_public": true,
+            "property_id": 215,
+            "property_label": "紙数",
+            "type": "literal"
+        },
+        {
+            "@value": "1紙",
+            "is_public": true,
+            "property_id": 215,
+            "property_label": "紙数",
+            "type": "literal"
+        }
+    ],
+    "ex:yearCode": [
+        {
+            "@value": "55550550550",
+            "is_public": true,
+            "property_id": 213,
+            "property_label": "西暦コード",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2022-03-31T07:26:10+00:00"
+    },
+    "o:id": 804,
+    "o:is_public": true,
+    "o:item_set": [],
+    "o:media": [
+        {
+            "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/media/2676",
+            "o:id": 2676
+        },
+        {
+            "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/media/2677",
+            "o:id": 2677
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2022-05-30T02:05:09+00:00"
+    },
+    "o:owner": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/resource_classes/108",
+        "o:id": 108
+    },
+    "o:resource_template": null,
+    "o:site": [
+        {
+            "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/sites/1",
+            "o:id": 1
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "円観書状",
+    "schema:url": [
+        {
+            "@value": "https://wwwap.hi.u-tokyo.ac.jp/sda/w21/20051125000603",
+            "is_public": true,
+            "property_id": 1459,
+            "property_label": "url",
+            "type": "literal"
+        }
+    ],
+    "thumbnail_display_urls": {
+        "large": "https://kanazawabunko-db.pen-kanagawa.ed.jp/files/large/ff76e47ff094827995ea7babeedef82bb68dda74.jpg",
+        "medium": "https://kanazawabunko-db.pen-kanagawa.ed.jp/files/medium/ff76e47ff094827995ea7babeedef82bb68dda74.jpg",
+        "square": "https://kanazawabunko-db.pen-kanagawa.ed.jp/files/square/ff76e47ff094827995ea7babeedef82bb68dda74.jpg"
+    }
+}

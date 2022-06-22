@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/713",
+    "@type": "o:Property",
+    "o:comment": "Real or fictional location of the game (or part of game).",
+    "o:id": 713,
+    "o:label": "gameLocation",
+    "o:local_name": "gameLocation",
+    "o:term": "schema:gameLocation",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/276",
+    "@type": "o:Property",
+    "o:comment": "The algorithm or rules to follow to compute the score.",
+    "o:id": 276,
+    "o:label": "algorithm",
+    "o:local_name": "algorithm",
+    "o:term": "schema:algorithm",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

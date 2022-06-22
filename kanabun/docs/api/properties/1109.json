@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1109",
+    "@type": "o:Property",
+    "o:comment": "When a taxi will pickup a passenger or a rental car can be picked up.",
+    "o:id": 1109,
+    "o:label": "pickupTime",
+    "o:local_name": "pickupTime",
+    "o:term": "schema:pickupTime",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

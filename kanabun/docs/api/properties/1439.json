@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1439",
+    "@type": "o:Property",
+    "o:comment": "If this MediaObject is an AudioObject or VideoObject, the transcript of that object.",
+    "o:id": 1439,
+    "o:label": "transcript",
+    "o:local_name": "transcript",
+    "o:term": "schema:transcript",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

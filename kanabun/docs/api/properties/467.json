@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/467",
+    "@type": "o:Property",
+    "o:comment": "A secure method for consumers to purchase products or services via debit, credit or smartcards by using RFID or NFC technology.",
+    "o:id": 467,
+    "o:label": "contactlessPayment",
+    "o:local_name": "contactlessPayment",
+    "o:term": "schema:contactlessPayment",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

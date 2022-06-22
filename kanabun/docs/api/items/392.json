@@ -1,0 +1,201 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/items/392",
+    "@type": [
+        "o:Item",
+        "ex:missive"
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "766",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:modified": [
+        {
+            "@value": "11-Jan-20",
+            "is_public": true,
+            "property_id": 24,
+            "property_label": "Date Modified",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "金沢貞顕書状",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:age": [
+        {
+            "@value": "鎌倉時代後期",
+            "is_public": true,
+            "property_id": 214,
+            "property_label": "成立",
+            "type": "literal"
+        }
+    ],
+    "ex:figure": [
+        {
+            "@value": "竪紙（本紙・礼紙、本紙・礼紙共に切紙二紙を上下に接続）",
+            "is_public": true,
+            "property_id": 202,
+            "property_label": "形状",
+            "type": "literal"
+        }
+    ],
+    "ex:ibun": [
+        {
+            "@value": "鎌22326",
+            "is_public": true,
+            "property_id": 210,
+            "property_label": "遺文",
+            "type": "literal"
+        }
+    ],
+    "ex:kanagawakenshi": [
+        {
+            "@value": "1455",
+            "is_public": true,
+            "property_id": 208,
+            "property_label": "神奈川県史",
+            "type": "literal"
+        }
+    ],
+    "ex:kinbunbango": [
+        {
+            "@value": "474",
+            "is_public": true,
+            "property_id": 207,
+            "property_label": "金文番号",
+            "type": "literal"
+        }
+    ],
+    "ex:medium": [
+        {
+            "@value": "楮紙",
+            "is_public": true,
+            "property_id": 203,
+            "property_label": "料紙",
+            "type": "literal"
+        }
+    ],
+    "ex:note": [
+        {
+            "@value": "本紙に影字あり。礼紙に影字あり。異筆にて「卅枚内」とあり。",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "付加情報",
+            "type": "literal"
+        }
+    ],
+    "ex:seiribango": [
+        {
+            "@value": "766",
+            "is_public": true,
+            "property_id": 209,
+            "property_label": "整理番号",
+            "type": "literal"
+        }
+    ],
+    "ex:shihai": [
+        {
+            "@value": "（本紙上）『院尊勝陀羅尼供養導師次第』第5紙、（本紙下）『大御室御忌日講師次第〈九月／二十七日〉』第3紙、（礼紙上）『院尊勝陀羅尼供養導師次第』第8紙、（礼紙下）『大御室御忌日講師次第〈九月／二十七日〉』第6紙",
+            "is_public": true,
+            "property_id": 200,
+            "property_label": "紙背",
+            "type": "literal"
+        }
+    ],
+    "ex:subject": [
+        {
+            "@value": "金沢貞顕書状",
+            "is_public": true,
+            "property_id": 205,
+            "property_label": "史料名",
+            "type": "literal"
+        }
+    ],
+    "ex:transcript": [
+        {
+            "@value": "（本紙追而書）\r\n　　やま（近江国・延暦寺）にはよせ候へきとて、ひしめき候、\r\n　　寺（近江国・園城寺）の事は、あとかたもなき事にて候に、\r\n　　かやうに山々さふらへは、\r\n　　仏法のうせ候へき\r\n　　時節にて候やらんと、心うく候、\r\n　　何事につけ候ても、とくゝゝくたり候\r\n　　事にて候はやとのみおほえて候、\r\n　　いつとなく申候へとも、いまた\r\n\r\n（礼紙追而書）\r\n　　御めん候はねは、返々なけき入て候、\r\n　　みやこの事は、よろつやつとの（谷殿）御物かたり\r\n　　さふらはんすらんと、よにおほえ候、なをゝゝ\r\n　　御ふみ悦入て候、此やうを\r\n　　御心え候へく候、\r\n　　あなかしく、\r\n\r\nひさしくうけ給候はて、\r\n御いふせく候つるに、こまかに\r\nうけ給はりて候、ことに\r\nよろこひおほえさせおはしまして候、\r\nさても、やつとの御のほり候て、\r\nたうとき所々へも、御まいり候、\r\nけさんにも、たひゝゝ\r\n入候てさふらへは、申はかりなく\r\n\r\n悦入て候、御くまのまうて\r\nのあわれにてさふらひて、\r\nけさんにもいり候、何事も\r\n申候はやと、あさゆふは、ねむせられて\r\nこそ候へ、かめ山院（亀山院）御あと\r\nむつかしけにきこえ候しか、\r\n御つかひのほり候て後は、\r\nことなる事もなけに候、\r\n又三井寺にかいたん（戒壇）\r\nたて、金堂供養し候へきとて\r\n\r\n（切封墨引）",
+            "is_public": true,
+            "property_id": 218,
+            "property_label": "transcript",
+            "type": "literal"
+        }
+    ],
+    "ex:volume": [
+        {
+            "@value": "1通",
+            "is_public": true,
+            "property_id": 215,
+            "property_label": "紙数",
+            "type": "literal"
+        },
+        {
+            "@value": "2紙",
+            "is_public": true,
+            "property_id": 215,
+            "property_label": "紙数",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2022-03-31T07:25:07+00:00"
+    },
+    "o:id": 392,
+    "o:is_public": true,
+    "o:item_set": [],
+    "o:media": [
+        {
+            "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/media/1835",
+            "o:id": 1835
+        },
+        {
+            "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/media/1836",
+            "o:id": 1836
+        },
+        {
+            "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/media/1837",
+            "o:id": 1837
+        },
+        {
+            "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/media/1838",
+            "o:id": 1838
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2022-05-30T01:16:54+00:00"
+    },
+    "o:owner": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/resource_classes/108",
+        "o:id": 108
+    },
+    "o:resource_template": null,
+    "o:site": [
+        {
+            "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/sites/1",
+            "o:id": 1
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "金沢貞顕書状",
+    "thumbnail_display_urls": {
+        "large": "https://kanazawabunko-db.pen-kanagawa.ed.jp/files/large/32db50e98f8146908c5d048f54f85e9d7d92a183.jpg",
+        "medium": "https://kanazawabunko-db.pen-kanagawa.ed.jp/files/medium/32db50e98f8146908c5d048f54f85e9d7d92a183.jpg",
+        "square": "https://kanazawabunko-db.pen-kanagawa.ed.jp/files/square/32db50e98f8146908c5d048f54f85e9d7d92a183.jpg"
+    }
+}

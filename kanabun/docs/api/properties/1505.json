@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1505",
+    "@type": "o:Property",
+    "o:comment": "The weight of the product or person.",
+    "o:id": 1505,
+    "o:label": "weight",
+    "o:local_name": "weight",
+    "o:term": "schema:weight",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

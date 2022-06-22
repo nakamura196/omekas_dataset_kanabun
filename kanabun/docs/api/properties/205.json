@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/205",
+    "@type": "o:Property",
+    "o:comment": null,
+    "o:id": 205,
+    "o:label": "史料名",
+    "o:local_name": "subject",
+    "o:term": "ex:subject",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/6",
+        "o:id": 6
+    }
+}

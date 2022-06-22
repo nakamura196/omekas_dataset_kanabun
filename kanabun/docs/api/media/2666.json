@@ -1,0 +1,119 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/media/2666",
+    "@type": [
+        "o:Media",
+        "ex:image"
+    ],
+    "data": {
+        "dimensions": {
+            "large": {
+                "height": 533,
+                "width": 800
+            },
+            "medium": {
+                "height": 267,
+                "width": 400
+            },
+            "original": {
+                "height": 1600,
+                "width": 2400
+            },
+            "square": {
+                "height": 200,
+                "width": 200
+            }
+        },
+        "tile": {
+            "deepzoom": {
+                "format": "jpg",
+                "media_path": "21966f7f3ef58d1524146c8db51f8f8a2edaa19d_files",
+                "metadata_path": "21966f7f3ef58d1524146c8db51f8f8a2edaa19d.dzi",
+                "overlap": 0,
+                "path_base": "/var/www/html/files/tile",
+                "size": 256,
+                "source": {
+                    "height": 1600,
+                    "width": 2400
+                },
+                "tile_type": "deepzoom",
+                "total": null,
+                "url_base": "https://kanazawabunko-db.pen-kanagawa.ed.jp/files/tile",
+                "url_query": ""
+            },
+            "tiled_tiff": {
+                "format": "tif",
+                "media_path": "21966f7f3ef58d1524146c8db51f8f8a2edaa19d.tif",
+                "metadata_path": null,
+                "overlap": 0,
+                "path_base": "/var/www/html/files/tile",
+                "size": 256,
+                "source": {
+                    "height": 1600,
+                    "width": 2400
+                },
+                "tile_type": "tiled_tiff",
+                "total": null,
+                "url_base": "https://kanazawabunko-db.pen-kanagawa.ed.jp/files/tile",
+                "url_query": ""
+            }
+        }
+    },
+    "dcterms:title": [
+        {
+            "@value": "有金書状（紙背）",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:alt_text": null,
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2022-03-31T23:34:07+00:00"
+    },
+    "o:filename": "21966f7f3ef58d1524146c8db51f8f8a2edaa19d.jpg",
+    "o:id": 2666,
+    "o:ingester": "url",
+    "o:is_public": true,
+    "o:item": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/items/797",
+        "o:id": 797
+    },
+    "o:lang": null,
+    "o:media_type": "image/jpeg",
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2022-03-31T23:34:07+00:00"
+    },
+    "o:original_url": "https://kanazawabunko-db.pen-kanagawa.ed.jp/files/original/21966f7f3ef58d1524146c8db51f8f8a2edaa19d.jpg",
+    "o:owner": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:renderer": "file",
+    "o:resource_class": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/resource_classes/109",
+        "o:id": 109
+    },
+    "o:resource_template": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/resource_templates/1",
+        "o:id": 1
+    },
+    "o:sha256": "f3b7f75b2b6d3fba99c9e3c5a6b67f48c115deff11ba57e3ce3746e021a3b13b",
+    "o:size": 443802,
+    "o:source": "https://admin_kanazawabunko:b1beeswg8m2eiz0wv5v2@www.kanazawabunko.pref.kanagawa.jp.il3c.com/files/kanazawabunko-images-compressed/1640-2.jpg",
+    "o:thumbnail": null,
+    "o:thumbnail_urls": {
+        "large": "https://kanazawabunko-db.pen-kanagawa.ed.jp/files/large/21966f7f3ef58d1524146c8db51f8f8a2edaa19d.jpg",
+        "medium": "https://kanazawabunko-db.pen-kanagawa.ed.jp/files/medium/21966f7f3ef58d1524146c8db51f8f8a2edaa19d.jpg",
+        "square": "https://kanazawabunko-db.pen-kanagawa.ed.jp/files/square/21966f7f3ef58d1524146c8db51f8f8a2edaa19d.jpg"
+    },
+    "o:title": "有金書状（紙背）",
+    "thumbnail_display_urls": {
+        "large": "https://kanazawabunko-db.pen-kanagawa.ed.jp/files/large/21966f7f3ef58d1524146c8db51f8f8a2edaa19d.jpg",
+        "medium": "https://kanazawabunko-db.pen-kanagawa.ed.jp/files/medium/21966f7f3ef58d1524146c8db51f8f8a2edaa19d.jpg",
+        "square": "https://kanazawabunko-db.pen-kanagawa.ed.jp/files/square/21966f7f3ef58d1524146c8db51f8f8a2edaa19d.jpg"
+    }
+}

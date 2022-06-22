@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/273",
+    "@type": "o:Property",
+    "o:comment": "The kind of release which this album is: single, EP or album.",
+    "o:id": 273,
+    "o:label": "albumReleaseType",
+    "o:local_name": "albumReleaseType",
+    "o:term": "schema:albumReleaseType",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

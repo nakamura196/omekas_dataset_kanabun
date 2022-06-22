@@ -1,0 +1,103 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/media/1926",
+    "@type": [
+        "o:Media",
+        "ex:image"
+    ],
+    "data": {
+        "dimensions": {
+            "large": {
+                "height": 533,
+                "width": 800
+            },
+            "medium": {
+                "height": 267,
+                "width": 400
+            },
+            "original": {
+                "height": 1600,
+                "width": 2400
+            },
+            "square": {
+                "height": 200,
+                "width": 200
+            }
+        },
+        "tile": {
+            "tiled_tiff": {
+                "format": "tif",
+                "media_path": "a972db9d937fc646fb36fa94cbf8475356b9f686.tif",
+                "metadata_path": null,
+                "overlap": 0,
+                "path_base": "/var/www/html/files/tile",
+                "size": 256,
+                "source": {
+                    "height": 1600,
+                    "width": 2400
+                },
+                "tile_type": "tiled_tiff",
+                "total": null,
+                "url_base": "https://kanazawabunko-db.pen-kanagawa.ed.jp/files/tile",
+                "url_query": ""
+            }
+        }
+    },
+    "dcterms:title": [
+        {
+            "@value": "倉栖兼雄書状（紙背）",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:alt_text": null,
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2022-03-31T10:36:29+00:00"
+    },
+    "o:filename": "a972db9d937fc646fb36fa94cbf8475356b9f686.jpg",
+    "o:id": 1926,
+    "o:ingester": "url",
+    "o:is_public": true,
+    "o:item": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/items/432",
+        "o:id": 432
+    },
+    "o:lang": null,
+    "o:media_type": "image/jpeg",
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2022-03-31T10:36:29+00:00"
+    },
+    "o:original_url": "https://kanazawabunko-db.pen-kanagawa.ed.jp/files/original/a972db9d937fc646fb36fa94cbf8475356b9f686.jpg",
+    "o:owner": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:renderer": "file",
+    "o:resource_class": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/resource_classes/109",
+        "o:id": 109
+    },
+    "o:resource_template": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/resource_templates/1",
+        "o:id": 1
+    },
+    "o:sha256": "3f25383c8fd7f8e4c5a3c57df0ba2a592b741cb5f887948c82d5f8e3a0ad11dc",
+    "o:size": 386586,
+    "o:source": "https://admin_kanazawabunko:b1beeswg8m2eiz0wv5v2@www.kanazawabunko.pref.kanagawa.jp.il3c.com/files/kanazawabunko-images-compressed/435-2.jpg",
+    "o:thumbnail": null,
+    "o:thumbnail_urls": {
+        "large": "https://kanazawabunko-db.pen-kanagawa.ed.jp/files/large/a972db9d937fc646fb36fa94cbf8475356b9f686.jpg",
+        "medium": "https://kanazawabunko-db.pen-kanagawa.ed.jp/files/medium/a972db9d937fc646fb36fa94cbf8475356b9f686.jpg",
+        "square": "https://kanazawabunko-db.pen-kanagawa.ed.jp/files/square/a972db9d937fc646fb36fa94cbf8475356b9f686.jpg"
+    },
+    "o:title": "倉栖兼雄書状（紙背）",
+    "thumbnail_display_urls": {
+        "large": "https://kanazawabunko-db.pen-kanagawa.ed.jp/files/large/a972db9d937fc646fb36fa94cbf8475356b9f686.jpg",
+        "medium": "https://kanazawabunko-db.pen-kanagawa.ed.jp/files/medium/a972db9d937fc646fb36fa94cbf8475356b9f686.jpg",
+        "square": "https://kanazawabunko-db.pen-kanagawa.ed.jp/files/square/a972db9d937fc646fb36fa94cbf8475356b9f686.jpg"
+    }
+}

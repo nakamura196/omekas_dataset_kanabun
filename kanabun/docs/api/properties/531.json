@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/531",
+    "@type": "o:Property",
+    "o:comment": "The date the ticket was issued.",
+    "o:id": 531,
+    "o:label": "dateIssued",
+    "o:local_name": "dateIssued",
+    "o:term": "schema:dateIssued",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

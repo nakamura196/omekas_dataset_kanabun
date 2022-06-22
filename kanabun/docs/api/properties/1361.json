@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1361",
+    "@type": "o:Property",
+    "o:comment": "The street address. For example, 1600 Amphitheatre Pkwy.",
+    "o:id": 1361,
+    "o:label": "streetAddress",
+    "o:local_name": "streetAddress",
+    "o:term": "schema:streetAddress",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

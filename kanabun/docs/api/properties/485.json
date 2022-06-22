@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/485",
+    "@type": "o:Property",
+    "o:comment": "Additional details to capture the origin of the cost data. For example, 'Medicare Part B'.",
+    "o:id": 485,
+    "o:label": "costOrigin",
+    "o:local_name": "costOrigin",
+    "o:term": "schema:costOrigin",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

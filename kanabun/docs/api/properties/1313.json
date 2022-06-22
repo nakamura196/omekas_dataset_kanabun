@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1313",
+    "@type": "o:Property",
+    "o:comment": "indicates (possibly multiple) shipping destinations. These can be defined in several ways e.g. postalCode ranges.",
+    "o:id": 1313,
+    "o:label": "shippingDestination",
+    "o:local_name": "shippingDestination",
+    "o:term": "schema:shippingDestination",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

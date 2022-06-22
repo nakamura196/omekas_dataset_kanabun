@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/809",
+    "@type": "o:Property",
+    "o:comment": "Description of bonus and commission compensation aspects of the job.",
+    "o:id": 809,
+    "o:label": "incentives",
+    "o:local_name": "incentives",
+    "o:term": "schema:incentives",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

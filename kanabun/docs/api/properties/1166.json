@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1166",
+    "@type": "o:Property",
+    "o:comment": "The type of educational or occupational program. For example, classroom, internship, alternance, etc..",
+    "o:id": 1166,
+    "o:label": "programType",
+    "o:local_name": "programType",
+    "o:term": "schema:programType",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

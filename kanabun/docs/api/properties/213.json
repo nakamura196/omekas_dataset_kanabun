@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/213",
+    "@type": "o:Property",
+    "o:comment": null,
+    "o:id": 213,
+    "o:label": "西暦コード",
+    "o:local_name": "yearCode",
+    "o:term": "ex:yearCode",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/6",
+        "o:id": 6
+    }
+}

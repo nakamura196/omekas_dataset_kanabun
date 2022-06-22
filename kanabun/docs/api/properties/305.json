@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/305",
+    "@type": "o:Property",
+    "o:comment": "The terminal or port from which the boat arrives.",
+    "o:id": 305,
+    "o:label": "arrivalBoatTerminal",
+    "o:local_name": "arrivalBoatTerminal",
+    "o:term": "schema:arrivalBoatTerminal",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

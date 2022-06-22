@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/616",
+    "@type": "o:Property",
+    "o:comment": "The purpose of a work in the context of education; for example, 'assignment', 'group work'.",
+    "o:id": 616,
+    "o:label": "educationalUse",
+    "o:local_name": "educationalUse",
+    "o:term": "schema:educationalUse",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

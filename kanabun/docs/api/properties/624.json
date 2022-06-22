@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/624",
+    "@type": "o:Property",
+    "o:comment": "Email address.",
+    "o:id": 624,
+    "o:label": "email",
+    "o:local_name": "email",
+    "o:term": "schema:email",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

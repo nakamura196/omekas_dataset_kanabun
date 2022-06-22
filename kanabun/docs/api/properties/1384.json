@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1384",
+    "@type": "o:Property",
+    "o:comment": "The area to which the artery supplies blood.",
+    "o:id": 1384,
+    "o:label": "supplyTo",
+    "o:local_name": "supplyTo",
+    "o:term": "schema:supplyTo",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

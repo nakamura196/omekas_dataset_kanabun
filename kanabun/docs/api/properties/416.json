@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/416",
+    "@type": "o:Property",
+    "o:comment": "The available volume for cargo or luggage. For automobiles, this is usually the trunk volume.\\\n\\\nTypical unit code(s): LTR for liters, FTQ for cubic foot/feet\\\n\\\nNote: You can use [[minValue]] and [[maxValue]] to indicate ranges.",
+    "o:id": 416,
+    "o:label": "cargoVolume",
+    "o:local_name": "cargoVolume",
+    "o:term": "schema:cargoVolume",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

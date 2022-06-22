@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/792",
+    "@type": "o:Property",
+    "o:comment": "How the procedure is performed.",
+    "o:id": 792,
+    "o:label": "howPerformed",
+    "o:local_name": "howPerformed",
+    "o:term": "schema:howPerformed",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

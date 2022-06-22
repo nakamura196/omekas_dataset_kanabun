@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1007",
+    "@type": "o:Property",
+    "o:comment": "Range of acceptable values for a typical patient, when applicable.",
+    "o:id": 1007,
+    "o:label": "normalRange",
+    "o:local_name": "normalRange",
+    "o:term": "schema:normalRange",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

@@ -1,0 +1,238 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/items/30",
+    "@type": [
+        "o:Item",
+        "ex:missive"
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "404",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:modified": [
+        {
+            "@value": "14-Jan-20",
+            "is_public": true,
+            "property_id": 24,
+            "property_label": "Date Modified",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "金沢貞顕書状",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:age": [
+        {
+            "@value": "鎌倉時代後期",
+            "is_public": true,
+            "property_id": 214,
+            "property_label": "成立",
+            "type": "literal"
+        }
+    ],
+    "ex:author": [
+        {
+            "@value": "越後守（金沢貞顕）（花押）",
+            "is_public": true,
+            "property_id": 220,
+            "property_label": "差出",
+            "type": "literal"
+        }
+    ],
+    "ex:destination": [
+        {
+            "@value": "明忍御房（釼阿）",
+            "is_public": true,
+            "property_id": 219,
+            "property_label": "宛所",
+            "type": "literal"
+        }
+    ],
+    "ex:figure": [
+        {
+            "@value": "竪紙（礼紙）",
+            "is_public": true,
+            "property_id": 202,
+            "property_label": "形状",
+            "type": "literal"
+        }
+    ],
+    "ex:ibun": [
+        {
+            "@value": "鎌22844",
+            "is_public": true,
+            "property_id": 210,
+            "property_label": "遺文",
+            "type": "literal"
+        }
+    ],
+    "ex:japaneseCalendarDate": [
+        {
+            "@value": "（鎌倉後期）７月１８日",
+            "is_public": true,
+            "property_id": 211,
+            "property_label": "和暦年月日",
+            "type": "literal"
+        }
+    ],
+    "ex:kanagawakenshi": [
+        {
+            "@value": "1563",
+            "is_public": true,
+            "property_id": 208,
+            "property_label": "神奈川県史",
+            "type": "literal"
+        }
+    ],
+    "ex:kinbunbango": [
+        {
+            "@value": "35",
+            "is_public": true,
+            "property_id": 207,
+            "property_label": "金文番号",
+            "type": "literal"
+        }
+    ],
+    "ex:medium": [
+        {
+            "@value": "楮紙",
+            "is_public": true,
+            "property_id": 203,
+            "property_label": "料紙",
+            "type": "literal"
+        }
+    ],
+    "ex:note": [
+        {
+            "@value": "倉栖兼雄筆。影字あり（『金文』未収「金沢貞顕書状」）。",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "付加情報",
+            "type": "literal"
+        }
+    ],
+    "ex:seiribango": [
+        {
+            "@value": "404",
+            "is_public": true,
+            "property_id": 209,
+            "property_label": "整理番号",
+            "type": "literal"
+        }
+    ],
+    "ex:shihai": [
+        {
+            "@value": "『瑜祇経聞書口注第一〈四ー内〉』（釼阿本）第3紙",
+            "is_public": true,
+            "property_id": 200,
+            "property_label": "紙背",
+            "type": "literal"
+        }
+    ],
+    "ex:subject": [
+        {
+            "@value": "金沢貞顕書状",
+            "is_public": true,
+            "property_id": 205,
+            "property_label": "史料名",
+            "type": "literal"
+        }
+    ],
+    "ex:transcript": [
+        {
+            "@value": "又、阿弥陀堂（称名寺）息屋事、尤可宜\r\n候歟、仍材木事加下知候也、\r\n彼状即進候、可令付覚恵（二宮）給\r\n候、当時京都無殊事候也、兼又\r\n白地参向事、此間自是追\r\n可令申候也、他事期後信候、\r\n恐々謹言、\r\n　　七月十八日　越後守（金沢貞顕）（花押）\r\n　明忍御房（釼阿）〈御返事〉\r\n　　　　（切封墨引）\r\n\r\n【去月七日御文、同廿三日到\r\n　来、［　　　　］、白地下向事\r\n［　　　　］禅興寺（相模国山内庄）御閑談\r\n［　　　　］、御精進［　　　］\r\n（六行ヵ判読不能）\r\n［　　　　　　　　　　　　　］（花押）】",
+            "is_public": true,
+            "property_id": 218,
+            "property_label": "transcript",
+            "type": "literal"
+        }
+    ],
+    "ex:volume": [
+        {
+            "@value": "1通",
+            "is_public": true,
+            "property_id": 215,
+            "property_label": "紙数",
+            "type": "literal"
+        },
+        {
+            "@value": "1紙",
+            "is_public": true,
+            "property_id": 215,
+            "property_label": "紙数",
+            "type": "literal"
+        }
+    ],
+    "ex:yearCode": [
+        {
+            "@value": "13337070180",
+            "is_public": true,
+            "property_id": 213,
+            "property_label": "西暦コード",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2022-03-31T07:24:08+00:00"
+    },
+    "o:id": 30,
+    "o:is_public": true,
+    "o:item_set": [],
+    "o:media": [
+        {
+            "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/media/1083",
+            "o:id": 1083
+        },
+        {
+            "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/media/1084",
+            "o:id": 1084
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2022-05-30T00:54:56+00:00"
+    },
+    "o:owner": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/resource_classes/108",
+        "o:id": 108
+    },
+    "o:resource_template": null,
+    "o:site": [
+        {
+            "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/sites/1",
+            "o:id": 1
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "金沢貞顕書状",
+    "schema:url": [
+        {
+            "@value": "https://wwwap.hi.u-tokyo.ac.jp/sda/w21/20051125004105",
+            "is_public": true,
+            "property_id": 1459,
+            "property_label": "url",
+            "type": "literal"
+        }
+    ],
+    "thumbnail_display_urls": {
+        "large": "https://kanazawabunko-db.pen-kanagawa.ed.jp/files/large/9e1aa37591a9dd47f197bfa6ca039848176964e7.jpg",
+        "medium": "https://kanazawabunko-db.pen-kanagawa.ed.jp/files/medium/9e1aa37591a9dd47f197bfa6ca039848176964e7.jpg",
+        "square": "https://kanazawabunko-db.pen-kanagawa.ed.jp/files/square/9e1aa37591a9dd47f197bfa6ca039848176964e7.jpg"
+    }
+}

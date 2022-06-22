@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/709",
+    "@type": "o:Property",
+    "o:comment": "A person or organization that supports (sponsors) something through some kind of financial contribution.",
+    "o:id": 709,
+    "o:label": "funder",
+    "o:local_name": "funder",
+    "o:term": "schema:funder",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

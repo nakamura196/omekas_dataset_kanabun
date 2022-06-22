@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/245",
+    "@type": "o:Property",
+    "o:comment": "A set of requirements that a must be fulfilled in order to perform an Action. If more than one value is specied, fulfilling one set of requirements will allow the Action to be performed.",
+    "o:id": 245,
+    "o:label": "actionAccessibilityRequirement",
+    "o:local_name": "actionAccessibilityRequirement",
+    "o:term": "schema:actionAccessibilityRequirement",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

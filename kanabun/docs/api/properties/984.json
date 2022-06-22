@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/984",
+    "@type": "o:Property",
+    "o:comment": "Whether multiple values are allowed for the property.  Default is false.",
+    "o:id": 984,
+    "o:label": "multipleValues",
+    "o:local_name": "multipleValues",
+    "o:term": "schema:multipleValues",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

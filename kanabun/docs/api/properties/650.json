@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/650",
+    "@type": "o:Property",
+    "o:comment": "The estimated cost of the supply or supplies consumed when performing instructions.",
+    "o:id": 650,
+    "o:label": "estimatedCost",
+    "o:local_name": "estimatedCost",
+    "o:term": "schema:estimatedCost",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

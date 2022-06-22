@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/847",
+    "@type": "o:Property",
+    "o:comment": "Subcellular location where this BioChemEntity is located; please use PropertyValue if you want to include any evidence.",
+    "o:id": 847,
+    "o:label": "isLocatedInSubcellularLocation",
+    "o:local_name": "isLocatedInSubcellularLocation",
+    "o:term": "schema:isLocatedInSubcellularLocation",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

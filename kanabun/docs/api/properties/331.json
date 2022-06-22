@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/331",
+    "@type": "o:Property",
+    "o:comment": "The target group associated with a given audience (e.g. veterans, car owners, musicians, etc.).",
+    "o:id": 331,
+    "o:label": "audienceType",
+    "o:local_name": "audienceType",
+    "o:term": "schema:audienceType",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

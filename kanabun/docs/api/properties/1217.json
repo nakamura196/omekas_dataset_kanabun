@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1217",
+    "@type": "o:Property",
+    "o:comment": "The most generic familial relation.",
+    "o:id": 1217,
+    "o:label": "relatedTo",
+    "o:local_name": "relatedTo",
+    "o:term": "schema:relatedTo",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

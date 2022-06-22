@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1660",
+    "@type": "o:Property",
+    "o:comment": "Indicates an item or CreativeWork that is part of this item, or CreativeWork (in some sense).",
+    "o:id": 1660,
+    "o:label": "hasPart",
+    "o:local_name": "hasPart",
+    "o:term": "schema:hasPart",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

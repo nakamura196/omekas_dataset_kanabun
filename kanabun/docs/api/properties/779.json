@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/779",
+    "@type": "o:Property",
+    "o:comment": "The tier(s) for this network.",
+    "o:id": 779,
+    "o:label": "healthPlanNetworkTier",
+    "o:local_name": "healthPlanNetworkTier",
+    "o:term": "schema:healthPlanNetworkTier",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

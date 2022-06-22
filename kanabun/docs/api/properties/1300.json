@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1300",
+    "@type": "o:Property",
+    "o:comment": "Status of a game server.",
+    "o:id": 1300,
+    "o:label": "serverStatus",
+    "o:local_name": "serverStatus",
+    "o:term": "schema:serverStatus",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

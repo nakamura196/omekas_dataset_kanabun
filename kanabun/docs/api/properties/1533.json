@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1533",
+    "@type": "o:Property",
+    "o:comment": "Device required to run the application. Used in cases where a specific make/model is required to run the application.",
+    "o:id": 1533,
+    "o:label": "availableOnDevice",
+    "o:local_name": "availableOnDevice",
+    "o:term": "schema:availableOnDevice",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

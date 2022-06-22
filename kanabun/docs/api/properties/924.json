@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/924",
+    "@type": "o:Property",
+    "o:comment": "Textual description of the unit type (including suite vs. room, size of bed, etc.).",
+    "o:id": 924,
+    "o:label": "lodgingUnitType",
+    "o:local_name": "lodgingUnitType",
+    "o:term": "schema:lodgingUnitType",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

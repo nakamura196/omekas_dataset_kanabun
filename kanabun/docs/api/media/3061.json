@@ -1,0 +1,103 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/media/3061",
+    "@type": [
+        "o:Media",
+        "ex:image"
+    ],
+    "data": {
+        "dimensions": {
+            "large": {
+                "height": 533,
+                "width": 800
+            },
+            "medium": {
+                "height": 267,
+                "width": 400
+            },
+            "original": {
+                "height": 1600,
+                "width": 2400
+            },
+            "square": {
+                "height": 200,
+                "width": 200
+            }
+        },
+        "tile": {
+            "tiled_tiff": {
+                "format": "tif",
+                "media_path": "914bd2471a8e50468a19b3809c73a9918e78870c.tif",
+                "metadata_path": null,
+                "overlap": 0,
+                "path_base": "/var/www/html/files/tile",
+                "size": 256,
+                "source": {
+                    "height": 1600,
+                    "width": 2400
+                },
+                "tile_type": "tiled_tiff",
+                "total": null,
+                "url_base": "https://kanazawabunko-db.pen-kanagawa.ed.jp/files/tile",
+                "url_query": ""
+            }
+        }
+    },
+    "dcterms:title": [
+        {
+            "@value": "什蔵書状",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:alt_text": null,
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2022-03-31T23:46:12+00:00"
+    },
+    "o:filename": "914bd2471a8e50468a19b3809c73a9918e78870c.jpg",
+    "o:id": 3061,
+    "o:ingester": "url",
+    "o:is_public": true,
+    "o:item": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/items/1009",
+        "o:id": 1009
+    },
+    "o:lang": null,
+    "o:media_type": "image/jpeg",
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2022-03-31T23:46:12+00:00"
+    },
+    "o:original_url": "https://kanazawabunko-db.pen-kanagawa.ed.jp/files/original/914bd2471a8e50468a19b3809c73a9918e78870c.jpg",
+    "o:owner": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:renderer": "file",
+    "o:resource_class": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/resource_classes/109",
+        "o:id": 109
+    },
+    "o:resource_template": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/resource_templates/1",
+        "o:id": 1
+    },
+    "o:sha256": "05e659ddaae52b1e61be04ecaa2cf7012e4db35505766c046b98b68c7852b0ac",
+    "o:size": 258649,
+    "o:source": "https://admin_kanazawabunko:b1beeswg8m2eiz0wv5v2@www.kanazawabunko.pref.kanagawa.jp.il3c.com/files/kanazawabunko-images-compressed/4018-1.jpg",
+    "o:thumbnail": null,
+    "o:thumbnail_urls": {
+        "large": "https://kanazawabunko-db.pen-kanagawa.ed.jp/files/large/914bd2471a8e50468a19b3809c73a9918e78870c.jpg",
+        "medium": "https://kanazawabunko-db.pen-kanagawa.ed.jp/files/medium/914bd2471a8e50468a19b3809c73a9918e78870c.jpg",
+        "square": "https://kanazawabunko-db.pen-kanagawa.ed.jp/files/square/914bd2471a8e50468a19b3809c73a9918e78870c.jpg"
+    },
+    "o:title": "什蔵書状",
+    "thumbnail_display_urls": {
+        "large": "https://kanazawabunko-db.pen-kanagawa.ed.jp/files/large/914bd2471a8e50468a19b3809c73a9918e78870c.jpg",
+        "medium": "https://kanazawabunko-db.pen-kanagawa.ed.jp/files/medium/914bd2471a8e50468a19b3809c73a9918e78870c.jpg",
+        "square": "https://kanazawabunko-db.pen-kanagawa.ed.jp/files/square/914bd2471a8e50468a19b3809c73a9918e78870c.jpg"
+    }
+}

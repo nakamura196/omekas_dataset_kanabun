@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1444",
+    "@type": "o:Property",
+    "o:comment": "Information about travel bans, e.g. in the context of a pandemic.",
+    "o:id": 1444,
+    "o:label": "travelBans",
+    "o:local_name": "travelBans",
+    "o:term": "schema:travelBans",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

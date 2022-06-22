@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1429",
+    "@type": "o:Property",
+    "o:comment": "Attraction suitable for type(s) of tourist. eg. Children, visitors from a particular country, etc. ",
+    "o:id": 1429,
+    "o:label": "touristType",
+    "o:local_name": "touristType",
+    "o:term": "schema:touristType",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

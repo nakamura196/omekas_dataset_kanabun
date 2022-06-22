@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/959",
+    "@type": "o:Property",
+    "o:comment": "A member of this organization.",
+    "o:id": 959,
+    "o:label": "members",
+    "o:local_name": "members",
+    "o:term": "schema:members",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

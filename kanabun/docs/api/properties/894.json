@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/894",
+    "@type": "o:Property",
+    "o:comment": "The drug or supplement's legal status, including any controlled substance schedules that apply.",
+    "o:id": 894,
+    "o:label": "legalStatus",
+    "o:local_name": "legalStatus",
+    "o:term": "schema:legalStatus",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

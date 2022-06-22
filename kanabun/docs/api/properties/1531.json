@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1531",
+    "@type": "o:Property",
+    "o:comment": "A person or organization attending the event.",
+    "o:id": 1531,
+    "o:label": "attendee",
+    "o:local_name": "attendee",
+    "o:term": "schema:attendee",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

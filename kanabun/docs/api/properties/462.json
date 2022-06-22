@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/462",
+    "@type": "o:Property",
+    "o:comment": "Other anatomical structures to which this structure is connected.",
+    "o:id": 462,
+    "o:label": "connectedTo",
+    "o:local_name": "connectedTo",
+    "o:term": "schema:connectedTo",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

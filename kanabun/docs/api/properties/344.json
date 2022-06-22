@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/344",
+    "@type": "o:Property",
+    "o:comment": "A medical service available from this provider.",
+    "o:id": 344,
+    "o:label": "availableService",
+    "o:local_name": "availableService",
+    "o:term": "schema:availableService",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

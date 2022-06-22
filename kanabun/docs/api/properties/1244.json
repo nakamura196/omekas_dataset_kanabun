@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1244",
+    "@type": "o:Property",
+    "o:comment": "Responsibilities associated with this role or Occupation.",
+    "o:id": 1244,
+    "o:label": "responsibilities",
+    "o:local_name": "responsibilities",
+    "o:term": "schema:responsibilities",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/925",
+    "@type": "o:Property",
+    "o:comment": "An associated logo.",
+    "o:id": 925,
+    "o:label": "logo",
+    "o:local_name": "logo",
+    "o:term": "schema:logo",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1638",
+    "@type": "o:Property",
+    "o:comment": "The basic containment relation between a place and one that contains it.",
+    "o:id": 1638,
+    "o:label": "containedInPlace",
+    "o:local_name": "containedInPlace",
+    "o:term": "schema:containedInPlace",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

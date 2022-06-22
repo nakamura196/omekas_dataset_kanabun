@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/692",
+    "@type": "o:Property",
+    "o:comment": "A sub property of object. The person or organization being followed.",
+    "o:id": 692,
+    "o:label": "followee",
+    "o:local_name": "followee",
+    "o:term": "schema:followee",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

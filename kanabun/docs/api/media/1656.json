@@ -1,0 +1,119 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/media/1656",
+    "@type": [
+        "o:Media",
+        "ex:image"
+    ],
+    "data": {
+        "dimensions": {
+            "large": {
+                "height": 529,
+                "width": 800
+            },
+            "medium": {
+                "height": 264,
+                "width": 400
+            },
+            "original": {
+                "height": 1586,
+                "width": 2400
+            },
+            "square": {
+                "height": 200,
+                "width": 200
+            }
+        },
+        "tile": {
+            "deepzoom": {
+                "format": "jpg",
+                "media_path": "95e95cbd8ccf90dd66401c1bdee61f1df0d193ba_files",
+                "metadata_path": "95e95cbd8ccf90dd66401c1bdee61f1df0d193ba.dzi",
+                "overlap": 0,
+                "path_base": "/var/www/html/files/tile",
+                "size": 256,
+                "source": {
+                    "height": 1586,
+                    "width": 2400
+                },
+                "tile_type": "deepzoom",
+                "total": null,
+                "url_base": "https://kanazawabunko-db.pen-kanagawa.ed.jp/files/tile",
+                "url_query": ""
+            },
+            "tiled_tiff": {
+                "format": "tif",
+                "media_path": "95e95cbd8ccf90dd66401c1bdee61f1df0d193ba.tif",
+                "metadata_path": null,
+                "overlap": 0,
+                "path_base": "/var/www/html/files/tile",
+                "size": 256,
+                "source": {
+                    "height": 1586,
+                    "width": 2400
+                },
+                "tile_type": "tiled_tiff",
+                "total": null,
+                "url_base": "https://kanazawabunko-db.pen-kanagawa.ed.jp/files/tile",
+                "url_query": ""
+            }
+        }
+    },
+    "dcterms:title": [
+        {
+            "@value": "金沢貞顕書状（紙背）",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:alt_text": null,
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2022-03-31T10:21:21+00:00"
+    },
+    "o:filename": "95e95cbd8ccf90dd66401c1bdee61f1df0d193ba.jpg",
+    "o:id": 1656,
+    "o:ingester": "url",
+    "o:is_public": true,
+    "o:item": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/items/309",
+        "o:id": 309
+    },
+    "o:lang": null,
+    "o:media_type": "image/jpeg",
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2022-03-31T10:21:21+00:00"
+    },
+    "o:original_url": "https://kanazawabunko-db.pen-kanagawa.ed.jp/files/original/95e95cbd8ccf90dd66401c1bdee61f1df0d193ba.jpg",
+    "o:owner": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:renderer": "file",
+    "o:resource_class": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/resource_classes/109",
+        "o:id": 109
+    },
+    "o:resource_template": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/resource_templates/1",
+        "o:id": 1
+    },
+    "o:sha256": "6ffb795f1c1c6e04b49077f8d55372369bea6e41a42859d015f50a0fd43741b6",
+    "o:size": 389926,
+    "o:source": "https://admin_kanazawabunko:b1beeswg8m2eiz0wv5v2@www.kanazawabunko.pref.kanagawa.jp.il3c.com/files/kanazawabunko-images-compressed/308-2.jpg",
+    "o:thumbnail": null,
+    "o:thumbnail_urls": {
+        "large": "https://kanazawabunko-db.pen-kanagawa.ed.jp/files/large/95e95cbd8ccf90dd66401c1bdee61f1df0d193ba.jpg",
+        "medium": "https://kanazawabunko-db.pen-kanagawa.ed.jp/files/medium/95e95cbd8ccf90dd66401c1bdee61f1df0d193ba.jpg",
+        "square": "https://kanazawabunko-db.pen-kanagawa.ed.jp/files/square/95e95cbd8ccf90dd66401c1bdee61f1df0d193ba.jpg"
+    },
+    "o:title": "金沢貞顕書状（紙背）",
+    "thumbnail_display_urls": {
+        "large": "https://kanazawabunko-db.pen-kanagawa.ed.jp/files/large/95e95cbd8ccf90dd66401c1bdee61f1df0d193ba.jpg",
+        "medium": "https://kanazawabunko-db.pen-kanagawa.ed.jp/files/medium/95e95cbd8ccf90dd66401c1bdee61f1df0d193ba.jpg",
+        "square": "https://kanazawabunko-db.pen-kanagawa.ed.jp/files/square/95e95cbd8ccf90dd66401c1bdee61f1df0d193ba.jpg"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/831",
+    "@type": "o:Property",
+    "o:comment": "The WebSite or SoftwareApplication where the interactions took place.",
+    "o:id": 831,
+    "o:label": "interactionService",
+    "o:local_name": "interactionService",
+    "o:term": "schema:interactionService",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

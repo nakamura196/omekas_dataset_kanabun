@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1525",
+    "@type": "o:Property",
+    "o:comment": "A release of this album.",
+    "o:id": 1525,
+    "o:label": "albumRelease",
+    "o:local_name": "albumRelease",
+    "o:term": "schema:albumRelease",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

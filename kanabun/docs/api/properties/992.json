@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/992",
+    "@type": "o:Property",
+    "o:comment": "The North American Industry Classification System (NAICS) code for a particular organization or business person.",
+    "o:id": 992,
+    "o:label": "naics",
+    "o:local_name": "naics",
+    "o:term": "schema:naics",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

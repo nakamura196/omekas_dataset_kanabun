@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/413",
+    "@type": "o:Property",
+    "o:comment": "The number of calories.",
+    "o:id": 413,
+    "o:label": "calories",
+    "o:local_name": "calories",
+    "o:term": "schema:calories",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

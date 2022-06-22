@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/321",
+    "@type": "o:Property",
+    "o:comment": "The item being described is intended to assess the competency or learning outcome defined by the referenced term.",
+    "o:id": 321,
+    "o:label": "assesses",
+    "o:local_name": "assesses",
+    "o:term": "schema:assesses",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

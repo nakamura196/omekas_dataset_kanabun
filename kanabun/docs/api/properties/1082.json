@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1082",
+    "@type": "o:Property",
+    "o:comment": "The passenger's sequence number as assigned by the airline.",
+    "o:id": 1082,
+    "o:label": "passengerSequenceNumber",
+    "o:local_name": "passengerSequenceNumber",
+    "o:term": "schema:passengerSequenceNumber",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/93",
+    "@type": "o:Property",
+    "o:comment": null,
+    "o:id": 93,
+    "o:label": "eanucc13",
+    "o:local_name": "eanucc13",
+    "o:term": "bibo:eanucc13",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/3",
+        "o:id": 3
+    }
+}

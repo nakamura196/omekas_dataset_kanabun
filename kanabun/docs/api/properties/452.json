@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/452",
+    "@type": "o:Property",
+    "o:comment": "The individual who adds color to inked drawings.",
+    "o:id": 452,
+    "o:label": "colorist",
+    "o:local_name": "colorist",
+    "o:term": "schema:colorist",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/901",
+    "@type": "o:Property",
+    "o:comment": "Whether the legislation is currently in force, not in force, or partially in force.",
+    "o:id": 901,
+    "o:label": "legislationLegalForce",
+    "o:local_name": "legislationLegalForce",
+    "o:term": "schema:legislationLegalForce",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

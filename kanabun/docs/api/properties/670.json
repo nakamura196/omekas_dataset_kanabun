@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/670",
+    "@type": "o:Property",
+    "o:comment": "An Offer which must be accepted before the user can perform the Action. For example, the user may need to buy a movie before being able to watch it.",
+    "o:id": 670,
+    "o:label": "expectsAcceptanceOf",
+    "o:local_name": "expectsAcceptanceOf",
+    "o:term": "schema:expectsAcceptanceOf",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

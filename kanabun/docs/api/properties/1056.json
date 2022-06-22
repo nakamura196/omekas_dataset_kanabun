@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1056",
+    "@type": "o:Property",
+    "o:comment": "The current status of the order.",
+    "o:id": 1056,
+    "o:label": "orderStatus",
+    "o:local_name": "orderStatus",
+    "o:term": "schema:orderStatus",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

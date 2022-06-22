@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1090",
+    "@type": "o:Property",
+    "o:comment": "The status of payment; whether the invoice has been paid or not.",
+    "o:id": 1090,
+    "o:label": "paymentStatus",
+    "o:local_name": "paymentStatus",
+    "o:term": "schema:paymentStatus",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

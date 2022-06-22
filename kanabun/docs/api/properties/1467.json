@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1467",
+    "@type": "o:Property",
+    "o:comment": "The date when the item becomes valid.",
+    "o:id": 1467,
+    "o:label": "validFrom",
+    "o:local_name": "validFrom",
+    "o:term": "schema:validFrom",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

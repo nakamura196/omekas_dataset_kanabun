@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/175",
+    "@type": "o:Property",
+    "o:comment": "A theme.",
+    "o:id": 175,
+    "o:label": "theme",
+    "o:local_name": "theme",
+    "o:term": "foaf:theme",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/4",
+        "o:id": 4
+    }
+}

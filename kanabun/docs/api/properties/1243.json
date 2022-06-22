@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1243",
+    "@type": "o:Property",
+    "o:comment": "A ticket associated with the reservation.",
+    "o:id": 1243,
+    "o:label": "reservedTicket",
+    "o:local_name": "reservedTicket",
+    "o:term": "schema:reservedTicket",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1546",
+    "@type": "o:Property",
+    "o:comment": "The location depicted or described in the content. For example, the location in a photograph or painting.",
+    "o:id": 1546,
+    "o:label": "contentLocation",
+    "o:local_name": "contentLocation",
+    "o:term": "schema:contentLocation",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1570",
+    "@type": "o:Property",
+    "o:comment": "A Defined Term contained in this term set.",
+    "o:id": 1570,
+    "o:label": "hasDefinedTerm",
+    "o:local_name": "hasDefinedTerm",
+    "o:term": "schema:hasDefinedTerm",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/995",
+    "@type": "o:Property",
+    "o:comment": "Nationality of the person.",
+    "o:id": 995,
+    "o:label": "nationality",
+    "o:local_name": "nationality",
+    "o:term": "schema:nationality",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

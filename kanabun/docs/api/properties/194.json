@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/194",
+    "@type": "o:Property",
+    "o:comment": "Any data that can be used for any purpose.",
+    "o:id": 194,
+    "o:label": "Data",
+    "o:local_name": "data",
+    "o:term": "curation:data",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/5",
+        "o:id": 5
+    }
+}

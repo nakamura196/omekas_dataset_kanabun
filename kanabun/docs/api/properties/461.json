@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/461",
+    "@type": "o:Property",
+    "o:comment": "A number that confirms the given order or payment has been received.",
+    "o:id": 461,
+    "o:label": "confirmationNumber",
+    "o:local_name": "confirmationNumber",
+    "o:term": "schema:confirmationNumber",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/574",
+    "@type": "o:Property",
+    "o:comment": "Information about disease prevention.",
+    "o:id": 574,
+    "o:label": "diseasePreventionInfo",
+    "o:local_name": "diseasePreventionInfo",
+    "o:term": "schema:diseasePreventionInfo",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

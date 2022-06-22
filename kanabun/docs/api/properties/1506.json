@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1506",
+    "@type": "o:Property",
+    "o:comment": "The permitted total weight of the loaded vehicle, including passengers and cargo and the weight of the empty vehicle.\\\n\\\nTypical unit code(s): KGM for kilogram, LBR for pound\\\n\\\n* Note 1: You can indicate additional information in the [[name]] of the [[QuantitativeValue]] node.\\\n* Note 2: You may also link to a [[QualitativeValue]] node that provides additional information using [[valueReference]].\\\n* Note 3: Note that you can use [[minValue]] and [[maxValue]] to indicate ranges.",
+    "o:id": 1506,
+    "o:label": "weightTotal",
+    "o:local_name": "weightTotal",
+    "o:term": "schema:weightTotal",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

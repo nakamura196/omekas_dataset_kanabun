@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/272",
+    "@type": "o:Property",
+    "o:comment": "Classification of the album by it's type of content: soundtrack, live album, studio album, etc.",
+    "o:id": 272,
+    "o:label": "albumProductionType",
+    "o:local_name": "albumProductionType",
+    "o:term": "schema:albumProductionType",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1037",
+    "@type": "o:Property",
+    "o:comment": "The observedNode of an [[Observation]], often a [[StatisticalPopulation]].",
+    "o:id": 1037,
+    "o:label": "observedNode",
+    "o:local_name": "observedNode",
+    "o:term": "schema:observedNode",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

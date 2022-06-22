@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/201",
+    "@type": "o:Property",
+    "o:comment": null,
+    "o:id": 201,
+    "o:label": "付加情報",
+    "o:local_name": "note",
+    "o:term": "ex:note",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/6",
+        "o:id": 6
+    }
+}

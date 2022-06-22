@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/871",
+    "@type": "o:Property",
+    "o:comment": "The item that is being reviewed/rated.",
+    "o:id": 871,
+    "o:label": "itemReviewed",
+    "o:local_name": "itemReviewed",
+    "o:term": "schema:itemReviewed",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

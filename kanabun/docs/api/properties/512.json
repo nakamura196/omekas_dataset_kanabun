@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/512",
+    "@type": "o:Property",
+    "o:comment": "collectiondate - Date for which patient counts are reported.",
+    "o:id": 512,
+    "o:label": "cvdCollectionDate",
+    "o:local_name": "cvdCollectionDate",
+    "o:term": "schema:cvdCollectionDate",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

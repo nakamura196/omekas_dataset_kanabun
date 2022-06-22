@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/955",
+    "@type": "o:Property",
+    "o:comment": "Medical audience for page.",
+    "o:id": 955,
+    "o:label": "medicalAudience",
+    "o:local_name": "medicalAudience",
+    "o:term": "schema:medicalAudience",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

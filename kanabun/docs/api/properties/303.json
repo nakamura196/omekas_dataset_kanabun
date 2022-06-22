@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/303",
+    "@type": "o:Property",
+    "o:comment": "The area within which users can expect to reach the broadcast service.",
+    "o:id": 303,
+    "o:label": "area",
+    "o:local_name": "area",
+    "o:term": "schema:area",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

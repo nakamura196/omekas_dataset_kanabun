@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/649",
+    "@type": "o:Property",
+    "o:comment": "For failed actions, more information on the cause of the failure.",
+    "o:id": 649,
+    "o:label": "error",
+    "o:local_name": "error",
+    "o:term": "schema:error",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

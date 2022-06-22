@@ -1,0 +1,85 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/media/3105",
+    "@type": "o:Media",
+    "data": {
+        "dimensions": {
+            "large": {
+                "height": 500,
+                "width": 750
+            },
+            "medium": {
+                "height": 267,
+                "width": 400
+            },
+            "original": {
+                "height": 500,
+                "width": 750
+            },
+            "square": {
+                "height": 200,
+                "width": 200
+            }
+        },
+        "tile": {
+            "tiled_tiff": {
+                "format": "tif",
+                "media_path": "48d929eb925e2c3bc648865d4d8f4169fa2c6e22.tif",
+                "metadata_path": null,
+                "overlap": 0,
+                "path_base": "/var/www/html/files/tile",
+                "size": 256,
+                "source": {
+                    "height": 500,
+                    "width": 750
+                },
+                "tile_type": "tiled_tiff",
+                "total": null,
+                "url_base": "https://kanazawabunko-db.pen-kanagawa.ed.jp/files/tile",
+                "url_query": ""
+            }
+        }
+    },
+    "o:alt_text": null,
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2022-04-05T07:06:18+00:00"
+    },
+    "o:filename": "48d929eb925e2c3bc648865d4d8f4169fa2c6e22.jpg",
+    "o:id": 3105,
+    "o:ingester": "upload",
+    "o:is_public": true,
+    "o:item": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/items/815",
+        "o:id": 815
+    },
+    "o:lang": null,
+    "o:media_type": "image/jpeg",
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2022-04-05T07:06:18+00:00"
+    },
+    "o:original_url": "https://kanazawabunko-db.pen-kanagawa.ed.jp/files/original/48d929eb925e2c3bc648865d4d8f4169fa2c6e22.jpg",
+    "o:owner": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:renderer": "file",
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:sha256": "187efed9ede7ff8467f156cd24e56cfe0d2eafb75410490ca9727d33a038f00b",
+    "o:size": 48319,
+    "o:source": "2979-2.jpg",
+    "o:thumbnail": null,
+    "o:thumbnail_urls": {
+        "large": "https://kanazawabunko-db.pen-kanagawa.ed.jp/files/large/48d929eb925e2c3bc648865d4d8f4169fa2c6e22.jpg",
+        "medium": "https://kanazawabunko-db.pen-kanagawa.ed.jp/files/medium/48d929eb925e2c3bc648865d4d8f4169fa2c6e22.jpg",
+        "square": "https://kanazawabunko-db.pen-kanagawa.ed.jp/files/square/48d929eb925e2c3bc648865d4d8f4169fa2c6e22.jpg"
+    },
+    "o:title": null,
+    "thumbnail_display_urls": {
+        "large": "https://kanazawabunko-db.pen-kanagawa.ed.jp/files/large/48d929eb925e2c3bc648865d4d8f4169fa2c6e22.jpg",
+        "medium": "https://kanazawabunko-db.pen-kanagawa.ed.jp/files/medium/48d929eb925e2c3bc648865d4d8f4169fa2c6e22.jpg",
+        "square": "https://kanazawabunko-db.pen-kanagawa.ed.jp/files/square/48d929eb925e2c3bc648865d4d8f4169fa2c6e22.jpg"
+    }
+}

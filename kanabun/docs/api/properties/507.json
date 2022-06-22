@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/507",
+    "@type": "o:Property",
+    "o:comment": "Party placing the order or paying the invoice.",
+    "o:id": 507,
+    "o:label": "customer",
+    "o:local_name": "customer",
+    "o:term": "schema:customer",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

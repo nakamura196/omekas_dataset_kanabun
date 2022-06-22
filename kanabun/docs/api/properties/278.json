@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/278",
+    "@type": "o:Property",
+    "o:comment": "An alias for the item.",
+    "o:id": 278,
+    "o:label": "alternateName",
+    "o:local_name": "alternateName",
+    "o:term": "schema:alternateName",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/199",
+    "@type": "o:Property",
+    "o:comment": null,
+    "o:id": 199,
+    "o:label": "欠損",
+    "o:local_name": "deficit",
+    "o:term": "ex:deficit",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/6",
+        "o:id": 6
+    }
+}

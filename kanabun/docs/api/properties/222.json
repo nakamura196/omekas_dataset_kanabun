@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/222",
+    "@type": "o:Property",
+    "o:comment": "An abstract is a short description that summarizes a [[CreativeWork]].",
+    "o:id": 222,
+    "o:label": "abstract",
+    "o:local_name": "abstract",
+    "o:term": "schema:abstract",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

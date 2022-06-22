@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/226",
+    "@type": "o:Property",
+    "o:comment": "The payment method(s) accepted by seller for this offer.",
+    "o:id": 226,
+    "o:label": "acceptedPaymentMethod",
+    "o:local_name": "acceptedPaymentMethod",
+    "o:term": "schema:acceptedPaymentMethod",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

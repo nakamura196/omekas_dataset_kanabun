@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/188",
+    "@type": "o:Property",
+    "o:comment": "Mark the resource as a selected one as soon as a value is set, whatever it is.",
+    "o:id": 188,
+    "o:label": "Selected",
+    "o:local_name": "selected",
+    "o:term": "curation:selected",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/5",
+        "o:id": 5
+    }
+}

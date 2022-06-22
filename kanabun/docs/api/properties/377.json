@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/377",
+    "@type": "o:Property",
+    "o:comment": "Indicates the design and body style of the vehicle (e.g. station wagon, hatchback, etc.).",
+    "o:id": 377,
+    "o:label": "bodyType",
+    "o:local_name": "bodyType",
+    "o:term": "schema:bodyType",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

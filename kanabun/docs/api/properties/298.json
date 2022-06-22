@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/298",
+    "@type": "o:Property",
+    "o:comment": "Subcategory of the application, e.g. 'Arcade Game'.",
+    "o:id": 298,
+    "o:label": "applicationSubCategory",
+    "o:local_name": "applicationSubCategory",
+    "o:term": "schema:applicationSubCategory",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

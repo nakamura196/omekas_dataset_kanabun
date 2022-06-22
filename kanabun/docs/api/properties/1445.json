@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1445",
+    "@type": "o:Property",
+    "o:comment": "Specifics about the trial design (enumerated).",
+    "o:id": 1445,
+    "o:label": "trialDesign",
+    "o:local_name": "trialDesign",
+    "o:term": "schema:trialDesign",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

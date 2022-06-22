@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/780",
+    "@type": "o:Property",
+    "o:comment": "The category or type of pharmacy associated with this cost sharing.",
+    "o:id": 780,
+    "o:label": "healthPlanPharmacyCategory",
+    "o:local_name": "healthPlanPharmacyCategory",
+    "o:term": "schema:healthPlanPharmacyCategory",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

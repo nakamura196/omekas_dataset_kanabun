@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/822",
+    "@type": "o:Property",
+    "o:comment": "The class of infectious agent (bacteria, prion, etc.) that causes the disease.",
+    "o:id": 822,
+    "o:label": "infectiousAgentClass",
+    "o:local_name": "infectiousAgentClass",
+    "o:term": "schema:infectiousAgentClass",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

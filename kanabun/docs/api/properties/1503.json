@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1503",
+    "@type": "o:Property",
+    "o:comment": "The time when a passenger can check into the flight online.",
+    "o:id": 1503,
+    "o:label": "webCheckinTime",
+    "o:local_name": "webCheckinTime",
+    "o:term": "schema:webCheckinTime",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

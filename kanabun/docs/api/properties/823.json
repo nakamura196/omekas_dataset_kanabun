@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/823",
+    "@type": "o:Property",
+    "o:comment": "A single ingredient used in the recipe, e.g. sugar, flour or garlic.",
+    "o:id": 823,
+    "o:label": "ingredients",
+    "o:local_name": "ingredients",
+    "o:term": "schema:ingredients",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

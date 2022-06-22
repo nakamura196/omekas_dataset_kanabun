@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1578",
+    "@type": "o:Property",
+    "o:comment": "A flag to signal that the item, event, or place is accessible for free.",
+    "o:id": 1578,
+    "o:label": "isAccessibleForFree",
+    "o:local_name": "isAccessibleForFree",
+    "o:term": "schema:isAccessibleForFree",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

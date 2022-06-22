@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/734",
+    "@type": "o:Property",
+    "o:comment": "governmentBenefitsInfo provides information about government benefits associated with a SpecialAnnouncement.",
+    "o:id": 734,
+    "o:label": "governmentBenefitsInfo",
+    "o:local_name": "governmentBenefitsInfo",
+    "o:term": "schema:governmentBenefitsInfo",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

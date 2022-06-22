@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1120",
+    "@type": "o:Property",
+    "o:comment": "The postal code. For example, 94043.",
+    "o:id": 1120,
+    "o:label": "postalCode",
+    "o:local_name": "postalCode",
+    "o:term": "schema:postalCode",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

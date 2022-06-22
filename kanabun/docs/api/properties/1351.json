@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1351",
+    "@type": "o:Property",
+    "o:comment": "The stage represented as a number, e.g. 3.",
+    "o:id": 1351,
+    "o:label": "stageAsNumber",
+    "o:local_name": "stageAsNumber",
+    "o:term": "schema:stageAsNumber",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

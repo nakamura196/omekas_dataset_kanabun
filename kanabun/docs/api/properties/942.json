@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/942",
+    "@type": "o:Property",
+    "o:comment": "The total number of individuals that may attend an event or venue.",
+    "o:id": 942,
+    "o:label": "maximumAttendeeCapacity",
+    "o:local_name": "maximumAttendeeCapacity",
+    "o:term": "schema:maximumAttendeeCapacity",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

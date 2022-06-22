@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1405",
+    "@type": "o:Property",
+    "o:comment": "Thumbnail image for an image or video.",
+    "o:id": 1405,
+    "o:label": "thumbnail",
+    "o:local_name": "thumbnail",
+    "o:term": "schema:thumbnail",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

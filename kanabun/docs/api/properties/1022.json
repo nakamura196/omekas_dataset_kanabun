@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1022",
+    "@type": "o:Property",
+    "o:comment": "The number of employees in an organization e.g. business.",
+    "o:id": 1022,
+    "o:label": "numberOfEmployees",
+    "o:local_name": "numberOfEmployees",
+    "o:term": "schema:numberOfEmployees",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

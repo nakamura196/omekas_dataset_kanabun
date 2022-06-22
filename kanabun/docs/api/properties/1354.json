@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1354",
+    "@type": "o:Property",
+    "o:comment": "The start time of the clip expressed as the number of seconds from the beginning of the work.",
+    "o:id": 1354,
+    "o:label": "startOffset",
+    "o:local_name": "startOffset",
+    "o:term": "schema:startOffset",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

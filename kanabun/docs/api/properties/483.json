@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/483",
+    "@type": "o:Property",
+    "o:comment": "The category of cost, such as wholesale, retail, reimbursement cap, etc.",
+    "o:id": 483,
+    "o:label": "costCategory",
+    "o:local_name": "costCategory",
+    "o:term": "schema:costCategory",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

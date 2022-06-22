@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/596",
+    "@type": "o:Property",
+    "o:comment": "Where a rental car can be dropped off.",
+    "o:id": 596,
+    "o:label": "dropoffLocation",
+    "o:local_name": "dropoffLocation",
+    "o:term": "schema:dropoffLocation",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

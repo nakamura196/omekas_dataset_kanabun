@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/237",
+    "@type": "o:Property",
+    "o:comment": "A floorplan of some [[Accommodation]].",
+    "o:id": 237,
+    "o:label": "accommodationFloorPlan",
+    "o:local_name": "accommodationFloorPlan",
+    "o:term": "schema:accommodationFloorPlan",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

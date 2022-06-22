@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1653",
+    "@type": "o:Property",
+    "o:comment": "A data catalog which contains this dataset.",
+    "o:id": 1653,
+    "o:label": "includedInDataCatalog",
+    "o:local_name": "includedInDataCatalog",
+    "o:term": "schema:includedInDataCatalog",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

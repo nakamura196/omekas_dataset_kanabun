@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/400",
+    "@type": "o:Property",
+    "o:comment": "The organization owning or operating the broadcast service.",
+    "o:id": 400,
+    "o:label": "broadcaster",
+    "o:local_name": "broadcaster",
+    "o:term": "schema:broadcaster",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

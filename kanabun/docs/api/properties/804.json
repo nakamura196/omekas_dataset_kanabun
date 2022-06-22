@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/804",
+    "@type": "o:Property",
+    "o:comment": "A [[CategoryCodeSet]] that contains this category code.",
+    "o:id": 804,
+    "o:label": "inCodeSet",
+    "o:local_name": "inCodeSet",
+    "o:term": "schema:inCodeSet",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

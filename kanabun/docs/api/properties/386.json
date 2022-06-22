@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/386",
+    "@type": "o:Property",
+    "o:comment": "The larger organization that this local business is a branch of, if any. Not to be confused with (anatomical)[[branch]].",
+    "o:id": 386,
+    "o:label": "branchOf",
+    "o:local_name": "branchOf",
+    "o:term": "schema:branchOf",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

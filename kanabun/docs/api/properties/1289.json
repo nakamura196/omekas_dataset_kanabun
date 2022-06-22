@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1289",
+    "@type": "o:Property",
+    "o:comment": "The section location of the reserved seat (e.g. Orchestra).",
+    "o:id": 1289,
+    "o:label": "seatSection",
+    "o:local_name": "seatSection",
+    "o:term": "schema:seatSection",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

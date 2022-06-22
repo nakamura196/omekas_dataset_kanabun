@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/439",
+    "@type": "o:Property",
+    "o:comment": "A short summary of the specific claims reviewed in a ClaimReview.",
+    "o:id": 439,
+    "o:label": "claimReviewed",
+    "o:local_name": "claimReviewed",
+    "o:term": "schema:claimReviewed",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

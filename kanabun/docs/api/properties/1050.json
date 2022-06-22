@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1050",
+    "@type": "o:Property",
+    "o:comment": "Date order was placed.",
+    "o:id": 1050,
+    "o:label": "orderDate",
+    "o:local_name": "orderDate",
+    "o:term": "schema:orderDate",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

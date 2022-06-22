@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1094",
+    "@type": "o:Property",
+    "o:comment": "The 25th percentile value.",
+    "o:id": 1094,
+    "o:label": "percentile25",
+    "o:local_name": "percentile25",
+    "o:term": "schema:percentile25",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

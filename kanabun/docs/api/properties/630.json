@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/630",
+    "@type": "o:Property",
+    "o:comment": "Type of employment (e.g. full-time, part-time, contract, temporary, seasonal, internship).",
+    "o:id": 630,
+    "o:label": "employmentType",
+    "o:local_name": "employmentType",
+    "o:term": "schema:employmentType",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

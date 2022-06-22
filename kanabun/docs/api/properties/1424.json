@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1424",
+    "@type": "o:Property",
+    "o:comment": "The number of positions open for this job posting. Use a positive integer. Do not use if the number of positions is unclear or not known.",
+    "o:id": 1424,
+    "o:label": "totalJobOpenings",
+    "o:local_name": "totalJobOpenings",
+    "o:term": "schema:totalJobOpenings",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/708",
+    "@type": "o:Property",
+    "o:comment": "The degree of mobility the joint allows.",
+    "o:id": 708,
+    "o:label": "functionalClass",
+    "o:local_name": "functionalClass",
+    "o:term": "schema:functionalClass",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

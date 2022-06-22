@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1101",
+    "@type": "o:Property",
+    "o:comment": "The target audience for this permit.",
+    "o:id": 1101,
+    "o:label": "permitAudience",
+    "o:local_name": "permitAudience",
+    "o:term": "schema:permitAudience",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1433",
+    "@type": "o:Property",
+    "o:comment": "The trailer of a movie or tv/radio series, season, episode, etc.",
+    "o:id": 1433,
+    "o:label": "trailer",
+    "o:local_name": "trailer",
+    "o:term": "schema:trailer",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

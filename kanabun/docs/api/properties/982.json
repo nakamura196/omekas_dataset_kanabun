@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/982",
+    "@type": "o:Property",
+    "o:comment": "Indicates the minimal number of months of experience required for a position.",
+    "o:id": 982,
+    "o:label": "monthsOfExperience",
+    "o:local_name": "monthsOfExperience",
+    "o:term": "schema:monthsOfExperience",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

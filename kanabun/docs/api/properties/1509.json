@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1509",
+    "@type": "o:Property",
+    "o:comment": "A sub property of participant. The winner of the action.",
+    "o:id": 1509,
+    "o:label": "winner",
+    "o:local_name": "winner",
+    "o:term": "schema:winner",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

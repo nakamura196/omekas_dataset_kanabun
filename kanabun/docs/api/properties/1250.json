@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1250",
+    "@type": "o:Property",
+    "o:comment": "The method (from an enumeration) by which the customer obtains a return shipping label for a product returned for any reason.",
+    "o:id": 1250,
+    "o:label": "returnLabelSource",
+    "o:local_name": "returnLabelSource",
+    "o:term": "schema:returnLabelSource",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

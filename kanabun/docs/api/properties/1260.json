@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1260",
+    "@type": "o:Property",
+    "o:comment": "People or organizations that have reviewed the content on this web page for accuracy and/or completeness.",
+    "o:id": 1260,
+    "o:label": "reviewedBy",
+    "o:local_name": "reviewedBy",
+    "o:term": "schema:reviewedBy",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

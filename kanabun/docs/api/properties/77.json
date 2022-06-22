@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/77",
+    "@type": "o:Property",
+    "o:comment": "An agent that receives a communication document.",
+    "o:id": 77,
+    "o:label": "recipient",
+    "o:local_name": "recipient",
+    "o:term": "bibo:recipient",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/3",
+        "o:id": 3
+    }
+}

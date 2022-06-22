@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1329",
+    "@type": "o:Property",
+    "o:comment": "A specification in form of a line notation for describing the structure of chemical species using short ASCII strings.  Double bond stereochemistry \\\\ indicators may need to be escaped in the string in formats where the backslash is an escape character.",
+    "o:id": 1329,
+    "o:label": "smiles",
+    "o:local_name": "smiles",
+    "o:term": "schema:smiles",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

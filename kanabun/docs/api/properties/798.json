@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/798",
+    "@type": "o:Property",
+    "o:comment": "The illustrator of the book.",
+    "o:id": 798,
+    "o:label": "illustrator",
+    "o:local_name": "illustrator",
+    "o:term": "schema:illustrator",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

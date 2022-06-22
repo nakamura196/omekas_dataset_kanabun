@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1242",
+    "@type": "o:Property",
+    "o:comment": "The current status of the reservation.",
+    "o:id": 1242,
+    "o:label": "reservationStatus",
+    "o:local_name": "reservationStatus",
+    "o:term": "schema:reservationStatus",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

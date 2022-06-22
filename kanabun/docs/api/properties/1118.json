@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1118",
+    "@type": "o:Property",
+    "o:comment": "The post office box number for PO box addresses.",
+    "o:id": 1118,
+    "o:label": "postOfficeBoxNumber",
+    "o:local_name": "postOfficeBoxNumber",
+    "o:term": "schema:postOfficeBoxNumber",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

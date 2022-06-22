@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/530",
+    "@type": "o:Property",
+    "o:comment": "The datetime the item was removed from the DataFeed.",
+    "o:id": 530,
+    "o:label": "dateDeleted",
+    "o:local_name": "dateDeleted",
+    "o:term": "schema:dateDeleted",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1484",
+    "@type": "o:Property",
+    "o:comment": "Information about the engine or engines of the vehicle.",
+    "o:id": 1484,
+    "o:label": "vehicleEngine",
+    "o:local_name": "vehicleEngine",
+    "o:term": "schema:vehicleEngine",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

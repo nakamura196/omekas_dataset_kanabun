@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/417",
+    "@type": "o:Property",
+    "o:comment": "'carrier' is an out-dated term indicating the 'provider' for parcel delivery and flights.",
+    "o:id": 417,
+    "o:label": "carrier",
+    "o:local_name": "carrier",
+    "o:term": "schema:carrier",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1087",
+    "@type": "o:Property",
+    "o:comment": "The date that payment is due.",
+    "o:id": 1087,
+    "o:label": "paymentDue",
+    "o:local_name": "paymentDue",
+    "o:term": "schema:paymentDue",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

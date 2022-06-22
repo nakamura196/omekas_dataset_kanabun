@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/474",
+    "@type": "o:Property",
+    "o:comment": "A contraindication for this therapy.",
+    "o:id": 474,
+    "o:label": "contraindication",
+    "o:local_name": "contraindication",
+    "o:term": "schema:contraindication",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/680",
+    "@type": "o:Property",
+    "o:comment": "Description of fees, commissions, and other terms applied either to a class of financial product, or by a financial service organization.",
+    "o:id": 680,
+    "o:label": "feesAndCommissionsSpecification",
+    "o:local_name": "feesAndCommissionsSpecification",
+    "o:term": "schema:feesAndCommissionsSpecification",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

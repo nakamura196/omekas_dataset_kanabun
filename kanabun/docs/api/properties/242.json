@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/242",
+    "@type": "o:Property",
+    "o:comment": "Indicates a page documenting how licenses can be purchased or otherwise acquired, for the current item.",
+    "o:id": 242,
+    "o:label": "acquireLicensePage",
+    "o:local_name": "acquireLicensePage",
+    "o:term": "schema:acquireLicensePage",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

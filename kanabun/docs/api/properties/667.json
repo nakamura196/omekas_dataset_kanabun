@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/667",
+    "@type": "o:Property",
+    "o:comment": "The earliest date the package may arrive.",
+    "o:id": 667,
+    "o:label": "expectedArrivalFrom",
+    "o:local_name": "expectedArrivalFrom",
+    "o:term": "schema:expectedArrivalFrom",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

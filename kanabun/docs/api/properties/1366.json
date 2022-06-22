@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1366",
+    "@type": "o:Property",
+    "o:comment": "Specifics about the observational study design (enumerated).",
+    "o:id": 1366,
+    "o:label": "studyDesign",
+    "o:local_name": "studyDesign",
+    "o:term": "schema:studyDesign",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

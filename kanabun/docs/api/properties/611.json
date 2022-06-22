@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/611",
+    "@type": "o:Property",
+    "o:comment": "A description of the qualification, award, certificate, diploma or other educational credential awarded as a consequence of successful completion of this course or program.",
+    "o:id": 611,
+    "o:label": "educationalCredentialAwarded",
+    "o:local_name": "educationalCredentialAwarded",
+    "o:term": "schema:educationalCredentialAwarded",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/930",
+    "@type": "o:Property",
+    "o:comment": "The words in the song.",
+    "o:id": 930,
+    "o:label": "lyrics",
+    "o:local_name": "lyrics",
+    "o:term": "schema:lyrics",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

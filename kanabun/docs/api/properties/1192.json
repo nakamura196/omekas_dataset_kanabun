@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1192",
+    "@type": "o:Property",
+    "o:comment": "A person who reads (performs) the audiobook.",
+    "o:id": 1192,
+    "o:label": "readBy",
+    "o:local_name": "readBy",
+    "o:term": "schema:readBy",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

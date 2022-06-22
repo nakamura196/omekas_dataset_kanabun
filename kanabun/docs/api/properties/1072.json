@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1072",
+    "@type": "o:Property",
+    "o:comment": "A broadcast service to which the broadcast service may belong to such as regional variations of a national channel.",
+    "o:id": 1072,
+    "o:label": "parentService",
+    "o:local_name": "parentService",
+    "o:term": "schema:parentService",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

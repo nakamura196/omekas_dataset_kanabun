@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/845",
+    "@type": "o:Property",
+    "o:comment": "Biological process this BioChemEntity is involved in; please use PropertyValue if you want to include any evidence.",
+    "o:id": 845,
+    "o:label": "isInvolvedInBiologicalProcess",
+    "o:local_name": "isInvolvedInBiologicalProcess",
+    "o:term": "schema:isInvolvedInBiologicalProcess",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

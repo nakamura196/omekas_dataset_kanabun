@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1307",
+    "@type": "o:Property",
+    "o:comment": "The number to access the service by text message.",
+    "o:id": 1307,
+    "o:label": "serviceSmsNumber",
+    "o:local_name": "serviceSmsNumber",
+    "o:term": "schema:serviceSmsNumber",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

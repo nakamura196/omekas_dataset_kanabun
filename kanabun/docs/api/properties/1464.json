@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1464",
+    "@type": "o:Property",
+    "o:comment": "The standard for interpreting thePlan ID. The preferred is \"HIOS\". See the Centers for Medicare & Medicaid Services for more details.",
+    "o:id": 1464,
+    "o:label": "usesHealthPlanIdStandard",
+    "o:local_name": "usesHealthPlanIdStandard",
+    "o:term": "schema:usesHealthPlanIdStandard",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1172",
+    "@type": "o:Property",
+    "o:comment": "Indicates the mobility of a provided service (e.g. 'static', 'dynamic').",
+    "o:id": 1172,
+    "o:label": "providerMobility",
+    "o:local_name": "providerMobility",
+    "o:term": "schema:providerMobility",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/39",
+    "@type": "o:Property",
+    "o:comment": "An established standard to which the described resource conforms.",
+    "o:id": 39,
+    "o:label": "Conforms To",
+    "o:local_name": "conformsTo",
+    "o:term": "dcterms:conformsTo",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/1",
+        "o:id": 1
+    }
+}

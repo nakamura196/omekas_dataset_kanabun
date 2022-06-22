@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/489",
+    "@type": "o:Property",
+    "o:comment": "The place where the product was assembled.",
+    "o:id": 489,
+    "o:label": "countryOfAssembly",
+    "o:local_name": "countryOfAssembly",
+    "o:term": "schema:countryOfAssembly",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

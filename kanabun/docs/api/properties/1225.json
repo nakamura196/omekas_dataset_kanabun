@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1225",
+    "@type": "o:Property",
+    "o:comment": "Defines the number of times a recurring [[Event]] will take place",
+    "o:id": 1225,
+    "o:label": "repeatCount",
+    "o:local_name": "repeatCount",
+    "o:term": "schema:repeatCount",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

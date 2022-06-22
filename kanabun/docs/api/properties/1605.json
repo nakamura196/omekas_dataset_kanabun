@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1605",
+    "@type": "o:Property",
+    "o:comment": "The Event where the CreativeWork was recorded. The CreativeWork may capture all or part of the event.",
+    "o:id": 1605,
+    "o:label": "recordedAt",
+    "o:local_name": "recordedAt",
+    "o:term": "schema:recordedAt",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

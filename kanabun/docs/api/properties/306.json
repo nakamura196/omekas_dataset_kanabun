@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/306",
+    "@type": "o:Property",
+    "o:comment": "The stop or station from which the bus arrives.",
+    "o:id": 306,
+    "o:label": "arrivalBusStop",
+    "o:local_name": "arrivalBusStop",
+    "o:term": "schema:arrivalBusStop",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

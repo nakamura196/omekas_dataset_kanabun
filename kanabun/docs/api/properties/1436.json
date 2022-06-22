@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1436",
+    "@type": "o:Property",
+    "o:comment": "The unique identifier for the train.",
+    "o:id": 1436,
+    "o:label": "trainNumber",
+    "o:local_name": "trainNumber",
+    "o:term": "schema:trainNumber",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

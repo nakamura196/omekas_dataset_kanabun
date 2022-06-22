@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/487",
+    "@type": "o:Property",
+    "o:comment": "Countries for which the application is not supported. You can also provide the two-letter ISO 3166-1 alpha-2 country code.",
+    "o:id": 487,
+    "o:label": "countriesNotSupported",
+    "o:local_name": "countriesNotSupported",
+    "o:term": "schema:countriesNotSupported",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

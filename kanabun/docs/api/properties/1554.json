@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1554",
+    "@type": "o:Property",
+    "o:comment": "The CreativeWork encoded by this media object.",
+    "o:id": 1554,
+    "o:label": "encodesCreativeWork",
+    "o:local_name": "encodesCreativeWork",
+    "o:term": "schema:encodesCreativeWork",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

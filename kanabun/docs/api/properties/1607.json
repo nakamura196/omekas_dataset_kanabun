@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1607",
+    "@type": "o:Property",
+    "o:comment": "The composition this track is a recording of.",
+    "o:id": 1607,
+    "o:label": "recordingOf",
+    "o:local_name": "recordingOf",
+    "o:term": "schema:recordingOf",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/711",
+    "@type": "o:Property",
+    "o:comment": "The edition of a video game.",
+    "o:id": 711,
+    "o:label": "gameEdition",
+    "o:local_name": "gameEdition",
+    "o:term": "schema:gameEdition",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1659",
+    "@type": "o:Property",
+    "o:comment": "A common representation such as a protein sequence or chemical structure for this entity. For images use schema.org/image.",
+    "o:id": 1659,
+    "o:label": "hasRepresentation",
+    "o:local_name": "hasRepresentation",
+    "o:term": "schema:hasRepresentation",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/133",
+    "@type": "o:Property",
+    "o:comment": "An AIM chat ID",
+    "o:id": 133,
+    "o:label": "AIM chat ID",
+    "o:local_name": "aimChatID",
+    "o:term": "foaf:aimChatID",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/4",
+        "o:id": 4
+    }
+}

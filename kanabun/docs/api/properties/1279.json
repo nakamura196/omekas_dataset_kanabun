@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1279",
+    "@type": "o:Property",
+    "o:comment": "Information about school closures.",
+    "o:id": 1279,
+    "o:label": "schoolClosuresInfo",
+    "o:local_name": "schoolClosuresInfo",
+    "o:term": "schema:schoolClosuresInfo",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

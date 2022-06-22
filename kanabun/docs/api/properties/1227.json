@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1227",
+    "@type": "o:Property",
+    "o:comment": "Number of times one should repeat the activity.",
+    "o:id": 1227,
+    "o:label": "repetitions",
+    "o:local_name": "repetitions",
+    "o:term": "schema:repetitions",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

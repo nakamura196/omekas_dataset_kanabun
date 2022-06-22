@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/172",
+    "@type": "o:Property",
+    "o:comment": "The underlying or 'focal' entity associated with some SKOS-described concept.",
+    "o:id": 172,
+    "o:label": "focus",
+    "o:local_name": "focus",
+    "o:term": "foaf:focus",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/4",
+        "o:id": 4
+    }
+}

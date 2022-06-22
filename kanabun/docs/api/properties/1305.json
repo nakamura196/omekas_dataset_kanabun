@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1305",
+    "@type": "o:Property",
+    "o:comment": "The phone number to use to access the service.",
+    "o:id": 1305,
+    "o:label": "servicePhone",
+    "o:local_name": "servicePhone",
+    "o:term": "schema:servicePhone",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

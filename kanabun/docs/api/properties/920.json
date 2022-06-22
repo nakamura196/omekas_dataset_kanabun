@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/920",
+    "@type": "o:Property",
+    "o:comment": "The duration of the loan or credit agreement.",
+    "o:id": 920,
+    "o:label": "loanTerm",
+    "o:local_name": "loanTerm",
+    "o:term": "schema:loanTerm",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

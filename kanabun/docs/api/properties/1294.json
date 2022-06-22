@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1294",
+    "@type": "o:Property",
+    "o:comment": "The type of security screening the passenger is subject to.",
+    "o:id": 1294,
+    "o:label": "securityScreening",
+    "o:local_name": "securityScreening",
+    "o:term": "schema:securityScreening",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/346",
+    "@type": "o:Property",
+    "o:comment": "A diagnostic test or procedure offered by this lab.",
+    "o:id": 346,
+    "o:label": "availableTest",
+    "o:local_name": "availableTest",
+    "o:term": "schema:availableTest",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

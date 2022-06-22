@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/736",
+    "@type": "o:Property",
+    "o:comment": "The person, organization, contact point, or audience that has been granted this permission.",
+    "o:id": 736,
+    "o:label": "grantee",
+    "o:local_name": "grantee",
+    "o:term": "schema:grantee",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

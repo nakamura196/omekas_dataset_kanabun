@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1634",
+    "@type": "o:Property",
+    "o:comment": "The subject matter of the content.",
+    "o:id": 1634,
+    "o:label": "about",
+    "o:local_name": "about",
+    "o:term": "schema:about",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/768",
+    "@type": "o:Property",
+    "o:comment": "Specifying the health condition(s) of a patient, medical study, or other target audience.",
+    "o:id": 768,
+    "o:label": "healthCondition",
+    "o:local_name": "healthCondition",
+    "o:term": "schema:healthCondition",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

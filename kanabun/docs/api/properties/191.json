@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/191",
+    "@type": "o:Property",
+    "o:comment": "A domain that can be used for some purposes.",
+    "o:id": 191,
+    "o:label": "Theme",
+    "o:local_name": "theme",
+    "o:term": "curation:theme",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/5",
+        "o:id": 5
+    }
+}

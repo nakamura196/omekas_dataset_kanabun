@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1162",
+    "@type": "o:Property",
+    "o:comment": "Proficiency needed for this content; expected values: 'Beginner', 'Expert'.",
+    "o:id": 1162,
+    "o:label": "proficiencyLevel",
+    "o:local_name": "proficiencyLevel",
+    "o:term": "schema:proficiencyLevel",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/655",
+    "@type": "o:Property",
+    "o:comment": "The eventAttendanceMode of an event indicates whether it occurs online, offline, or a mix.",
+    "o:id": 655,
+    "o:label": "eventAttendanceMode",
+    "o:local_name": "eventAttendanceMode",
+    "o:term": "schema:eventAttendanceMode",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/861",
+    "@type": "o:Property",
+    "o:comment": "The service through with the permit was granted.",
+    "o:id": 861,
+    "o:label": "issuedThrough",
+    "o:local_name": "issuedThrough",
+    "o:term": "schema:issuedThrough",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

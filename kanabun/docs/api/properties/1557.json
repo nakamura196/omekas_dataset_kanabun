@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1557",
+    "@type": "o:Property",
+    "o:comment": "Upcoming or past event associated with this place, organization, or action.",
+    "o:id": 1557,
+    "o:label": "event",
+    "o:local_name": "event",
+    "o:term": "schema:event",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

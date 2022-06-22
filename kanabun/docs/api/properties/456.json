@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/456",
+    "@type": "o:Property",
+    "o:comment": "The time at which the UserComment was made.",
+    "o:id": 456,
+    "o:label": "commentTime",
+    "o:local_name": "commentTime",
+    "o:term": "schema:commentTime",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

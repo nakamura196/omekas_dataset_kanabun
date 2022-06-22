@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/795",
+    "@type": "o:Property",
+    "o:comment": "ICAO identifier for an airport.",
+    "o:id": 795,
+    "o:label": "icaoCode",
+    "o:local_name": "icaoCode",
+    "o:term": "schema:icaoCode",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

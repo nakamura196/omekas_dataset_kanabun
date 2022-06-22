@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/214",
+    "@type": "o:Property",
+    "o:comment": null,
+    "o:id": 214,
+    "o:label": "成立",
+    "o:local_name": "age",
+    "o:term": "ex:age",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/6",
+        "o:id": 6
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1096",
+    "@type": "o:Property",
+    "o:comment": "The 90th percentile value.",
+    "o:id": 1096,
+    "o:label": "percentile90",
+    "o:local_name": "percentile90",
+    "o:term": "schema:percentile90",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

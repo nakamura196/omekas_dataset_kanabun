@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1566",
+    "@type": "o:Property",
+    "o:comment": "The server on which  it is possible to play the game.",
+    "o:id": 1566,
+    "o:label": "gameServer",
+    "o:local_name": "gameServer",
+    "o:term": "schema:gameServer",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

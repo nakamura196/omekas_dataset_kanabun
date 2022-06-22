@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/398",
+    "@type": "o:Property",
+    "o:comment": "The subchannel used for the broadcast.",
+    "o:id": 398,
+    "o:label": "broadcastSubChannel",
+    "o:local_name": "broadcastSubChannel",
+    "o:term": "schema:broadcastSubChannel",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

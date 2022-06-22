@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/936",
+    "@type": "o:Property",
+    "o:comment": "A marginOfError for an [[Observation]].",
+    "o:id": 936,
+    "o:label": "marginOfError",
+    "o:local_name": "marginOfError",
+    "o:term": "schema:marginOfError",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

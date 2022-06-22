@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/794",
+    "@type": "o:Property",
+    "o:comment": "IATA identifier for an airline or airport.",
+    "o:id": 794,
+    "o:label": "iataCode",
+    "o:local_name": "iataCode",
+    "o:term": "schema:iataCode",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

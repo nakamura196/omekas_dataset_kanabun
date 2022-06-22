@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1512",
+    "@type": "o:Property",
+    "o:comment": "A contact location for a person's place of work.",
+    "o:id": 1512,
+    "o:label": "workLocation",
+    "o:local_name": "workLocation",
+    "o:term": "schema:workLocation",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

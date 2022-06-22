@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/342",
+    "@type": "o:Property",
+    "o:comment": "The location in which the strength is available.",
+    "o:id": 342,
+    "o:label": "availableIn",
+    "o:local_name": "availableIn",
+    "o:term": "schema:availableIn",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

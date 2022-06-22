@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1076",
+    "@type": "o:Property",
+    "o:comment": "The overall order the items in this delivery were included in.",
+    "o:id": 1076,
+    "o:label": "partOfOrder",
+    "o:local_name": "partOfOrder",
+    "o:term": "schema:partOfOrder",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

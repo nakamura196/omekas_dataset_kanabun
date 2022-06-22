@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/200",
+    "@type": "o:Property",
+    "o:comment": null,
+    "o:id": 200,
+    "o:label": "紙背",
+    "o:local_name": "shihai",
+    "o:term": "ex:shihai",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/6",
+        "o:id": 6
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1435",
+    "@type": "o:Property",
+    "o:comment": "The name of the train (e.g. The Orient Express).",
+    "o:id": 1435,
+    "o:label": "trainName",
+    "o:local_name": "trainName",
+    "o:term": "schema:trainName",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

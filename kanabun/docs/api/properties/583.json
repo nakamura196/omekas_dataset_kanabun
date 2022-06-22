@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/583",
+    "@type": "o:Property",
+    "o:comment": "Indicates when shipping to a particular [[shippingDestination]] is not available.",
+    "o:id": 583,
+    "o:label": "doesNotShip",
+    "o:local_name": "doesNotShip",
+    "o:term": "schema:doesNotShip",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

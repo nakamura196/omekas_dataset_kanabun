@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1493",
+    "@type": "o:Property",
+    "o:comment": "Disclosure about verification and fact-checking processes for a [[NewsMediaOrganization]] or other fact-checking [[Organization]].",
+    "o:id": 1493,
+    "o:label": "verificationFactCheckingPolicy",
+    "o:local_name": "verificationFactCheckingPolicy",
+    "o:term": "schema:verificationFactCheckingPolicy",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

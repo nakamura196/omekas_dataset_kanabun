@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/85",
+    "@type": "o:Property",
+    "o:comment": "A person who translates written document from one language to another.",
+    "o:id": 85,
+    "o:label": "translator",
+    "o:local_name": "translator",
+    "o:term": "bibo:translator",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/3",
+        "o:id": 3
+    }
+}

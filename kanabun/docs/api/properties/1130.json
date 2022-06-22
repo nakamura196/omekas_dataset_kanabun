@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1130",
+    "@type": "o:Property",
+    "o:comment": "Any precaution, guidance, contraindication, etc. related to this drug's use during pregnancy.",
+    "o:id": 1130,
+    "o:label": "pregnancyWarning",
+    "o:local_name": "pregnancyWarning",
+    "o:term": "schema:pregnancyWarning",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

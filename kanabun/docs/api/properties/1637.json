@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1637",
+    "@type": "o:Property",
+    "o:comment": "A competitor in a sports event.",
+    "o:id": 1637,
+    "o:label": "competitor",
+    "o:local_name": "competitor",
+    "o:term": "schema:competitor",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

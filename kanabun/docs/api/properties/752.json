@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/752",
+    "@type": "o:Property",
+    "o:comment": "A credential awarded to the Person or Organization.",
+    "o:id": 752,
+    "o:label": "hasCredential",
+    "o:local_name": "hasCredential",
+    "o:term": "schema:hasCredential",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/271",
+    "@type": "o:Property",
+    "o:comment": "The kind of aircraft (e.g., \"Boeing 747\").",
+    "o:id": 271,
+    "o:label": "aircraft",
+    "o:local_name": "aircraft",
+    "o:term": "schema:aircraft",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/863",
+    "@type": "o:Property",
+    "o:comment": "An entity represented by an entry in a list or data feed (e.g. an 'artist' in a list of 'artists')’.",
+    "o:id": 863,
+    "o:label": "item",
+    "o:local_name": "item",
+    "o:term": "schema:item",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

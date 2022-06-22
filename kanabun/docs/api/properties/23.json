@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/23",
+    "@type": "o:Property",
+    "o:comment": "Date of formal issuance (e.g., publication) of the resource.",
+    "o:id": 23,
+    "o:label": "Date Issued",
+    "o:local_name": "issued",
+    "o:term": "dcterms:issued",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/1",
+        "o:id": 1
+    }
+}

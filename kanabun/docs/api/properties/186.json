@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/186",
+    "@type": "o:Property",
+    "o:comment": "Mark the resource as a new one as soon as a value is set, whatever it is.",
+    "o:id": 186,
+    "o:label": "New",
+    "o:local_name": "new",
+    "o:term": "curation:new",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/5",
+        "o:id": 5
+    }
+}

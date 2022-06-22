@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1047",
+    "@type": "o:Property",
+    "o:comment": "Operating systems supported (Windows 7, OSX 10.6, Android 1.6).",
+    "o:id": 1047,
+    "o:label": "operatingSystem",
+    "o:local_name": "operatingSystem",
+    "o:term": "schema:operatingSystem",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

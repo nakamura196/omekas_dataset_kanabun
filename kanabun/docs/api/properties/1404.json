@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1404",
+    "@type": "o:Property",
+    "o:comment": "Text value being annotated.",
+    "o:id": 1404,
+    "o:label": "textValue",
+    "o:local_name": "textValue",
+    "o:term": "schema:textValue",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}

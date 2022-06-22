@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/799",
+    "@type": "o:Property",
+    "o:comment": "Imaging technique used.",
+    "o:id": 799,
+    "o:label": "imagingTechnique",
+    "o:local_name": "imagingTechnique",
+    "o:term": "schema:imagingTechnique",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/7",
+        "o:id": 7
+    }
+}
