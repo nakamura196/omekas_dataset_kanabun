@@ -1,6 +1,6 @@
 {
-    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
-    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/58",
+    "@context": "https://archives.tuat-museum.org/api-context",
+    "@id": "https://archives.tuat-museum.org/api/properties/58",
     "@type": "o:Property",
     "o:comment": "An ordered list of authors. Normally, this list is seen as a priority list that order authors by importance.",
     "o:id": 58,
@@ -8,7 +8,7 @@
     "o:local_name": "authorList",
     "o:term": "bibo:authorList",
     "o:vocabulary": {
-        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/3",
+        "@id": "https://archives.tuat-museum.org/api/vocabularies/3",
         "o:id": 3
     }
 }

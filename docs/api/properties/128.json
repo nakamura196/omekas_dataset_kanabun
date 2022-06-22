@@ -1,6 +1,6 @@
 {
-    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
-    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/128",
+    "@context": "https://archives.tuat-museum.org/api-context",
+    "@id": "https://archives.tuat-museum.org/api/properties/128",
     "@type": "o:Property",
     "o:comment": "A sha1sum hash, in hex.",
     "o:id": 128,
@@ -8,7 +8,7 @@
     "o:local_name": "sha1",
     "o:term": "foaf:sha1",
     "o:vocabulary": {
-        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/4",
+        "@id": "https://archives.tuat-museum.org/api/vocabularies/4",
         "o:id": 4
     }
 }

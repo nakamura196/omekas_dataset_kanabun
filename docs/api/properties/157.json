@@ -1,6 +1,6 @@
 {
-    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
-    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/157",
+    "@context": "https://archives.tuat-museum.org/api-context",
+    "@id": "https://archives.tuat-museum.org/api/properties/157",
     "@type": "o:Property",
     "o:comment": "A derived thumbnail image.",
     "o:id": 157,
@@ -8,7 +8,7 @@
     "o:local_name": "thumbnail",
     "o:term": "foaf:thumbnail",
     "o:vocabulary": {
-        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/4",
+        "@id": "https://archives.tuat-museum.org/api/vocabularies/4",
         "o:id": 4
     }
 }

@@ -1,0 +1,71 @@
+{
+    "@context": "https://archives.tuat-museum.org/api-context",
+    "@id": "https://archives.tuat-museum.org/api/sites/7",
+    "@type": "o:Site",
+    "o:assign_new_items": true,
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2022-01-21T02:29:53+00:00"
+    },
+    "o:homepage": {
+        "@id": "https://archives.tuat-museum.org/api/site_pages/7",
+        "o:id": 7
+    },
+    "o:id": 7,
+    "o:is_public": true,
+    "o:item_pool": [],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2022-01-21T02:53:43+00:00"
+    },
+    "o:navigation": [
+        {
+            "data": {
+                "label": "閲覧",
+                "query": ""
+            },
+            "links": [],
+            "type": "browse"
+        },
+        {
+            "data": {
+                "id": 12,
+                "label": null
+            },
+            "links": [],
+            "type": "page"
+        }
+    ],
+    "o:owner": {
+        "@id": "https://archives.tuat-museum.org/api/users/1",
+        "o:id": 1
+    },
+    "o:page": [
+        {
+            "@id": "https://archives.tuat-museum.org/api/site_pages/12",
+            "o:id": 12
+        },
+        {
+            "@id": "https://archives.tuat-museum.org/api/site_pages/7",
+            "o:id": 7
+        }
+    ],
+    "o:site_item": {
+        "@id": "https://archives.tuat-museum.org/api/items?site_id=7"
+    },
+    "o:site_item_set": [],
+    "o:site_permission": [
+        {
+            "o:role": "admin",
+            "o:user": {
+                "@id": "https://archives.tuat-museum.org/api/users/1",
+                "o:id": 1
+            }
+        }
+    ],
+    "o:slug": "a-horii",
+    "o:summary": "堀井の練習用サイト",
+    "o:theme": "cozy",
+    "o:thumbnail": null,
+    "o:title": "堀井の練習サイト"
+}

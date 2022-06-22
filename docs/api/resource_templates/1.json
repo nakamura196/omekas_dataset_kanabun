@@ -1,6 +1,6 @@
 {
-    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
-    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/resource_templates/1",
+    "@context": "https://archives.tuat-museum.org/api-context",
+    "@id": "https://archives.tuat-museum.org/api/resource_templates/1",
     "@type": "o:ResourceTemplate",
     "o:description_property": null,
     "o:id": 1,
@@ -15,7 +15,7 @@
             "o:is_private": false,
             "o:is_required": false,
             "o:property": {
-                "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1",
+                "@id": "https://archives.tuat-museum.org/api/properties/1",
                 "o:id": 1
             }
         },
@@ -26,7 +26,7 @@
             "o:is_private": false,
             "o:is_required": false,
             "o:property": {
-                "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/15",
+                "@id": "https://archives.tuat-museum.org/api/properties/15",
                 "o:id": 15
             }
         },
@@ -37,7 +37,7 @@
             "o:is_private": false,
             "o:is_required": false,
             "o:property": {
-                "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/8",
+                "@id": "https://archives.tuat-museum.org/api/properties/8",
                 "o:id": 8
             }
         },
@@ -48,7 +48,7 @@
             "o:is_private": false,
             "o:is_required": false,
             "o:property": {
-                "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/2",
+                "@id": "https://archives.tuat-museum.org/api/properties/2",
                 "o:id": 2
             }
         },
@@ -59,7 +59,7 @@
             "o:is_private": false,
             "o:is_required": false,
             "o:property": {
-                "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/7",
+                "@id": "https://archives.tuat-museum.org/api/properties/7",
                 "o:id": 7
             }
         },
@@ -70,7 +70,7 @@
             "o:is_private": false,
             "o:is_required": false,
             "o:property": {
-                "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/4",
+                "@id": "https://archives.tuat-museum.org/api/properties/4",
                 "o:id": 4
             }
         },
@@ -81,7 +81,7 @@
             "o:is_private": false,
             "o:is_required": false,
             "o:property": {
-                "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/9",
+                "@id": "https://archives.tuat-museum.org/api/properties/9",
                 "o:id": 9
             }
         },
@@ -92,7 +92,7 @@
             "o:is_private": false,
             "o:is_required": false,
             "o:property": {
-                "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/12",
+                "@id": "https://archives.tuat-museum.org/api/properties/12",
                 "o:id": 12
             }
         },
@@ -103,7 +103,7 @@
             "o:is_private": false,
             "o:is_required": false,
             "o:property": {
-                "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/40",
+                "@id": "https://archives.tuat-museum.org/api/properties/40",
                 "o:id": 40
             }
         },
@@ -114,7 +114,7 @@
             "o:is_private": false,
             "o:is_required": false,
             "o:property": {
-                "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/5",
+                "@id": "https://archives.tuat-museum.org/api/properties/5",
                 "o:id": 5
             }
         },
@@ -125,7 +125,7 @@
             "o:is_private": false,
             "o:is_required": false,
             "o:property": {
-                "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/17",
+                "@id": "https://archives.tuat-museum.org/api/properties/17",
                 "o:id": 17
             }
         },
@@ -136,7 +136,7 @@
             "o:is_private": false,
             "o:is_required": false,
             "o:property": {
-                "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/6",
+                "@id": "https://archives.tuat-museum.org/api/properties/6",
                 "o:id": 6
             }
         },
@@ -147,7 +147,7 @@
             "o:is_private": false,
             "o:is_required": false,
             "o:property": {
-                "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/25",
+                "@id": "https://archives.tuat-museum.org/api/properties/25",
                 "o:id": 25
             }
         },
@@ -158,7 +158,7 @@
             "o:is_private": false,
             "o:is_required": false,
             "o:property": {
-                "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/10",
+                "@id": "https://archives.tuat-museum.org/api/properties/10",
                 "o:id": 10
             }
         },
@@ -169,7 +169,7 @@
             "o:is_private": false,
             "o:is_required": false,
             "o:property": {
-                "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/13",
+                "@id": "https://archives.tuat-museum.org/api/properties/13",
                 "o:id": 13
             }
         },
@@ -180,7 +180,7 @@
             "o:is_private": false,
             "o:is_required": false,
             "o:property": {
-                "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/29",
+                "@id": "https://archives.tuat-museum.org/api/properties/29",
                 "o:id": 29
             }
         },
@@ -191,7 +191,7 @@
             "o:is_private": false,
             "o:is_required": false,
             "o:property": {
-                "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/30",
+                "@id": "https://archives.tuat-museum.org/api/properties/30",
                 "o:id": 30
             }
         },
@@ -202,7 +202,7 @@
             "o:is_private": false,
             "o:is_required": false,
             "o:property": {
-                "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/50",
+                "@id": "https://archives.tuat-museum.org/api/properties/50",
                 "o:id": 50
             }
         },
@@ -213,7 +213,7 @@
             "o:is_private": false,
             "o:is_required": false,
             "o:property": {
-                "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/3",
+                "@id": "https://archives.tuat-museum.org/api/properties/3",
                 "o:id": 3
             }
         },
@@ -224,7 +224,7 @@
             "o:is_private": false,
             "o:is_required": false,
             "o:property": {
-                "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/41",
+                "@id": "https://archives.tuat-museum.org/api/properties/41",
                 "o:id": 41
             }
         }

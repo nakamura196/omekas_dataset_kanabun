@@ -1,0 +1,92 @@
+{
+    "@context": "https://archives.tuat-museum.org/api-context",
+    "@id": "https://archives.tuat-museum.org/api/sites/5",
+    "@type": "o:Site",
+    "o:assign_new_items": true,
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2022-01-21T02:29:07+00:00"
+    },
+    "o:homepage": {
+        "@id": "https://archives.tuat-museum.org/api/site_pages/5",
+        "o:id": 5
+    },
+    "o:id": 5,
+    "o:is_public": true,
+    "o:item_pool": [],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2022-04-15T04:44:36+00:00"
+    },
+    "o:navigation": [
+        {
+            "data": {
+                "label": "閲覧",
+                "query": ""
+            },
+            "links": [],
+            "type": "browse"
+        },
+        {
+            "data": {
+                "label": "全コレクション",
+                "query": ""
+            },
+            "links": [],
+            "type": "browseItemSets"
+        }
+    ],
+    "o:owner": {
+        "@id": "https://archives.tuat-museum.org/api/users/2",
+        "o:id": 2
+    },
+    "o:page": [
+        {
+            "@id": "https://archives.tuat-museum.org/api/site_pages/5",
+            "o:id": 5
+        }
+    ],
+    "o:site_item": {
+        "@id": "https://archives.tuat-museum.org/api/items?site_id=5"
+    },
+    "o:site_item_set": [
+        {
+            "o:item_set": {
+                "@id": "https://archives.tuat-museum.org/api/item_sets/9",
+                "o:id": 9
+            }
+        },
+        {
+            "o:item_set": {
+                "@id": "https://archives.tuat-museum.org/api/item_sets/3425",
+                "o:id": 3425
+            }
+        },
+        {
+            "o:item_set": {
+                "@id": "https://archives.tuat-museum.org/api/item_sets/3426",
+                "o:id": 3426
+            }
+        },
+        {
+            "o:item_set": {
+                "@id": "https://archives.tuat-museum.org/api/item_sets/3793",
+                "o:id": 3793
+            }
+        }
+    ],
+    "o:site_permission": [
+        {
+            "o:role": "admin",
+            "o:user": {
+                "@id": "https://archives.tuat-museum.org/api/users/2",
+                "o:id": 2
+            }
+        }
+    ],
+    "o:slug": "ogawa",
+    "o:summary": "小川の練習用",
+    "o:theme": "foundation",
+    "o:thumbnail": null,
+    "o:title": "（練習用・小川）東京農工大学科学博物館デジタルアーカイブ"
+}

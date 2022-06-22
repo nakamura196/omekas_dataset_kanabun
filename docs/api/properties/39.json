@@ -1,6 +1,6 @@
 {
-    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
-    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/39",
+    "@context": "https://archives.tuat-museum.org/api-context",
+    "@id": "https://archives.tuat-museum.org/api/properties/39",
     "@type": "o:Property",
     "o:comment": "An established standard to which the described resource conforms.",
     "o:id": 39,
@@ -8,7 +8,7 @@
     "o:local_name": "conformsTo",
     "o:term": "dcterms:conformsTo",
     "o:vocabulary": {
-        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/1",
+        "@id": "https://archives.tuat-museum.org/api/vocabularies/1",
         "o:id": 1
     }
 }

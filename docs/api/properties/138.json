@@ -1,6 +1,6 @@
 {
-    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
-    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/138",
+    "@context": "https://archives.tuat-museum.org/api-context",
+    "@id": "https://archives.tuat-museum.org/api/properties/138",
     "@type": "o:Property",
     "o:comment": "A name for some thing.",
     "o:id": 138,
@@ -8,7 +8,7 @@
     "o:local_name": "name",
     "o:term": "foaf:name",
     "o:vocabulary": {
-        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/4",
+        "@id": "https://archives.tuat-museum.org/api/vocabularies/4",
         "o:id": 4
     }
 }

@@ -1,6 +1,6 @@
 {
-    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
-    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/73",
+    "@context": "https://archives.tuat-museum.org/api-context",
+    "@id": "https://archives.tuat-museum.org/api/properties/73",
     "@type": "o:Property",
     "o:comment": null,
     "o:id": 73,
@@ -8,7 +8,7 @@
     "o:local_name": "performer",
     "o:term": "bibo:performer",
     "o:vocabulary": {
-        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/3",
+        "@id": "https://archives.tuat-museum.org/api/vocabularies/3",
         "o:id": 3
     }
 }

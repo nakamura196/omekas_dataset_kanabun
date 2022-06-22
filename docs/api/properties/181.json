@@ -1,6 +1,6 @@
 {
-    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
-    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/181",
+    "@context": "https://archives.tuat-museum.org/api-context",
+    "@id": "https://archives.tuat-museum.org/api/properties/181",
     "@type": "o:Property",
     "o:comment": "Indicates the class of individuals that are a member of a Group",
     "o:id": 181,
@@ -8,7 +8,7 @@
     "o:local_name": "membershipClass",
     "o:term": "foaf:membershipClass",
     "o:vocabulary": {
-        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/4",
+        "@id": "https://archives.tuat-museum.org/api/vocabularies/4",
         "o:id": 4
     }
 }

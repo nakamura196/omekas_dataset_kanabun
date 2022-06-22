@@ -1,103 +1,48 @@
 {
-    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
-    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/media/3085",
-    "@type": [
-        "o:Media",
-        "ex:image"
-    ],
-    "data": {
-        "dimensions": {
-            "large": {
-                "height": 533,
-                "width": 800
-            },
-            "medium": {
-                "height": 267,
-                "width": 400
-            },
-            "original": {
-                "height": 1600,
-                "width": 2400
-            },
-            "square": {
-                "height": 200,
-                "width": 200
-            }
-        },
-        "tile": {
-            "tiled_tiff": {
-                "format": "tif",
-                "media_path": "8f5ebe5eabde7c46b364bf7ff077aa27fe946e36.tif",
-                "metadata_path": null,
-                "overlap": 0,
-                "path_base": "/var/www/html/files/tile",
-                "size": 256,
-                "source": {
-                    "height": 1600,
-                    "width": 2400
-                },
-                "tile_type": "tiled_tiff",
-                "total": null,
-                "url_base": "https://kanazawabunko-db.pen-kanagawa.ed.jp/files/tile",
-                "url_query": ""
-            }
-        }
-    },
-    "dcterms:title": [
-        {
-            "@value": "興順書状その３",
-            "is_public": true,
-            "property_id": 1,
-            "property_label": "Title",
-            "type": "literal"
-        }
-    ],
+    "@context": "https://archives.tuat-museum.org/api-context",
+    "@id": "https://archives.tuat-museum.org/api/media/3085",
+    "@type": "o:Media",
+    "data": [],
     "o:alt_text": null,
     "o:created": {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2022-03-31T23:46:25+00:00"
+        "@value": "2022-03-15T13:58:32+00:00"
     },
-    "o:filename": "8f5ebe5eabde7c46b364bf7ff077aa27fe946e36.jpg",
+    "o:filename": "b87c252ac19bcd0e3e99547fe335bd6e8135c0af.jpg",
     "o:id": 3085,
     "o:ingester": "url",
     "o:is_public": true,
     "o:item": {
-        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/items/1020",
-        "o:id": 1020
+        "@id": "https://archives.tuat-museum.org/api/items/3065",
+        "o:id": 3065
     },
     "o:lang": null,
     "o:media_type": "image/jpeg",
     "o:modified": {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2022-03-31T23:46:25+00:00"
+        "@value": "2022-03-15T13:58:32+00:00"
     },
-    "o:original_url": "https://kanazawabunko-db.pen-kanagawa.ed.jp/files/original/8f5ebe5eabde7c46b364bf7ff077aa27fe946e36.jpg",
+    "o:original_url": "https://archives.tuat-museum.org/files/original/b87c252ac19bcd0e3e99547fe335bd6e8135c0af.jpg",
     "o:owner": {
-        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/users/1",
+        "@id": "https://archives.tuat-museum.org/api/users/1",
         "o:id": 1
     },
     "o:renderer": "file",
-    "o:resource_class": {
-        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/resource_classes/109",
-        "o:id": 109
-    },
-    "o:resource_template": {
-        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/resource_templates/1",
-        "o:id": 1
-    },
-    "o:sha256": "f751a15f576e6c6e6e7a0ed141e8e9664cb8aced9ad3179834b6d410cd32872c",
-    "o:size": 295515,
-    "o:source": "https://admin_kanazawabunko:b1beeswg8m2eiz0wv5v2@www.kanazawabunko.pref.kanagawa.jp.il3c.com/files/kanazawabunko-images-compressed/4075-3.jpg",
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:sha256": "6fc18d88aca6dbc2a9e70cd5837e503ad162a511eb19a71e41919d32d6215ba2",
+    "o:size": 29473,
+    "o:source": "https://archives.tuat-museum.org/iiif/mayu/thumbnail/2021-m-0179.jpg",
     "o:thumbnail": null,
     "o:thumbnail_urls": {
-        "large": "https://kanazawabunko-db.pen-kanagawa.ed.jp/files/large/8f5ebe5eabde7c46b364bf7ff077aa27fe946e36.jpg",
-        "medium": "https://kanazawabunko-db.pen-kanagawa.ed.jp/files/medium/8f5ebe5eabde7c46b364bf7ff077aa27fe946e36.jpg",
-        "square": "https://kanazawabunko-db.pen-kanagawa.ed.jp/files/square/8f5ebe5eabde7c46b364bf7ff077aa27fe946e36.jpg"
+        "large": "https://archives.tuat-museum.org/files/large/b87c252ac19bcd0e3e99547fe335bd6e8135c0af.jpg",
+        "medium": "https://archives.tuat-museum.org/files/medium/b87c252ac19bcd0e3e99547fe335bd6e8135c0af.jpg",
+        "square": "https://archives.tuat-museum.org/files/square/b87c252ac19bcd0e3e99547fe335bd6e8135c0af.jpg"
     },
-    "o:title": "興順書状その３",
+    "o:title": null,
     "thumbnail_display_urls": {
-        "large": "https://kanazawabunko-db.pen-kanagawa.ed.jp/files/large/8f5ebe5eabde7c46b364bf7ff077aa27fe946e36.jpg",
-        "medium": "https://kanazawabunko-db.pen-kanagawa.ed.jp/files/medium/8f5ebe5eabde7c46b364bf7ff077aa27fe946e36.jpg",
-        "square": "https://kanazawabunko-db.pen-kanagawa.ed.jp/files/square/8f5ebe5eabde7c46b364bf7ff077aa27fe946e36.jpg"
+        "large": "https://archives.tuat-museum.org/files/large/b87c252ac19bcd0e3e99547fe335bd6e8135c0af.jpg",
+        "medium": "https://archives.tuat-museum.org/files/medium/b87c252ac19bcd0e3e99547fe335bd6e8135c0af.jpg",
+        "square": "https://archives.tuat-museum.org/files/square/b87c252ac19bcd0e3e99547fe335bd6e8135c0af.jpg"
     }
 }

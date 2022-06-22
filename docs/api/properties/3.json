@@ -1,6 +1,6 @@
 {
-    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
-    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/3",
+    "@context": "https://archives.tuat-museum.org/api-context",
+    "@id": "https://archives.tuat-museum.org/api/properties/3",
     "@type": "o:Property",
     "o:comment": "The topic of the resource.",
     "o:id": 3,
@@ -8,7 +8,7 @@
     "o:local_name": "subject",
     "o:term": "dcterms:subject",
     "o:vocabulary": {
-        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/1",
+        "@id": "https://archives.tuat-museum.org/api/vocabularies/1",
         "o:id": 1
     }
 }

@@ -1,6 +1,6 @@
 {
-    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
-    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/50",
+    "@context": "https://archives.tuat-museum.org/api-context",
+    "@id": "https://archives.tuat-museum.org/api/properties/50",
     "@type": "o:Property",
     "o:comment": "A person or organization owning or managing rights over the resource.",
     "o:id": 50,
@@ -8,7 +8,7 @@
     "o:local_name": "rightsHolder",
     "o:term": "dcterms:rightsHolder",
     "o:vocabulary": {
-        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/1",
+        "@id": "https://archives.tuat-museum.org/api/vocabularies/1",
         "o:id": 1
     }
 }

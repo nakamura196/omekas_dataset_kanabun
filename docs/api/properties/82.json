@@ -1,6 +1,6 @@
 {
-    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
-    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/82",
+    "@context": "https://archives.tuat-museum.org/api-context",
+    "@id": "https://archives.tuat-museum.org/api/properties/82",
     "@type": "o:Property",
     "o:comment": "A legal decision on appeal that takes action on a case (affirming it, reversing it, etc.).",
     "o:id": 82,
@@ -8,7 +8,7 @@
     "o:local_name": "subsequentLegalDecision",
     "o:term": "bibo:subsequentLegalDecision",
     "o:vocabulary": {
-        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/3",
+        "@id": "https://archives.tuat-museum.org/api/vocabularies/3",
         "o:id": 3
     }
 }

@@ -1,119 +1,48 @@
 {
-    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
-    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/media/2955",
-    "@type": [
-        "o:Media",
-        "ex:image"
-    ],
-    "data": {
-        "dimensions": {
-            "large": {
-                "height": 533,
-                "width": 800
-            },
-            "medium": {
-                "height": 267,
-                "width": 400
-            },
-            "original": {
-                "height": 1600,
-                "width": 2400
-            },
-            "square": {
-                "height": 200,
-                "width": 200
-            }
-        },
-        "tile": {
-            "deepzoom": {
-                "format": "jpg",
-                "media_path": "5aedb959dc667f649415a74ba4f600369f853863_files",
-                "metadata_path": "5aedb959dc667f649415a74ba4f600369f853863.dzi",
-                "overlap": 0,
-                "path_base": "/var/www/html/files/tile",
-                "size": 256,
-                "source": {
-                    "height": 1600,
-                    "width": 2400
-                },
-                "tile_type": "deepzoom",
-                "total": null,
-                "url_base": "https://kanazawabunko-db.pen-kanagawa.ed.jp/files/tile",
-                "url_query": ""
-            },
-            "tiled_tiff": {
-                "format": "tif",
-                "media_path": "5aedb959dc667f649415a74ba4f600369f853863.tif",
-                "metadata_path": null,
-                "overlap": 0,
-                "path_base": "/var/www/html/files/tile",
-                "size": 256,
-                "source": {
-                    "height": 1600,
-                    "width": 2400
-                },
-                "tile_type": "tiled_tiff",
-                "total": null,
-                "url_base": "https://kanazawabunko-db.pen-kanagawa.ed.jp/files/tile",
-                "url_query": ""
-            }
-        }
-    },
-    "dcterms:title": [
-        {
-            "@value": "英乗書状",
-            "is_public": true,
-            "property_id": 1,
-            "property_label": "Title",
-            "type": "literal"
-        }
-    ],
+    "@context": "https://archives.tuat-museum.org/api-context",
+    "@id": "https://archives.tuat-museum.org/api/media/2955",
+    "@type": "o:Media",
+    "data": [],
     "o:alt_text": null,
     "o:created": {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2022-03-31T23:45:13+00:00"
+        "@value": "2022-03-15T13:58:22+00:00"
     },
-    "o:filename": "5aedb959dc667f649415a74ba4f600369f853863.jpg",
+    "o:filename": "ee55edbab32f752142e16433185773f7c99d3c0f.jpg",
     "o:id": 2955,
     "o:ingester": "url",
     "o:is_public": true,
     "o:item": {
-        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/items/955",
-        "o:id": 955
+        "@id": "https://archives.tuat-museum.org/api/items/2935",
+        "o:id": 2935
     },
     "o:lang": null,
     "o:media_type": "image/jpeg",
     "o:modified": {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2022-03-31T23:45:13+00:00"
+        "@value": "2022-03-15T13:58:22+00:00"
     },
-    "o:original_url": "https://kanazawabunko-db.pen-kanagawa.ed.jp/files/original/5aedb959dc667f649415a74ba4f600369f853863.jpg",
+    "o:original_url": "https://archives.tuat-museum.org/files/original/ee55edbab32f752142e16433185773f7c99d3c0f.jpg",
     "o:owner": {
-        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/users/1",
+        "@id": "https://archives.tuat-museum.org/api/users/1",
         "o:id": 1
     },
     "o:renderer": "file",
-    "o:resource_class": {
-        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/resource_classes/109",
-        "o:id": 109
-    },
-    "o:resource_template": {
-        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/resource_templates/1",
-        "o:id": 1
-    },
-    "o:sha256": "6d11ffd5564270c65974a10b38f5df2a70bb51aa4eca8030c3ba1948e9aeae48",
-    "o:size": 384765,
-    "o:source": "https://admin_kanazawabunko:b1beeswg8m2eiz0wv5v2@www.kanazawabunko.pref.kanagawa.jp.il3c.com/files/kanazawabunko-images-compressed/3650-1.jpg",
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:sha256": "6871700774a21d44cdb6da1b930bcd8edba656b9de477127c0bc8ba23b723fa4",
+    "o:size": 25631,
+    "o:source": "https://archives.tuat-museum.org/iiif/mayu/thumbnail/2021-m-0109.jpg",
     "o:thumbnail": null,
     "o:thumbnail_urls": {
-        "large": "https://kanazawabunko-db.pen-kanagawa.ed.jp/files/large/5aedb959dc667f649415a74ba4f600369f853863.jpg",
-        "medium": "https://kanazawabunko-db.pen-kanagawa.ed.jp/files/medium/5aedb959dc667f649415a74ba4f600369f853863.jpg",
-        "square": "https://kanazawabunko-db.pen-kanagawa.ed.jp/files/square/5aedb959dc667f649415a74ba4f600369f853863.jpg"
+        "large": "https://archives.tuat-museum.org/files/large/ee55edbab32f752142e16433185773f7c99d3c0f.jpg",
+        "medium": "https://archives.tuat-museum.org/files/medium/ee55edbab32f752142e16433185773f7c99d3c0f.jpg",
+        "square": "https://archives.tuat-museum.org/files/square/ee55edbab32f752142e16433185773f7c99d3c0f.jpg"
     },
-    "o:title": "英乗書状",
+    "o:title": null,
     "thumbnail_display_urls": {
-        "large": "https://kanazawabunko-db.pen-kanagawa.ed.jp/files/large/5aedb959dc667f649415a74ba4f600369f853863.jpg",
-        "medium": "https://kanazawabunko-db.pen-kanagawa.ed.jp/files/medium/5aedb959dc667f649415a74ba4f600369f853863.jpg",
-        "square": "https://kanazawabunko-db.pen-kanagawa.ed.jp/files/square/5aedb959dc667f649415a74ba4f600369f853863.jpg"
+        "large": "https://archives.tuat-museum.org/files/large/ee55edbab32f752142e16433185773f7c99d3c0f.jpg",
+        "medium": "https://archives.tuat-museum.org/files/medium/ee55edbab32f752142e16433185773f7c99d3c0f.jpg",
+        "square": "https://archives.tuat-museum.org/files/square/ee55edbab32f752142e16433185773f7c99d3c0f.jpg"
     }
 }

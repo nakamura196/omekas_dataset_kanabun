@@ -1,6 +1,6 @@
 {
-    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
-    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/2",
+    "@context": "https://archives.tuat-museum.org/api-context",
+    "@id": "https://archives.tuat-museum.org/api/properties/2",
     "@type": "o:Property",
     "o:comment": "An entity primarily responsible for making the resource.",
     "o:id": 2,
@@ -8,7 +8,7 @@
     "o:local_name": "creator",
     "o:term": "dcterms:creator",
     "o:vocabulary": {
-        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/1",
+        "@id": "https://archives.tuat-museum.org/api/vocabularies/1",
         "o:id": 1
     }
 }

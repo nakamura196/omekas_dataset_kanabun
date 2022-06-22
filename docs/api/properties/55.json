@@ -1,6 +1,6 @@
 {
-    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
-    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/55",
+    "@context": "https://archives.tuat-museum.org/api-context",
+    "@id": "https://archives.tuat-museum.org/api/properties/55",
     "@type": "o:Property",
     "o:comment": "The policy governing the addition of items to a collection.",
     "o:id": 55,
@@ -8,7 +8,7 @@
     "o:local_name": "accrualPolicy",
     "o:term": "dcterms:accrualPolicy",
     "o:vocabulary": {
-        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/1",
+        "@id": "https://archives.tuat-museum.org/api/vocabularies/1",
         "o:id": 1
     }
 }

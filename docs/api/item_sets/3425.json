@@ -1,0 +1,53 @@
+{
+    "@context": "https://archives.tuat-museum.org/api-context",
+    "@id": "https://archives.tuat-museum.org/api/item_sets/3425",
+    "@type": [
+        "o:ItemSet",
+        "dctype:Collection"
+    ],
+    "dcterms:title": [
+        {
+            "@value": "生糸標本資料",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2022-03-15T14:06:33+00:00"
+    },
+    "o:id": 3425,
+    "o:is_open": false,
+    "o:is_public": true,
+    "o:items": {
+        "@id": "https://archives.tuat-museum.org/api/items?item_set_id=3425"
+    },
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2022-03-15T14:06:33+00:00"
+    },
+    "o:owner": {
+        "@id": "https://archives.tuat-museum.org/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "https://archives.tuat-museum.org/api/resource_classes/23",
+        "o:id": 23
+    },
+    "o:resource_template": {
+        "@id": "https://archives.tuat-museum.org/api/resource_templates/1",
+        "o:id": 1
+    },
+    "o:thumbnail": {
+        "@id": "https://archives.tuat-museum.org/api/assets/9",
+        "o:id": 9
+    },
+    "o:title": "生糸標本資料",
+    "thumbnail_display_urls": {
+        "large": "https://archives.tuat-museum.org/files/asset/3bc15224afdc07f4bfba0abd962e373733e90367.jpg",
+        "medium": "https://archives.tuat-museum.org/files/asset/3bc15224afdc07f4bfba0abd962e373733e90367.jpg",
+        "square": "https://archives.tuat-museum.org/files/asset/3bc15224afdc07f4bfba0abd962e373733e90367.jpg"
+    }
+}

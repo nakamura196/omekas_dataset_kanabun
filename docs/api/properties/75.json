@@ -1,6 +1,6 @@
 {
-    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
-    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/75",
+    "@context": "https://archives.tuat-museum.org/api-context",
+    "@id": "https://archives.tuat-museum.org/api/properties/75",
     "@type": "o:Property",
     "o:comment": "Relates an event to associated documents; for example, conference to a paper.",
     "o:id": 75,
@@ -8,7 +8,7 @@
     "o:local_name": "presents",
     "o:term": "bibo:presents",
     "o:vocabulary": {
-        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/3",
+        "@id": "https://archives.tuat-museum.org/api/vocabularies/3",
         "o:id": 3
     }
 }

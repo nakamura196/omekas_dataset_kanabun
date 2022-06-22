@@ -1,6 +1,6 @@
 {
-    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
-    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/152",
+    "@context": "https://archives.tuat-museum.org/api-context",
+    "@id": "https://archives.tuat-museum.org/api/properties/152",
     "@type": "o:Property",
     "o:comment": "Something that was made by this agent.",
     "o:id": 152,
@@ -8,7 +8,7 @@
     "o:local_name": "made",
     "o:term": "foaf:made",
     "o:vocabulary": {
-        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/4",
+        "@id": "https://archives.tuat-museum.org/api/vocabularies/4",
         "o:id": 4
     }
 }
