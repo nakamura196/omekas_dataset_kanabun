@@ -1,0 +1,14 @@
+{
+    "@context": "https://archives.tuat-museum.org/api-context",
+    "@id": "https://archives.tuat-museum.org/api/properties/95",
+    "@type": "o:Property",
+    "o:comment": null,
+    "o:id": 95,
+    "o:label": "eissn",
+    "o:local_name": "eissn",
+    "o:term": "bibo:eissn",
+    "o:vocabulary": {
+        "@id": "https://archives.tuat-museum.org/api/vocabularies/3",
+        "o:id": 3
+    }
+}

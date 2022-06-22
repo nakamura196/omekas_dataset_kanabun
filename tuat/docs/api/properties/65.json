@@ -1,0 +1,14 @@
+{
+    "@context": "https://archives.tuat-museum.org/api-context",
+    "@id": "https://archives.tuat-museum.org/api/properties/65",
+    "@type": "o:Property",
+    "o:comment": "Distributor of a document or a collection of documents.",
+    "o:id": 65,
+    "o:label": "distributor",
+    "o:local_name": "distributor",
+    "o:term": "bibo:distributor",
+    "o:vocabulary": {
+        "@id": "https://archives.tuat-museum.org/api/vocabularies/3",
+        "o:id": 3
+    }
+}

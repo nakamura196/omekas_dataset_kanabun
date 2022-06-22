@@ -1,0 +1,170 @@
+{
+    "@context": "https://archives.tuat-museum.org/api-context",
+    "@id": "https://archives.tuat-museum.org/api/items/4438",
+    "@type": [
+        "o:Item",
+        "dctype:Collection"
+    ],
+    "dcterms:creator": [
+        {
+            "@value": "一松斎芳宗（歌川芳宗）",
+            "is_public": true,
+            "property_id": 2,
+            "property_label": "Creator",
+            "type": "literal"
+        }
+    ],
+    "dcterms:extent": [
+        {
+            "@value": "34.6",
+            "is_public": true,
+            "property_id": 25,
+            "property_label": "Extent",
+            "type": "literal"
+        },
+        {
+            "@value": "23.2",
+            "is_public": true,
+            "property_id": 25,
+            "property_label": "Extent",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "2018-u-0401",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "https://archives.tuat-museum.org/iiif/nishikie/manifest/2018-u-0401.json",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:mediator": [
+        {
+            "@value": "Utagawa Yoshimune",
+            "is_public": true,
+            "property_id": 42,
+            "property_label": "Mediator",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "総与（総州屋与兵衛）",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        },
+        {
+            "@value": "Soshuya Yohei",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "糸に取る　繭を作る",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        },
+        {
+            "@value": "いとにとる　まゆをつくる",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        },
+        {
+            "@value": "Ito ni toru mayu wo tsukuru",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2022-03-15T14:45:46+00:00"
+    },
+    "o:id": 4438,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://archives.tuat-museum.org/api/item_sets/3793",
+            "o:id": 3793
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://archives.tuat-museum.org/api/media/4458",
+            "o:id": 4458
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2022-03-15T14:45:46+00:00"
+    },
+    "o:owner": {
+        "@id": "https://archives.tuat-museum.org/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "https://archives.tuat-museum.org/api/resource_classes/23",
+        "o:id": 23
+    },
+    "o:resource_template": {
+        "@id": "https://archives.tuat-museum.org/api/resource_templates/1",
+        "o:id": 1
+    },
+    "o:site": [
+        {
+            "@id": "https://archives.tuat-museum.org/api/sites/1",
+            "o:id": 1
+        },
+        {
+            "@id": "https://archives.tuat-museum.org/api/sites/4",
+            "o:id": 4
+        },
+        {
+            "@id": "https://archives.tuat-museum.org/api/sites/5",
+            "o:id": 5
+        },
+        {
+            "@id": "https://archives.tuat-museum.org/api/sites/6",
+            "o:id": 6
+        },
+        {
+            "@id": "https://archives.tuat-museum.org/api/sites/7",
+            "o:id": 7
+        },
+        {
+            "@id": "https://archives.tuat-museum.org/api/sites/8",
+            "o:id": 8
+        },
+        {
+            "@id": "https://archives.tuat-museum.org/api/sites/9",
+            "o:id": 9
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "糸に取る　繭を作る",
+    "thumbnail_display_urls": {
+        "large": "https://archives.tuat-museum.org/files/large/972f62b50687619f103ca498167528c6e83b5c8a.jpg",
+        "medium": "https://archives.tuat-museum.org/files/medium/972f62b50687619f103ca498167528c6e83b5c8a.jpg",
+        "square": "https://archives.tuat-museum.org/files/square/972f62b50687619f103ca498167528c6e83b5c8a.jpg"
+    }
+}

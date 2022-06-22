@@ -1,0 +1,14 @@
+{
+    "@context": "https://archives.tuat-museum.org/api-context",
+    "@id": "https://archives.tuat-museum.org/api/properties/93",
+    "@type": "o:Property",
+    "o:comment": null,
+    "o:id": 93,
+    "o:label": "eanucc13",
+    "o:local_name": "eanucc13",
+    "o:term": "bibo:eanucc13",
+    "o:vocabulary": {
+        "@id": "https://archives.tuat-museum.org/api/vocabularies/3",
+        "o:id": 3
+    }
+}

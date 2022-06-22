@@ -1,0 +1,154 @@
+{
+    "@context": "https://archives.tuat-museum.org/api-context",
+    "@id": "https://archives.tuat-museum.org/api/items/4234",
+    "@type": [
+        "o:Item",
+        "dctype:Collection"
+    ],
+    "dcterms:creator": [
+        {
+            "@value": "一礼斎芳信（歌川芳信）",
+            "is_public": true,
+            "property_id": 2,
+            "property_label": "Creator",
+            "type": "literal"
+        }
+    ],
+    "dcterms:extent": [
+        {
+            "@value": "33.3",
+            "is_public": true,
+            "property_id": 25,
+            "property_label": "Extent",
+            "type": "literal"
+        },
+        {
+            "@value": "22.5",
+            "is_public": true,
+            "property_id": 25,
+            "property_label": "Extent",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "2018-u-0248",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "https://archives.tuat-museum.org/iiif/nishikie/manifest/2018-u-0248.json",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:mediator": [
+        {
+            "@value": "Utagawa Yoshinobu",
+            "is_public": true,
+            "property_id": 42,
+            "property_label": "Mediator",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "婦人養蚕之図",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        },
+        {
+            "@value": "ふじんようさんのず",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        },
+        {
+            "@value": "Fujin yousan no zu",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2022-03-15T14:45:36+00:00"
+    },
+    "o:id": 4234,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://archives.tuat-museum.org/api/item_sets/3793",
+            "o:id": 3793
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://archives.tuat-museum.org/api/media/4253",
+            "o:id": 4253
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2022-03-15T14:45:36+00:00"
+    },
+    "o:owner": {
+        "@id": "https://archives.tuat-museum.org/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "https://archives.tuat-museum.org/api/resource_classes/23",
+        "o:id": 23
+    },
+    "o:resource_template": {
+        "@id": "https://archives.tuat-museum.org/api/resource_templates/1",
+        "o:id": 1
+    },
+    "o:site": [
+        {
+            "@id": "https://archives.tuat-museum.org/api/sites/1",
+            "o:id": 1
+        },
+        {
+            "@id": "https://archives.tuat-museum.org/api/sites/4",
+            "o:id": 4
+        },
+        {
+            "@id": "https://archives.tuat-museum.org/api/sites/5",
+            "o:id": 5
+        },
+        {
+            "@id": "https://archives.tuat-museum.org/api/sites/6",
+            "o:id": 6
+        },
+        {
+            "@id": "https://archives.tuat-museum.org/api/sites/7",
+            "o:id": 7
+        },
+        {
+            "@id": "https://archives.tuat-museum.org/api/sites/8",
+            "o:id": 8
+        },
+        {
+            "@id": "https://archives.tuat-museum.org/api/sites/9",
+            "o:id": 9
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "婦人養蚕之図",
+    "thumbnail_display_urls": {
+        "large": "https://archives.tuat-museum.org/files/large/3ba7dedcca58a4a029b368fa5fdf8ae5a1e2a9b8.jpg",
+        "medium": "https://archives.tuat-museum.org/files/medium/3ba7dedcca58a4a029b368fa5fdf8ae5a1e2a9b8.jpg",
+        "square": "https://archives.tuat-museum.org/files/square/3ba7dedcca58a4a029b368fa5fdf8ae5a1e2a9b8.jpg"
+    }
+}

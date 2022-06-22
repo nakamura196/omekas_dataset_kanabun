@@ -1,0 +1,14 @@
+{
+    "@context": "https://archives.tuat-museum.org/api-context",
+    "@id": "https://archives.tuat-museum.org/api/properties/36",
+    "@type": "o:Property",
+    "o:comment": "A related resource that is referenced, cited, or otherwise pointed to by the described resource.",
+    "o:id": 36,
+    "o:label": "References",
+    "o:local_name": "references",
+    "o:term": "dcterms:references",
+    "o:vocabulary": {
+        "@id": "https://archives.tuat-museum.org/api/vocabularies/1",
+        "o:id": 1
+    }
+}

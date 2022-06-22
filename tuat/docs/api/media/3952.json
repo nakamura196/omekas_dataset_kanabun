@@ -1,0 +1,48 @@
+{
+    "@context": "https://archives.tuat-museum.org/api-context",
+    "@id": "https://archives.tuat-museum.org/api/media/3952",
+    "@type": "o:Media",
+    "data": [],
+    "o:alt_text": null,
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2022-03-15T14:45:23+00:00"
+    },
+    "o:filename": "b2c621719eaf9b211d6596a7a4c9f96bcbe5d9f3.jpg",
+    "o:id": 3952,
+    "o:ingester": "url",
+    "o:is_public": true,
+    "o:item": {
+        "@id": "https://archives.tuat-museum.org/api/items/3932",
+        "o:id": 3932
+    },
+    "o:lang": null,
+    "o:media_type": "image/jpeg",
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2022-03-15T14:45:23+00:00"
+    },
+    "o:original_url": "https://archives.tuat-museum.org/files/original/b2c621719eaf9b211d6596a7a4c9f96bcbe5d9f3.jpg",
+    "o:owner": {
+        "@id": "https://archives.tuat-museum.org/api/users/1",
+        "o:id": 1
+    },
+    "o:renderer": "file",
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:sha256": "612d07143cf69e9f70753432fe23ce13a42f29fc934c289844c38277d69a74d5",
+    "o:size": 20577,
+    "o:source": "https://archives.tuat-museum.org/iiif/nishikie/thumbnail/2018-u-0090.jpg",
+    "o:thumbnail": null,
+    "o:thumbnail_urls": {
+        "large": "https://archives.tuat-museum.org/files/large/b2c621719eaf9b211d6596a7a4c9f96bcbe5d9f3.jpg",
+        "medium": "https://archives.tuat-museum.org/files/medium/b2c621719eaf9b211d6596a7a4c9f96bcbe5d9f3.jpg",
+        "square": "https://archives.tuat-museum.org/files/square/b2c621719eaf9b211d6596a7a4c9f96bcbe5d9f3.jpg"
+    },
+    "o:title": null,
+    "thumbnail_display_urls": {
+        "large": "https://archives.tuat-museum.org/files/large/b2c621719eaf9b211d6596a7a4c9f96bcbe5d9f3.jpg",
+        "medium": "https://archives.tuat-museum.org/files/medium/b2c621719eaf9b211d6596a7a4c9f96bcbe5d9f3.jpg",
+        "square": "https://archives.tuat-museum.org/files/square/b2c621719eaf9b211d6596a7a4c9f96bcbe5d9f3.jpg"
+    }
+}

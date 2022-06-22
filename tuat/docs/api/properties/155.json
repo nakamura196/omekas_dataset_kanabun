@@ -1,0 +1,14 @@
+{
+    "@context": "https://archives.tuat-museum.org/api-context",
+    "@id": "https://archives.tuat-museum.org/api/properties/155",
+    "@type": "o:Property",
+    "o:comment": "A depiction of some thing.",
+    "o:id": 155,
+    "o:label": "depiction",
+    "o:local_name": "depiction",
+    "o:term": "foaf:depiction",
+    "o:vocabulary": {
+        "@id": "https://archives.tuat-museum.org/api/vocabularies/4",
+        "o:id": 4
+    }
+}

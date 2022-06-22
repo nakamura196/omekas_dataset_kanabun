@@ -1,0 +1,14 @@
+{
+    "@context": "https://archives.tuat-museum.org/api-context",
+    "@id": "https://archives.tuat-museum.org/api/properties/182",
+    "@type": "o:Property",
+    "o:comment": "The birthday of this Agent, represented in mm-dd string form, eg. '12-31'.",
+    "o:id": 182,
+    "o:label": "birthday",
+    "o:local_name": "birthday",
+    "o:term": "foaf:birthday",
+    "o:vocabulary": {
+        "@id": "https://archives.tuat-museum.org/api/vocabularies/4",
+        "o:id": 4
+    }
+}

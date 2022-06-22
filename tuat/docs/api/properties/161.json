@@ -1,0 +1,14 @@
+{
+    "@context": "https://archives.tuat-museum.org/api-context",
+    "@id": "https://archives.tuat-museum.org/api/properties/161",
+    "@type": "o:Property",
+    "o:comment": "A homepage of a school attended by the person.",
+    "o:id": 161,
+    "o:label": "schoolHomepage",
+    "o:local_name": "schoolHomepage",
+    "o:term": "foaf:schoolHomepage",
+    "o:vocabulary": {
+        "@id": "https://archives.tuat-museum.org/api/vocabularies/4",
+        "o:id": 4
+    }
+}

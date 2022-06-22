@@ -1,0 +1,14 @@
+{
+    "@context": "https://archives.tuat-museum.org/api-context",
+    "@id": "https://archives.tuat-museum.org/api/properties/7",
+    "@type": "o:Property",
+    "o:comment": "A point or period of time associated with an event in the lifecycle of the resource.",
+    "o:id": 7,
+    "o:label": "Date",
+    "o:local_name": "date",
+    "o:term": "dcterms:date",
+    "o:vocabulary": {
+        "@id": "https://archives.tuat-museum.org/api/vocabularies/1",
+        "o:id": 1
+    }
+}

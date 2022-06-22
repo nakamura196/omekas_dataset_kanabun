@@ -1,0 +1,14 @@
+{
+    "@context": "https://archives.tuat-museum.org/api-context",
+    "@id": "https://archives.tuat-museum.org/api/properties/42",
+    "@type": "o:Property",
+    "o:comment": "An entity that mediates access to the resource and for whom the resource is intended or useful.",
+    "o:id": 42,
+    "o:label": "Mediator",
+    "o:local_name": "mediator",
+    "o:term": "dcterms:mediator",
+    "o:vocabulary": {
+        "@id": "https://archives.tuat-museum.org/api/vocabularies/1",
+        "o:id": 1
+    }
+}

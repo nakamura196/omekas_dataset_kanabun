@@ -1,0 +1,14 @@
+{
+    "@context": "https://archives.tuat-museum.org/api-context",
+    "@id": "https://archives.tuat-museum.org/api/properties/177",
+    "@type": "o:Property",
+    "o:comment": "Indicates an account held by this agent.",
+    "o:id": 177,
+    "o:label": "account",
+    "o:local_name": "holdsAccount",
+    "o:term": "foaf:holdsAccount",
+    "o:vocabulary": {
+        "@id": "https://archives.tuat-museum.org/api/vocabularies/4",
+        "o:id": 4
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "https://archives.tuat-museum.org/api-context",
+    "@id": "https://archives.tuat-museum.org/api/properties/53",
+    "@type": "o:Property",
+    "o:comment": "The method by which items are added to a collection.",
+    "o:id": 53,
+    "o:label": "Accrual Method",
+    "o:local_name": "accrualMethod",
+    "o:term": "dcterms:accrualMethod",
+    "o:vocabulary": {
+        "@id": "https://archives.tuat-museum.org/api/vocabularies/1",
+        "o:id": 1
+    }
+}

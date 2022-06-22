@@ -1,0 +1,14 @@
+{
+    "@context": "https://archives.tuat-museum.org/api-context",
+    "@id": "https://archives.tuat-museum.org/api/properties/107",
+    "@type": "o:Property",
+    "o:comment": "The number of volumes contained in a collection of documents (usually a series, periodical, etc.).",
+    "o:id": 107,
+    "o:label": "number of volumes",
+    "o:local_name": "numVolumes",
+    "o:term": "bibo:numVolumes",
+    "o:vocabulary": {
+        "@id": "https://archives.tuat-museum.org/api/vocabularies/3",
+        "o:id": 3
+    }
+}

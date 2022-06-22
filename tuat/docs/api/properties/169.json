@@ -1,0 +1,14 @@
+{
+    "@context": "https://archives.tuat-museum.org/api-context",
+    "@id": "https://archives.tuat-museum.org/api/properties/169",
+    "@type": "o:Property",
+    "o:comment": "A logo representing some thing.",
+    "o:id": 169,
+    "o:label": "logo",
+    "o:local_name": "logo",
+    "o:term": "foaf:logo",
+    "o:vocabulary": {
+        "@id": "https://archives.tuat-museum.org/api/vocabularies/4",
+        "o:id": 4
+    }
+}

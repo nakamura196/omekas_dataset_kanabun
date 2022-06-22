@@ -1,0 +1,14 @@
+{
+    "@context": "https://archives.tuat-museum.org/api-context",
+    "@id": "https://archives.tuat-museum.org/api/properties/67",
+    "@type": "o:Property",
+    "o:comment": "An ordered list of editors. Normally, this list is seen as a priority list that order editors by importance.",
+    "o:id": 67,
+    "o:label": "list of editors",
+    "o:local_name": "editorList",
+    "o:term": "bibo:editorList",
+    "o:vocabulary": {
+        "@id": "https://archives.tuat-museum.org/api/vocabularies/3",
+        "o:id": 3
+    }
+}

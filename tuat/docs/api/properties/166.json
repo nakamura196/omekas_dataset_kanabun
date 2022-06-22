@@ -1,0 +1,14 @@
+{
+    "@context": "https://archives.tuat-museum.org/api-context",
+    "@id": "https://archives.tuat-museum.org/api/properties/166",
+    "@type": "o:Property",
+    "o:comment": "A current project this person works on.",
+    "o:id": 166,
+    "o:label": "current project",
+    "o:local_name": "currentProject",
+    "o:term": "foaf:currentProject",
+    "o:vocabulary": {
+        "@id": "https://archives.tuat-museum.org/api/vocabularies/4",
+        "o:id": 4
+    }
+}

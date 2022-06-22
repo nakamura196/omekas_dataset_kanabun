@@ -1,0 +1,14 @@
+{
+    "@context": "https://archives.tuat-museum.org/api-context",
+    "@id": "https://archives.tuat-museum.org/api/properties/6",
+    "@type": "o:Property",
+    "o:comment": "An entity responsible for making contributions to the resource.",
+    "o:id": 6,
+    "o:label": "Contributor",
+    "o:local_name": "contributor",
+    "o:term": "dcterms:contributor",
+    "o:vocabulary": {
+        "@id": "https://archives.tuat-museum.org/api/vocabularies/1",
+        "o:id": 1
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "https://archives.tuat-museum.org/api-context",
+    "@id": "https://archives.tuat-museum.org/api/properties/148",
+    "@type": "o:Property",
+    "o:comment": "A weblog of some thing (whether person, group, company etc.).",
+    "o:id": 148,
+    "o:label": "weblog",
+    "o:local_name": "weblog",
+    "o:term": "foaf:weblog",
+    "o:vocabulary": {
+        "@id": "https://archives.tuat-museum.org/api/vocabularies/4",
+        "o:id": 4
+    }
+}

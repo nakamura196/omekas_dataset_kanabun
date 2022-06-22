@@ -1,0 +1,14 @@
+{
+    "@context": "https://archives.tuat-museum.org/api-context",
+    "@id": "https://archives.tuat-museum.org/api/properties/184",
+    "@type": "o:Property",
+    "o:comment": "A string expressing what the user is happy for the general public (normally) to know about their current activity.",
+    "o:id": 184,
+    "o:label": "status",
+    "o:local_name": "status",
+    "o:term": "foaf:status",
+    "o:vocabulary": {
+        "@id": "https://archives.tuat-museum.org/api/vocabularies/4",
+        "o:id": 4
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "https://archives.tuat-museum.org/api-context",
+    "@id": "https://archives.tuat-museum.org/api/properties/9",
+    "@type": "o:Property",
+    "o:comment": "The file format, physical medium, or dimensions of the resource.",
+    "o:id": 9,
+    "o:label": "Format",
+    "o:local_name": "format",
+    "o:term": "dcterms:format",
+    "o:vocabulary": {
+        "@id": "https://archives.tuat-museum.org/api/vocabularies/1",
+        "o:id": 1
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "https://archives.tuat-museum.org/api-context",
+    "@id": "https://archives.tuat-museum.org/api/properties/109",
+    "@type": "o:Property",
+    "o:comment": null,
+    "o:id": 109,
+    "o:label": "oclcnum",
+    "o:local_name": "oclcnum",
+    "o:term": "bibo:oclcnum",
+    "o:vocabulary": {
+        "@id": "https://archives.tuat-museum.org/api/vocabularies/3",
+        "o:id": 3
+    }
+}

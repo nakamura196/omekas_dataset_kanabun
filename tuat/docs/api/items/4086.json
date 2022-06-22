@@ -1,0 +1,186 @@
+{
+    "@context": "https://archives.tuat-museum.org/api-context",
+    "@id": "https://archives.tuat-museum.org/api/items/4086",
+    "@type": [
+        "o:Item",
+        "dctype:Collection"
+    ],
+    "dcterms:coverage": [
+        {
+            "@value": "江戸",
+            "is_public": true,
+            "property_id": 14,
+            "property_label": "Coverage",
+            "type": "literal"
+        },
+        {
+            "@value": "江戸",
+            "is_public": true,
+            "property_id": 14,
+            "property_label": "Coverage",
+            "type": "literal"
+        }
+    ],
+    "dcterms:creator": [
+        {
+            "@value": "桜斎房種（歌川房種）",
+            "is_public": true,
+            "property_id": 2,
+            "property_label": "Creator",
+            "type": "literal"
+        }
+    ],
+    "dcterms:extent": [
+        {
+            "@value": "36.5",
+            "is_public": true,
+            "property_id": 25,
+            "property_label": "Extent",
+            "type": "literal"
+        },
+        {
+            "@value": "24.8",
+            "is_public": true,
+            "property_id": 25,
+            "property_label": "Extent",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "2018-u-0166",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "https://archives.tuat-museum.org/iiif/nishikie/manifest/2018-u-0166.json",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:mediator": [
+        {
+            "@value": "Utagawa Fusatane",
+            "is_public": true,
+            "property_id": 42,
+            "property_label": "Mediator",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "丸鉄（丸屋鉄治郎）",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        },
+        {
+            "@value": "Maruya Tetsujiro",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "蚕養草　六",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        },
+        {
+            "@value": "かいこやしないぐさ",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        },
+        {
+            "@value": "Kaiko yashinai gusa 、roku",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2022-03-15T14:45:30+00:00"
+    },
+    "o:id": 4086,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://archives.tuat-museum.org/api/item_sets/3793",
+            "o:id": 3793
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://archives.tuat-museum.org/api/media/4106",
+            "o:id": 4106
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2022-03-15T14:45:30+00:00"
+    },
+    "o:owner": {
+        "@id": "https://archives.tuat-museum.org/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "https://archives.tuat-museum.org/api/resource_classes/23",
+        "o:id": 23
+    },
+    "o:resource_template": {
+        "@id": "https://archives.tuat-museum.org/api/resource_templates/1",
+        "o:id": 1
+    },
+    "o:site": [
+        {
+            "@id": "https://archives.tuat-museum.org/api/sites/1",
+            "o:id": 1
+        },
+        {
+            "@id": "https://archives.tuat-museum.org/api/sites/4",
+            "o:id": 4
+        },
+        {
+            "@id": "https://archives.tuat-museum.org/api/sites/5",
+            "o:id": 5
+        },
+        {
+            "@id": "https://archives.tuat-museum.org/api/sites/6",
+            "o:id": 6
+        },
+        {
+            "@id": "https://archives.tuat-museum.org/api/sites/7",
+            "o:id": 7
+        },
+        {
+            "@id": "https://archives.tuat-museum.org/api/sites/8",
+            "o:id": 8
+        },
+        {
+            "@id": "https://archives.tuat-museum.org/api/sites/9",
+            "o:id": 9
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "蚕養草　六",
+    "thumbnail_display_urls": {
+        "large": "https://archives.tuat-museum.org/files/large/245232c7f978b621220ce2257418575cb820c528.jpg",
+        "medium": "https://archives.tuat-museum.org/files/medium/245232c7f978b621220ce2257418575cb820c528.jpg",
+        "square": "https://archives.tuat-museum.org/files/square/245232c7f978b621220ce2257418575cb820c528.jpg"
+    }
+}

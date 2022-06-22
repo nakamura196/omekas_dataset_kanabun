@@ -1,0 +1,14 @@
+{
+    "@context": "https://archives.tuat-museum.org/api-context",
+    "@id": "https://archives.tuat-museum.org/api/properties/18",
+    "@type": "o:Property",
+    "o:comment": "A list of subunits of the resource.",
+    "o:id": 18,
+    "o:label": "Table Of Contents",
+    "o:local_name": "tableOfContents",
+    "o:term": "dcterms:tableOfContents",
+    "o:vocabulary": {
+        "@id": "https://archives.tuat-museum.org/api/vocabularies/1",
+        "o:id": 1
+    }
+}

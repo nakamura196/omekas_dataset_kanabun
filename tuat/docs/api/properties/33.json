@@ -1,0 +1,14 @@
+{
+    "@context": "https://archives.tuat-museum.org/api-context",
+    "@id": "https://archives.tuat-museum.org/api/properties/33",
+    "@type": "o:Property",
+    "o:comment": "A related resource in which the described resource is physically or logically included.",
+    "o:id": 33,
+    "o:label": "Is Part Of",
+    "o:local_name": "isPartOf",
+    "o:term": "dcterms:isPartOf",
+    "o:vocabulary": {
+        "@id": "https://archives.tuat-museum.org/api/vocabularies/1",
+        "o:id": 1
+    }
+}

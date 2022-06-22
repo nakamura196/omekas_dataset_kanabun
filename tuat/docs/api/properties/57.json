@@ -1,0 +1,14 @@
+{
+    "@context": "https://archives.tuat-museum.org/api-context",
+    "@id": "https://archives.tuat-museum.org/api/properties/57",
+    "@type": "o:Property",
+    "o:comment": "Critical or explanatory note for a Document.",
+    "o:id": 57,
+    "o:label": "annotates",
+    "o:local_name": "annotates",
+    "o:term": "bibo:annotates",
+    "o:vocabulary": {
+        "@id": "https://archives.tuat-museum.org/api/vocabularies/3",
+        "o:id": 3
+    }
+}

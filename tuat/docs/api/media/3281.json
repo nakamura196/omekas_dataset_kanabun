@@ -1,0 +1,48 @@
+{
+    "@context": "https://archives.tuat-museum.org/api-context",
+    "@id": "https://archives.tuat-museum.org/api/media/3281",
+    "@type": "o:Media",
+    "data": [],
+    "o:alt_text": null,
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2022-03-15T13:58:42+00:00"
+    },
+    "o:filename": "92217194269ab9c3184aeb0e8379c48b0bcdc57c.jpg",
+    "o:id": 3281,
+    "o:ingester": "url",
+    "o:is_public": true,
+    "o:item": {
+        "@id": "https://archives.tuat-museum.org/api/items/3261",
+        "o:id": 3261
+    },
+    "o:lang": null,
+    "o:media_type": "image/jpeg",
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2022-03-15T13:58:42+00:00"
+    },
+    "o:original_url": "https://archives.tuat-museum.org/files/original/92217194269ab9c3184aeb0e8379c48b0bcdc57c.jpg",
+    "o:owner": {
+        "@id": "https://archives.tuat-museum.org/api/users/1",
+        "o:id": 1
+    },
+    "o:renderer": "file",
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:sha256": "74d427ff768ae831a83122ee798243829598995d9cf31eeb25937b54530ad5c2",
+    "o:size": 31810,
+    "o:source": "https://archives.tuat-museum.org/iiif/mayu/thumbnail/2021-m-0275.jpg",
+    "o:thumbnail": null,
+    "o:thumbnail_urls": {
+        "large": "https://archives.tuat-museum.org/files/large/92217194269ab9c3184aeb0e8379c48b0bcdc57c.jpg",
+        "medium": "https://archives.tuat-museum.org/files/medium/92217194269ab9c3184aeb0e8379c48b0bcdc57c.jpg",
+        "square": "https://archives.tuat-museum.org/files/square/92217194269ab9c3184aeb0e8379c48b0bcdc57c.jpg"
+    },
+    "o:title": null,
+    "thumbnail_display_urls": {
+        "large": "https://archives.tuat-museum.org/files/large/92217194269ab9c3184aeb0e8379c48b0bcdc57c.jpg",
+        "medium": "https://archives.tuat-museum.org/files/medium/92217194269ab9c3184aeb0e8379c48b0bcdc57c.jpg",
+        "square": "https://archives.tuat-museum.org/files/square/92217194269ab9c3184aeb0e8379c48b0bcdc57c.jpg"
+    }
+}

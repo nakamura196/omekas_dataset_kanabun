@@ -1,0 +1,14 @@
+{
+    "@context": "https://archives.tuat-museum.org/api-context",
+    "@id": "https://archives.tuat-museum.org/api/properties/1",
+    "@type": "o:Property",
+    "o:comment": "A name given to the resource.",
+    "o:id": 1,
+    "o:label": "Title",
+    "o:local_name": "title",
+    "o:term": "dcterms:title",
+    "o:vocabulary": {
+        "@id": "https://archives.tuat-museum.org/api/vocabularies/1",
+        "o:id": 1
+    }
+}

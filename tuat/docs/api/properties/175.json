@@ -1,0 +1,14 @@
+{
+    "@context": "https://archives.tuat-museum.org/api-context",
+    "@id": "https://archives.tuat-museum.org/api/properties/175",
+    "@type": "o:Property",
+    "o:comment": "A theme.",
+    "o:id": 175,
+    "o:label": "theme",
+    "o:local_name": "theme",
+    "o:term": "foaf:theme",
+    "o:vocabulary": {
+        "@id": "https://archives.tuat-museum.org/api/vocabularies/4",
+        "o:id": 4
+    }
+}

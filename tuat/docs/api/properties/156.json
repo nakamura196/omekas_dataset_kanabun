@@ -1,0 +1,14 @@
+{
+    "@context": "https://archives.tuat-museum.org/api-context",
+    "@id": "https://archives.tuat-museum.org/api/properties/156",
+    "@type": "o:Property",
+    "o:comment": "A thing depicted in this representation.",
+    "o:id": 156,
+    "o:label": "depicts",
+    "o:local_name": "depicts",
+    "o:term": "foaf:depicts",
+    "o:vocabulary": {
+        "@id": "https://archives.tuat-museum.org/api/vocabularies/4",
+        "o:id": 4
+    }
+}

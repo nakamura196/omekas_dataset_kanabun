@@ -1,0 +1,14 @@
+{
+    "@context": "https://archives.tuat-museum.org/api-context",
+    "@id": "https://archives.tuat-museum.org/api/properties/14",
+    "@type": "o:Property",
+    "o:comment": "The spatial or temporal topic of the resource, the spatial applicability of the resource, or the jurisdiction under which the resource is relevant.",
+    "o:id": 14,
+    "o:label": "Coverage",
+    "o:local_name": "coverage",
+    "o:term": "dcterms:coverage",
+    "o:vocabulary": {
+        "@id": "https://archives.tuat-museum.org/api/vocabularies/1",
+        "o:id": 1
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "https://archives.tuat-museum.org/api-context",
+    "@id": "https://archives.tuat-museum.org/api/properties/140",
+    "@type": "o:Property",
+    "o:comment": "The last name of a person.",
+    "o:id": 140,
+    "o:label": "lastName",
+    "o:local_name": "lastName",
+    "o:term": "foaf:lastName",
+    "o:vocabulary": {
+        "@id": "https://archives.tuat-museum.org/api/vocabularies/4",
+        "o:id": 4
+    }
+}

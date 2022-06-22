@@ -1,0 +1,14 @@
+{
+    "@context": "https://archives.tuat-museum.org/api-context",
+    "@id": "https://archives.tuat-museum.org/api/properties/164",
+    "@type": "o:Property",
+    "o:comment": "A thing of interest to this person.",
+    "o:id": 164,
+    "o:label": "topic_interest",
+    "o:local_name": "topic_interest",
+    "o:term": "foaf:topic_interest",
+    "o:vocabulary": {
+        "@id": "https://archives.tuat-museum.org/api/vocabularies/4",
+        "o:id": 4
+    }
+}

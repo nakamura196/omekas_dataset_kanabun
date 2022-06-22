@@ -1,0 +1,14 @@
+{
+    "@context": "https://archives.tuat-museum.org/api-context",
+    "@id": "https://archives.tuat-museum.org/api/properties/173",
+    "@type": "o:Property",
+    "o:comment": "A document that this thing is the primary topic of.",
+    "o:id": 173,
+    "o:label": "is primary topic of",
+    "o:local_name": "isPrimaryTopicOf",
+    "o:term": "foaf:isPrimaryTopicOf",
+    "o:vocabulary": {
+        "@id": "https://archives.tuat-museum.org/api/vocabularies/4",
+        "o:id": 4
+    }
+}

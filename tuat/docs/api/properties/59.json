@@ -1,0 +1,14 @@
+{
+    "@context": "https://archives.tuat-museum.org/api-context",
+    "@id": "https://archives.tuat-museum.org/api/properties/59",
+    "@type": "o:Property",
+    "o:comment": "Relates a document to another document that cites the\nfirst document.",
+    "o:id": 59,
+    "o:label": "cited by",
+    "o:local_name": "citedBy",
+    "o:term": "bibo:citedBy",
+    "o:vocabulary": {
+        "@id": "https://archives.tuat-museum.org/api/vocabularies/3",
+        "o:id": 3
+    }
+}

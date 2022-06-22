@@ -1,0 +1,14 @@
+{
+    "@context": "https://archives.tuat-museum.org/api-context",
+    "@id": "https://archives.tuat-museum.org/api/properties/133",
+    "@type": "o:Property",
+    "o:comment": "An AIM chat ID",
+    "o:id": 133,
+    "o:label": "AIM chat ID",
+    "o:local_name": "aimChatID",
+    "o:term": "foaf:aimChatID",
+    "o:vocabulary": {
+        "@id": "https://archives.tuat-museum.org/api/vocabularies/4",
+        "o:id": 4
+    }
+}

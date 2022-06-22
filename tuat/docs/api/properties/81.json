@@ -1,0 +1,14 @@
+{
+    "@context": "https://archives.tuat-museum.org/api-context",
+    "@id": "https://archives.tuat-museum.org/api/properties/81",
+    "@type": "o:Property",
+    "o:comment": "The publication status of (typically academic) content.",
+    "o:id": 81,
+    "o:label": "status",
+    "o:local_name": "status",
+    "o:term": "bibo:status",
+    "o:vocabulary": {
+        "@id": "https://archives.tuat-museum.org/api/vocabularies/3",
+        "o:id": 3
+    }
+}

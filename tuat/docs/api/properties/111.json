@@ -1,0 +1,14 @@
+{
+    "@context": "https://archives.tuat-museum.org/api-context",
+    "@id": "https://archives.tuat-museum.org/api/properties/111",
+    "@type": "o:Property",
+    "o:comment": "Starting page number within a continuous page range.",
+    "o:id": 111,
+    "o:label": "page start",
+    "o:local_name": "pageStart",
+    "o:term": "bibo:pageStart",
+    "o:vocabulary": {
+        "@id": "https://archives.tuat-museum.org/api/vocabularies/3",
+        "o:id": 3
+    }
+}

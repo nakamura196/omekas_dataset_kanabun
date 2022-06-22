@@ -1,0 +1,14 @@
+{
+    "@context": "https://archives.tuat-museum.org/api-context",
+    "@id": "https://archives.tuat-museum.org/api/properties/91",
+    "@type": "o:Property",
+    "o:comment": "This property is for a plain-text rendering of the content of a Document. While the plain-text content of an entire document could be described by this property.",
+    "o:id": 91,
+    "o:label": "content",
+    "o:local_name": "content",
+    "o:term": "bibo:content",
+    "o:vocabulary": {
+        "@id": "https://archives.tuat-museum.org/api/vocabularies/3",
+        "o:id": 3
+    }
+}

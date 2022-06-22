@@ -1,0 +1,14 @@
+{
+    "@context": "https://archives.tuat-museum.org/api-context",
+    "@id": "https://archives.tuat-museum.org/api/properties/178",
+    "@type": "o:Property",
+    "o:comment": "Indicates a homepage of the service provide for this online account.",
+    "o:id": 178,
+    "o:label": "account service homepage",
+    "o:local_name": "accountServiceHomepage",
+    "o:term": "foaf:accountServiceHomepage",
+    "o:vocabulary": {
+        "@id": "https://archives.tuat-museum.org/api/vocabularies/4",
+        "o:id": 4
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "https://archives.tuat-museum.org/api-context",
+    "@id": "https://archives.tuat-museum.org/api/properties/137",
+    "@type": "o:Property",
+    "o:comment": "An MSN chat ID",
+    "o:id": 137,
+    "o:label": "MSN chat ID",
+    "o:local_name": "msnChatID",
+    "o:term": "foaf:msnChatID",
+    "o:vocabulary": {
+        "@id": "https://archives.tuat-museum.org/api/vocabularies/4",
+        "o:id": 4
+    }
+}

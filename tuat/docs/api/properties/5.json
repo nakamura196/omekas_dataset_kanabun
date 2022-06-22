@@ -1,0 +1,14 @@
+{
+    "@context": "https://archives.tuat-museum.org/api-context",
+    "@id": "https://archives.tuat-museum.org/api/properties/5",
+    "@type": "o:Property",
+    "o:comment": "An entity responsible for making the resource available.",
+    "o:id": 5,
+    "o:label": "Publisher",
+    "o:local_name": "publisher",
+    "o:term": "dcterms:publisher",
+    "o:vocabulary": {
+        "@id": "https://archives.tuat-museum.org/api/vocabularies/1",
+        "o:id": 1
+    }
+}

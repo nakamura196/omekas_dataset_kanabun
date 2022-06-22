@@ -1,0 +1,14 @@
+{
+    "@context": "https://archives.tuat-museum.org/api-context",
+    "@id": "https://archives.tuat-museum.org/api/properties/24",
+    "@type": "o:Property",
+    "o:comment": "Date on which the resource was changed.",
+    "o:id": 24,
+    "o:label": "Date Modified",
+    "o:local_name": "modified",
+    "o:term": "dcterms:modified",
+    "o:vocabulary": {
+        "@id": "https://archives.tuat-museum.org/api/vocabularies/1",
+        "o:id": 1
+    }
+}

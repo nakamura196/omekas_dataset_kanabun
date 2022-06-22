@@ -1,0 +1,14 @@
+{
+    "@context": "https://archives.tuat-museum.org/api-context",
+    "@id": "https://archives.tuat-museum.org/api/properties/69",
+    "@type": "o:Property",
+    "o:comment": "An agent that interview another agent.",
+    "o:id": 69,
+    "o:label": "interviewer",
+    "o:local_name": "interviewer",
+    "o:term": "bibo:interviewer",
+    "o:vocabulary": {
+        "@id": "https://archives.tuat-museum.org/api/vocabularies/3",
+        "o:id": 3
+    }
+}

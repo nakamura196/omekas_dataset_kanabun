@@ -1,0 +1,14 @@
+{
+    "@context": "https://archives.tuat-museum.org/api-context",
+    "@id": "https://archives.tuat-museum.org/api/properties/63",
+    "@type": "o:Property",
+    "o:comment": "The thesis degree.",
+    "o:id": 63,
+    "o:label": "degree",
+    "o:local_name": "degree",
+    "o:term": "bibo:degree",
+    "o:vocabulary": {
+        "@id": "https://archives.tuat-museum.org/api/vocabularies/3",
+        "o:id": 3
+    }
+}

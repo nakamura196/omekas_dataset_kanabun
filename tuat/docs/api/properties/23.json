@@ -1,0 +1,14 @@
+{
+    "@context": "https://archives.tuat-museum.org/api-context",
+    "@id": "https://archives.tuat-museum.org/api/properties/23",
+    "@type": "o:Property",
+    "o:comment": "Date of formal issuance (e.g., publication) of the resource.",
+    "o:id": 23,
+    "o:label": "Date Issued",
+    "o:local_name": "issued",
+    "o:term": "dcterms:issued",
+    "o:vocabulary": {
+        "@id": "https://archives.tuat-museum.org/api/vocabularies/1",
+        "o:id": 1
+    }
+}

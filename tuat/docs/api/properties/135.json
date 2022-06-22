@@ -1,0 +1,14 @@
+{
+    "@context": "https://archives.tuat-museum.org/api-context",
+    "@id": "https://archives.tuat-museum.org/api/properties/135",
+    "@type": "o:Property",
+    "o:comment": "An ICQ chat ID",
+    "o:id": 135,
+    "o:label": "ICQ chat ID",
+    "o:local_name": "icqChatID",
+    "o:term": "foaf:icqChatID",
+    "o:vocabulary": {
+        "@id": "https://archives.tuat-museum.org/api/vocabularies/4",
+        "o:id": 4
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "https://archives.tuat-museum.org/api-context",
+    "@id": "https://archives.tuat-museum.org/api/properties/125",
+    "@type": "o:Property",
+    "o:comment": "The gender of this Agent (typically but not necessarily 'male' or 'female').",
+    "o:id": 125,
+    "o:label": "gender",
+    "o:local_name": "gender",
+    "o:term": "foaf:gender",
+    "o:vocabulary": {
+        "@id": "https://archives.tuat-museum.org/api/vocabularies/4",
+        "o:id": 4
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "@context": "https://archives.tuat-museum.org/api-context",
+    "@id": "https://archives.tuat-museum.org/api/media/3731",
+    "@type": "o:Media",
+    "data": [],
+    "o:alt_text": null,
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2022-03-15T14:27:32+00:00"
+    },
+    "o:filename": "b98c6a7e4ddbb282ec21dc80c455f6cd7ba6c1ab.jpg",
+    "o:id": 3731,
+    "o:ingester": "url",
+    "o:is_public": true,
+    "o:item": {
+        "@id": "https://archives.tuat-museum.org/api/items/3711",
+        "o:id": 3711
+    },
+    "o:lang": null,
+    "o:media_type": "image/jpeg",
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2022-03-15T14:27:32+00:00"
+    },
+    "o:original_url": "https://archives.tuat-museum.org/files/original/b98c6a7e4ddbb282ec21dc80c455f6cd7ba6c1ab.jpg",
+    "o:owner": {
+        "@id": "https://archives.tuat-museum.org/api/users/1",
+        "o:id": 1
+    },
+    "o:renderer": "file",
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:sha256": "7538b967c54e9c96f18addc0baf71aded437c82ccb11b9c1d8dfdcce8d0e3f10",
+    "o:size": 66800,
+    "o:source": "https://archives.tuat-museum.org/iiif/mawata/thumbnail/2021-w-0007.jpg",
+    "o:thumbnail": null,
+    "o:thumbnail_urls": {
+        "large": "https://archives.tuat-museum.org/files/large/b98c6a7e4ddbb282ec21dc80c455f6cd7ba6c1ab.jpg",
+        "medium": "https://archives.tuat-museum.org/files/medium/b98c6a7e4ddbb282ec21dc80c455f6cd7ba6c1ab.jpg",
+        "square": "https://archives.tuat-museum.org/files/square/b98c6a7e4ddbb282ec21dc80c455f6cd7ba6c1ab.jpg"
+    },
+    "o:title": null,
+    "thumbnail_display_urls": {
+        "large": "https://archives.tuat-museum.org/files/large/b98c6a7e4ddbb282ec21dc80c455f6cd7ba6c1ab.jpg",
+        "medium": "https://archives.tuat-museum.org/files/medium/b98c6a7e4ddbb282ec21dc80c455f6cd7ba6c1ab.jpg",
+        "square": "https://archives.tuat-museum.org/files/square/b98c6a7e4ddbb282ec21dc80c455f6cd7ba6c1ab.jpg"
+    }
+}

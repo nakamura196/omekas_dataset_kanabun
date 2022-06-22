@@ -1,0 +1,14 @@
+{
+    "@context": "https://archives.tuat-museum.org/api-context",
+    "@id": "https://archives.tuat-museum.org/api/properties/20",
+    "@type": "o:Property",
+    "o:comment": "Date of creation of the resource.",
+    "o:id": 20,
+    "o:label": "Date Created",
+    "o:local_name": "created",
+    "o:term": "dcterms:created",
+    "o:vocabulary": {
+        "@id": "https://archives.tuat-museum.org/api/vocabularies/1",
+        "o:id": 1
+    }
+}

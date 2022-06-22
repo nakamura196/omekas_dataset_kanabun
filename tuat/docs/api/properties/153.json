@@ -1,0 +1,14 @@
+{
+    "@context": "https://archives.tuat-museum.org/api-context",
+    "@id": "https://archives.tuat-museum.org/api/properties/153",
+    "@type": "o:Property",
+    "o:comment": "An agent that  made this thing.",
+    "o:id": 153,
+    "o:label": "maker",
+    "o:local_name": "maker",
+    "o:term": "foaf:maker",
+    "o:vocabulary": {
+        "@id": "https://archives.tuat-museum.org/api/vocabularies/4",
+        "o:id": 4
+    }
+}

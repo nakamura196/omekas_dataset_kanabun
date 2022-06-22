@@ -1,0 +1,14 @@
+{
+    "@context": "https://archives.tuat-museum.org/api-context",
+    "@id": "https://archives.tuat-museum.org/api/properties/126",
+    "@type": "o:Property",
+    "o:comment": "A textual geekcode for this person, see http://www.geekcode.com/geek.html",
+    "o:id": 126,
+    "o:label": "geekcode",
+    "o:local_name": "geekcode",
+    "o:term": "foaf:geekcode",
+    "o:vocabulary": {
+        "@id": "https://archives.tuat-museum.org/api/vocabularies/4",
+        "o:id": 4
+    }
+}

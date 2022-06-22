@@ -1,0 +1,14 @@
+{
+    "@context": "https://archives.tuat-museum.org/api-context",
+    "@id": "https://archives.tuat-museum.org/api/properties/160",
+    "@type": "o:Property",
+    "o:comment": "A work info homepage of some person; a page about their work for some organization.",
+    "o:id": 160,
+    "o:label": "work info homepage",
+    "o:local_name": "workInfoHomepage",
+    "o:term": "foaf:workInfoHomepage",
+    "o:vocabulary": {
+        "@id": "https://archives.tuat-museum.org/api/vocabularies/4",
+        "o:id": 4
+    }
+}

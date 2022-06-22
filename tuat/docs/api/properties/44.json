@@ -1,0 +1,14 @@
+{
+    "@context": "https://archives.tuat-museum.org/api-context",
+    "@id": "https://archives.tuat-museum.org/api/properties/44",
+    "@type": "o:Property",
+    "o:comment": "Date of copyright.",
+    "o:id": 44,
+    "o:label": "Date Copyrighted",
+    "o:local_name": "dateCopyrighted",
+    "o:term": "dcterms:dateCopyrighted",
+    "o:vocabulary": {
+        "@id": "https://archives.tuat-museum.org/api/vocabularies/1",
+        "o:id": 1
+    }
+}

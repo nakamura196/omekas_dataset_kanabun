@@ -1,0 +1,209 @@
+{
+    "@context": "https://archives.tuat-museum.org/api-context",
+    "@id": "https://archives.tuat-museum.org/api/items/3918",
+    "@type": [
+        "o:Item",
+        "dctype:Collection"
+    ],
+    "dcterms:coverage": [
+        {
+            "@value": "東京",
+            "is_public": true,
+            "property_id": 14,
+            "property_label": "Coverage",
+            "type": "literal"
+        },
+        {
+            "@value": "東京",
+            "is_public": true,
+            "property_id": 14,
+            "property_label": "Coverage",
+            "type": "literal"
+        }
+    ],
+    "dcterms:creator": [
+        {
+            "@value": "荒川八十八（豊原国周）",
+            "is_public": true,
+            "property_id": 2,
+            "property_label": "Creator",
+            "type": "literal"
+        }
+    ],
+    "dcterms:extent": [
+        {
+            "@value": "37.4",
+            "is_public": true,
+            "property_id": 25,
+            "property_label": "Extent",
+            "type": "literal"
+        },
+        {
+            "@value": "74.4",
+            "is_public": true,
+            "property_id": 25,
+            "property_label": "Extent",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "2018-u-0069",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "https://archives.tuat-museum.org/iiif/nishikie/manifest/2018-u-0069.json",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:issued": [
+        {
+            "@value": "1868-1912（明治年間）",
+            "is_public": true,
+            "property_id": 23,
+            "property_label": "Date Issued",
+            "type": "literal"
+        },
+        {
+            "@value": "1868-1912 、Meiji Era",
+            "is_public": true,
+            "property_id": 23,
+            "property_label": "Date Issued",
+            "type": "literal"
+        }
+    ],
+    "dcterms:mediator": [
+        {
+            "@value": "彫銀",
+            "is_public": true,
+            "property_id": 42,
+            "property_label": "Mediator",
+            "type": "literal"
+        },
+        {
+            "@value": "Toyohara Kunichika",
+            "is_public": true,
+            "property_id": 42,
+            "property_label": "Mediator",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "武川清吉",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        },
+        {
+            "@value": "takekawa Seikichi",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "皇国蚕之養育　3枚綴",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        },
+        {
+            "@value": "こうこくかいこのやしない",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        },
+        {
+            "@value": "Koukoku kaiko no yashinai 、three sheets",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2022-03-15T14:45:22+00:00"
+    },
+    "o:id": 3918,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://archives.tuat-museum.org/api/item_sets/3793",
+            "o:id": 3793
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://archives.tuat-museum.org/api/media/3938",
+            "o:id": 3938
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2022-03-15T14:45:22+00:00"
+    },
+    "o:owner": {
+        "@id": "https://archives.tuat-museum.org/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "https://archives.tuat-museum.org/api/resource_classes/23",
+        "o:id": 23
+    },
+    "o:resource_template": {
+        "@id": "https://archives.tuat-museum.org/api/resource_templates/1",
+        "o:id": 1
+    },
+    "o:site": [
+        {
+            "@id": "https://archives.tuat-museum.org/api/sites/1",
+            "o:id": 1
+        },
+        {
+            "@id": "https://archives.tuat-museum.org/api/sites/4",
+            "o:id": 4
+        },
+        {
+            "@id": "https://archives.tuat-museum.org/api/sites/5",
+            "o:id": 5
+        },
+        {
+            "@id": "https://archives.tuat-museum.org/api/sites/6",
+            "o:id": 6
+        },
+        {
+            "@id": "https://archives.tuat-museum.org/api/sites/7",
+            "o:id": 7
+        },
+        {
+            "@id": "https://archives.tuat-museum.org/api/sites/8",
+            "o:id": 8
+        },
+        {
+            "@id": "https://archives.tuat-museum.org/api/sites/9",
+            "o:id": 9
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "皇国蚕之養育　3枚綴",
+    "thumbnail_display_urls": {
+        "large": "https://archives.tuat-museum.org/files/large/28425fbd27f50bff81c9306c766a40911c4536c2.jpg",
+        "medium": "https://archives.tuat-museum.org/files/medium/28425fbd27f50bff81c9306c766a40911c4536c2.jpg",
+        "square": "https://archives.tuat-museum.org/files/square/28425fbd27f50bff81c9306c766a40911c4536c2.jpg"
+    }
+}

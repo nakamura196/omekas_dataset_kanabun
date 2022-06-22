@@ -1,0 +1,14 @@
+{
+    "@context": "https://archives.tuat-museum.org/api-context",
+    "@id": "https://archives.tuat-museum.org/api/properties/26",
+    "@type": "o:Property",
+    "o:comment": "The material or physical carrier of the resource.",
+    "o:id": 26,
+    "o:label": "Medium",
+    "o:local_name": "medium",
+    "o:term": "dcterms:medium",
+    "o:vocabulary": {
+        "@id": "https://archives.tuat-museum.org/api/vocabularies/1",
+        "o:id": 1
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "https://archives.tuat-museum.org/api-context",
+    "@id": "https://archives.tuat-museum.org/api/properties/139",
+    "@type": "o:Property",
+    "o:comment": "The first name of a person.",
+    "o:id": 139,
+    "o:label": "firstName",
+    "o:local_name": "firstName",
+    "o:term": "foaf:firstName",
+    "o:vocabulary": {
+        "@id": "https://archives.tuat-museum.org/api/vocabularies/4",
+        "o:id": 4
+    }
+}

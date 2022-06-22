@@ -1,0 +1,14 @@
+{
+    "@context": "https://archives.tuat-museum.org/api-context",
+    "@id": "https://archives.tuat-museum.org/api/properties/71",
+    "@type": "o:Property",
+    "o:comment": "The organizer of an event; includes conference organizers, but also government agencies or other bodies that are responsible for conducting hearings.",
+    "o:id": 71,
+    "o:label": "organizer",
+    "o:local_name": "organizer",
+    "o:term": "bibo:organizer",
+    "o:vocabulary": {
+        "@id": "https://archives.tuat-museum.org/api/vocabularies/3",
+        "o:id": 3
+    }
+}

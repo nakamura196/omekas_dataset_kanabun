@@ -1,0 +1,14 @@
+{
+    "@context": "https://archives.tuat-museum.org/api-context",
+    "@id": "https://archives.tuat-museum.org/api/properties/90",
+    "@type": "o:Property",
+    "o:comment": null,
+    "o:id": 90,
+    "o:label": "coden",
+    "o:local_name": "coden",
+    "o:term": "bibo:coden",
+    "o:vocabulary": {
+        "@id": "https://archives.tuat-museum.org/api/vocabularies/3",
+        "o:id": 3
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "https://archives.tuat-museum.org/api-context",
+    "@id": "https://archives.tuat-museum.org/api/properties/27",
+    "@type": "o:Property",
+    "o:comment": "A related resource of which the described resource is a version, edition, or adaptation.",
+    "o:id": 27,
+    "o:label": "Is Version Of",
+    "o:local_name": "isVersionOf",
+    "o:term": "dcterms:isVersionOf",
+    "o:vocabulary": {
+        "@id": "https://archives.tuat-museum.org/api/vocabularies/1",
+        "o:id": 1
+    }
+}

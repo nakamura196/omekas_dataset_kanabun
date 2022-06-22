@@ -1,0 +1,14 @@
+{
+    "@context": "https://archives.tuat-museum.org/api-context",
+    "@id": "https://archives.tuat-museum.org/api/properties/70",
+    "@type": "o:Property",
+    "o:comment": "An entity responsible for issuing often informally published documents such as press releases, reports, etc.",
+    "o:id": 70,
+    "o:label": "issuer",
+    "o:local_name": "issuer",
+    "o:term": "bibo:issuer",
+    "o:vocabulary": {
+        "@id": "https://archives.tuat-museum.org/api/vocabularies/3",
+        "o:id": 3
+    }
+}

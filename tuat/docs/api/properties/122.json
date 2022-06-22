@@ -1,0 +1,14 @@
+{
+    "@context": "https://archives.tuat-museum.org/api-context",
+    "@id": "https://archives.tuat-museum.org/api/properties/122",
+    "@type": "o:Property",
+    "o:comment": "A volume number",
+    "o:id": 122,
+    "o:label": "volume",
+    "o:local_name": "volume",
+    "o:term": "bibo:volume",
+    "o:vocabulary": {
+        "@id": "https://archives.tuat-museum.org/api/vocabularies/3",
+        "o:id": 3
+    }
+}

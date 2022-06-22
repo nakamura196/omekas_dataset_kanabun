@@ -1,0 +1,14 @@
+{
+    "@context": "https://archives.tuat-museum.org/api-context",
+    "@id": "https://archives.tuat-museum.org/api/properties/131",
+    "@type": "o:Property",
+    "o:comment": "A short informal nickname characterising an agent (includes login identifiers, IRC and other chat nicknames).",
+    "o:id": 131,
+    "o:label": "nickname",
+    "o:local_name": "nick",
+    "o:term": "foaf:nick",
+    "o:vocabulary": {
+        "@id": "https://archives.tuat-museum.org/api/vocabularies/4",
+        "o:id": 4
+    }
+}

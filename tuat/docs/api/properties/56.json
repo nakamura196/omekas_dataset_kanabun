@@ -1,0 +1,14 @@
+{
+    "@context": "https://archives.tuat-museum.org/api-context",
+    "@id": "https://archives.tuat-museum.org/api/properties/56",
+    "@type": "o:Property",
+    "o:comment": "A legal decision that affirms a ruling.",
+    "o:id": 56,
+    "o:label": "affirmedBy",
+    "o:local_name": "affirmedBy",
+    "o:term": "bibo:affirmedBy",
+    "o:vocabulary": {
+        "@id": "https://archives.tuat-museum.org/api/vocabularies/3",
+        "o:id": 3
+    }
+}

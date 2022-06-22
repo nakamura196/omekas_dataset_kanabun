@@ -1,0 +1,14 @@
+{
+    "@context": "https://archives.tuat-museum.org/api-context",
+    "@id": "https://archives.tuat-museum.org/api/properties/114",
+    "@type": "o:Property",
+    "o:comment": "The prefix of a name",
+    "o:id": 114,
+    "o:label": "prefix name",
+    "o:local_name": "prefixName",
+    "o:term": "bibo:prefixName",
+    "o:vocabulary": {
+        "@id": "https://archives.tuat-museum.org/api/vocabularies/3",
+        "o:id": 3
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "https://archives.tuat-museum.org/api-context",
+    "@id": "https://archives.tuat-museum.org/api/properties/130",
+    "@type": "o:Property",
+    "o:comment": "Title (Mr, Mrs, Ms, Dr. etc)",
+    "o:id": 130,
+    "o:label": "title",
+    "o:local_name": "title",
+    "o:term": "foaf:title",
+    "o:vocabulary": {
+        "@id": "https://archives.tuat-museum.org/api/vocabularies/4",
+        "o:id": 4
+    }
+}

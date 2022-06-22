@@ -1,0 +1,14 @@
+{
+    "@context": "https://archives.tuat-museum.org/api-context",
+    "@id": "https://archives.tuat-museum.org/api/properties/147",
+    "@type": "o:Property",
+    "o:comment": "A homepage for some thing.",
+    "o:id": 147,
+    "o:label": "homepage",
+    "o:local_name": "homepage",
+    "o:term": "foaf:homepage",
+    "o:vocabulary": {
+        "@id": "https://archives.tuat-museum.org/api/vocabularies/4",
+        "o:id": 4
+    }
+}
