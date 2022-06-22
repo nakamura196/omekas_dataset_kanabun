@@ -1,6 +1,6 @@
 {
-    "@context": "https://archives.tuat-museum.org/api-context",
-    "@id": "https://archives.tuat-museum.org/api/properties/101",
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/101",
     "@type": "o:Property",
     "o:comment": null,
     "o:id": 101,
@@ -8,7 +8,7 @@
     "o:local_name": "isbn13",
     "o:term": "bibo:isbn13",
     "o:vocabulary": {
-        "@id": "https://archives.tuat-museum.org/api/vocabularies/3",
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/3",
         "o:id": 3
     }
 }

@@ -1,6 +1,6 @@
 {
-    "@context": "https://archives.tuat-museum.org/api-context",
-    "@id": "https://archives.tuat-museum.org/api/properties/158",
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/158",
     "@type": "o:Property",
     "o:comment": "A Myers Briggs (MBTI) personality classification.",
     "o:id": 158,
@@ -8,7 +8,7 @@
     "o:local_name": "myersBriggs",
     "o:term": "foaf:myersBriggs",
     "o:vocabulary": {
-        "@id": "https://archives.tuat-museum.org/api/vocabularies/4",
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/4",
         "o:id": 4
     }
 }

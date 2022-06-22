@@ -1,6 +1,6 @@
 {
-    "@context": "https://archives.tuat-museum.org/api-context",
-    "@id": "https://archives.tuat-museum.org/api/properties/62",
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/62",
     "@type": "o:Property",
     "o:comment": "A court associated with a legal document; for example, that which issues a decision.",
     "o:id": 62,
@@ -8,7 +8,7 @@
     "o:local_name": "court",
     "o:term": "bibo:court",
     "o:vocabulary": {
-        "@id": "https://archives.tuat-museum.org/api/vocabularies/3",
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/3",
         "o:id": 3
     }
 }

@@ -1,6 +1,6 @@
 {
-    "@context": "https://archives.tuat-museum.org/api-context",
-    "@id": "https://archives.tuat-museum.org/api/properties/141",
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/141",
     "@type": "o:Property",
     "o:comment": "The given name of some person.",
     "o:id": 141,
@@ -8,7 +8,7 @@
     "o:local_name": "givenName",
     "o:term": "foaf:givenName",
     "o:vocabulary": {
-        "@id": "https://archives.tuat-museum.org/api/vocabularies/4",
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/4",
         "o:id": 4
     }
 }

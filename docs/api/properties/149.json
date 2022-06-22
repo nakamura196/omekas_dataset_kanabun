@@ -1,6 +1,6 @@
 {
-    "@context": "https://archives.tuat-museum.org/api-context",
-    "@id": "https://archives.tuat-museum.org/api/properties/149",
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/149",
     "@type": "o:Property",
     "o:comment": "An OpenID for an Agent.",
     "o:id": 149,
@@ -8,7 +8,7 @@
     "o:local_name": "openid",
     "o:term": "foaf:openid",
     "o:vocabulary": {
-        "@id": "https://archives.tuat-museum.org/api/vocabularies/4",
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/4",
         "o:id": 4
     }
 }

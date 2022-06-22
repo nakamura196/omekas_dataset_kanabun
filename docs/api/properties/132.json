@@ -1,6 +1,6 @@
 {
-    "@context": "https://archives.tuat-museum.org/api-context",
-    "@id": "https://archives.tuat-museum.org/api/properties/132",
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/132",
     "@type": "o:Property",
     "o:comment": "A jabber ID for something.",
     "o:id": 132,
@@ -8,7 +8,7 @@
     "o:local_name": "jabberID",
     "o:term": "foaf:jabberID",
     "o:vocabulary": {
-        "@id": "https://archives.tuat-museum.org/api/vocabularies/4",
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/4",
         "o:id": 4
     }
 }

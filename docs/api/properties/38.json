@@ -1,6 +1,6 @@
 {
-    "@context": "https://archives.tuat-museum.org/api-context",
-    "@id": "https://archives.tuat-museum.org/api/properties/38",
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/38",
     "@type": "o:Property",
     "o:comment": "A related resource that is substantially the same as the pre-existing described resource, but in another format.",
     "o:id": 38,
@@ -8,7 +8,7 @@
     "o:local_name": "hasFormat",
     "o:term": "dcterms:hasFormat",
     "o:vocabulary": {
-        "@id": "https://archives.tuat-museum.org/api/vocabularies/1",
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/1",
         "o:id": 1
     }
 }

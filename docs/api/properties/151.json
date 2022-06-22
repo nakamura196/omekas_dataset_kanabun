@@ -1,6 +1,6 @@
 {
-    "@context": "https://archives.tuat-museum.org/api-context",
-    "@id": "https://archives.tuat-museum.org/api/properties/151",
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/151",
     "@type": "o:Property",
     "o:comment": "A .plan comment, in the tradition of finger and '.plan' files.",
     "o:id": 151,
@@ -8,7 +8,7 @@
     "o:local_name": "plan",
     "o:term": "foaf:plan",
     "o:vocabulary": {
-        "@id": "https://archives.tuat-museum.org/api/vocabularies/4",
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/4",
         "o:id": 4
     }
 }

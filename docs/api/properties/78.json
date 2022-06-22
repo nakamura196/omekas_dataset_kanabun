@@ -1,6 +1,6 @@
 {
-    "@context": "https://archives.tuat-museum.org/api-context",
-    "@id": "https://archives.tuat-museum.org/api/properties/78",
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/78",
     "@type": "o:Property",
     "o:comment": "The resource in which another resource is reproduced.",
     "o:id": 78,
@@ -8,7 +8,7 @@
     "o:local_name": "reproducedIn",
     "o:term": "bibo:reproducedIn",
     "o:vocabulary": {
-        "@id": "https://archives.tuat-museum.org/api/vocabularies/3",
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/3",
         "o:id": 3
     }
 }

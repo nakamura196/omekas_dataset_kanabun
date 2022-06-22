@@ -1,6 +1,6 @@
 {
-    "@context": "https://archives.tuat-museum.org/api-context",
-    "@id": "https://archives.tuat-museum.org/api/properties/52",
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/52",
     "@type": "o:Property",
     "o:comment": "A process, used to engender knowledge, attitudes and skills, that the described resource is designed to support.",
     "o:id": 52,
@@ -8,7 +8,7 @@
     "o:local_name": "instructionalMethod",
     "o:term": "dcterms:instructionalMethod",
     "o:vocabulary": {
-        "@id": "https://archives.tuat-museum.org/api/vocabularies/1",
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/1",
         "o:id": 1
     }
 }

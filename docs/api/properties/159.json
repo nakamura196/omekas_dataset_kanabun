@@ -1,6 +1,6 @@
 {
-    "@context": "https://archives.tuat-museum.org/api-context",
-    "@id": "https://archives.tuat-museum.org/api/properties/159",
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/159",
     "@type": "o:Property",
     "o:comment": "A workplace homepage of some person; the homepage of an organization they work for.",
     "o:id": 159,
@@ -8,7 +8,7 @@
     "o:local_name": "workplaceHomepage",
     "o:term": "foaf:workplaceHomepage",
     "o:vocabulary": {
-        "@id": "https://archives.tuat-museum.org/api/vocabularies/4",
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/4",
         "o:id": 4
     }
 }
