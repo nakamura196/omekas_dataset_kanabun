@@ -1,0 +1,14 @@
+{
+    "@context": "https://shared.ldas.jp/omeka-s/api-context",
+    "@id": "https://shared.ldas.jp/omeka-s/api/properties/136",
+    "@type": "o:Property",
+    "o:comment": "A Yahoo chat ID",
+    "o:id": 136,
+    "o:label": "Yahoo chat ID",
+    "o:local_name": "yahooChatID",
+    "o:term": "foaf:yahooChatID",
+    "o:vocabulary": {
+        "@id": "https://shared.ldas.jp/omeka-s/api/vocabularies/4",
+        "o:id": 4
+    }
+}

@@ -1,0 +1,75 @@
+{
+    "@context": "https://shared.ldas.jp/omeka-s/api-context",
+    "@id": "https://shared.ldas.jp/omeka-s/api/sites/1",
+    "@type": "o:Site",
+    "o:assign_new_items": true,
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2022-02-15T15:17:00+00:00"
+    },
+    "o:homepage": {
+        "@id": "https://shared.ldas.jp/omeka-s/api/site_pages/1",
+        "o:id": 1
+    },
+    "o:id": 1,
+    "o:is_public": true,
+    "o:item_pool": [],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2022-03-04T02:32:47+00:00"
+    },
+    "o:navigation": [
+        {
+            "data": {
+                "id": 1,
+                "label": ""
+            },
+            "links": [],
+            "type": "page"
+        },
+        {
+            "data": {
+                "label": "検索",
+                "url": "https://shared.ldas.jp/omeka-s/s/default/find2"
+            },
+            "links": [],
+            "type": "url"
+        },
+        {
+            "data": {
+                "label": "",
+                "query": ""
+            },
+            "links": [],
+            "type": "browse"
+        }
+    ],
+    "o:owner": {
+        "@id": "https://shared.ldas.jp/omeka-s/api/users/1",
+        "o:id": 1
+    },
+    "o:page": [
+        {
+            "@id": "https://shared.ldas.jp/omeka-s/api/site_pages/1",
+            "o:id": 1
+        }
+    ],
+    "o:site_item": {
+        "@id": "https://shared.ldas.jp/omeka-s/api/items?site_id=1"
+    },
+    "o:site_item_set": [],
+    "o:site_permission": [
+        {
+            "o:role": "admin",
+            "o:user": {
+                "@id": "https://shared.ldas.jp/omeka-s/api/users/1",
+                "o:id": 1
+            }
+        }
+    ],
+    "o:slug": "default",
+    "o:summary": null,
+    "o:theme": "default",
+    "o:thumbnail": null,
+    "o:title": "default"
+}

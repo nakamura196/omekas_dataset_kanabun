@@ -1,0 +1,14 @@
+{
+    "@context": "https://shared.ldas.jp/omeka-s/api-context",
+    "@id": "https://shared.ldas.jp/omeka-s/api/properties/139",
+    "@type": "o:Property",
+    "o:comment": "The first name of a person.",
+    "o:id": 139,
+    "o:label": "firstName",
+    "o:local_name": "firstName",
+    "o:term": "foaf:firstName",
+    "o:vocabulary": {
+        "@id": "https://shared.ldas.jp/omeka-s/api/vocabularies/4",
+        "o:id": 4
+    }
+}

@@ -1,0 +1,94 @@
+{
+    "@context": "https://shared.ldas.jp/omeka-s/api-context",
+    "@id": "https://shared.ldas.jp/omeka-s/api/media/1208",
+    "@type": "o:Media",
+    "data": {
+        "dimensions": {
+            "large": {
+                "height": 600,
+                "width": 800
+            },
+            "medium": {
+                "height": 150,
+                "width": 200
+            },
+            "original": {
+                "height": 600,
+                "width": 800
+            },
+            "square": {
+                "height": 200,
+                "width": 200
+            }
+        },
+        "tile": {
+            "deepzoom": {
+                "format": "jpg",
+                "media_path": "bd4dfa8ac0b1fc54ffaec14d7dbbed834495bff0_files",
+                "metadata_path": "bd4dfa8ac0b1fc54ffaec14d7dbbed834495bff0.dzi",
+                "overlap": 0,
+                "path_base": "/home/ldas/www/omeka-s/files/tile",
+                "size": 256,
+                "source": {
+                    "height": 600,
+                    "width": 800
+                },
+                "tile_type": "deepzoom",
+                "total": null,
+                "url_base": "http://shared.ldas.jp/omeka-s/files/tile",
+                "url_query": ""
+            }
+        }
+    },
+    "dcterms:title": [
+        {
+            "@value": "My media upload title",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:alt_text": null,
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2022-02-18T14:41:34+00:00"
+    },
+    "o:filename": "bd4dfa8ac0b1fc54ffaec14d7dbbed834495bff0.png",
+    "o:id": 1208,
+    "o:ingester": "upload",
+    "o:is_public": true,
+    "o:item": {
+        "@id": "https://shared.ldas.jp/omeka-s/api/items/1207",
+        "o:id": 1207
+    },
+    "o:lang": null,
+    "o:media_type": "image/png",
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2022-02-18T14:41:34+00:00"
+    },
+    "o:original_url": "https://shared.ldas.jp/omeka-s/files/original/bd4dfa8ac0b1fc54ffaec14d7dbbed834495bff0.png",
+    "o:owner": {
+        "@id": "https://shared.ldas.jp/omeka-s/api/users/1",
+        "o:id": 1
+    },
+    "o:renderer": "file",
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:sha256": "bc5a364d9d5b0e50490cb05f9d3a66eeba18b5075b7538fc0161d2a90e4ef142",
+    "o:size": 114009,
+    "o:source": "49062cd1-0cfb-44f2-9020-12e38b2f6a2c.png",
+    "o:thumbnail": null,
+    "o:thumbnail_urls": {
+        "large": "https://shared.ldas.jp/omeka-s/files/large/bd4dfa8ac0b1fc54ffaec14d7dbbed834495bff0.jpg",
+        "medium": "https://shared.ldas.jp/omeka-s/files/medium/bd4dfa8ac0b1fc54ffaec14d7dbbed834495bff0.jpg",
+        "square": "https://shared.ldas.jp/omeka-s/files/square/bd4dfa8ac0b1fc54ffaec14d7dbbed834495bff0.jpg"
+    },
+    "o:title": "My media upload title",
+    "thumbnail_display_urls": {
+        "large": "https://shared.ldas.jp/omeka-s/files/large/bd4dfa8ac0b1fc54ffaec14d7dbbed834495bff0.jpg",
+        "medium": "https://shared.ldas.jp/omeka-s/files/medium/bd4dfa8ac0b1fc54ffaec14d7dbbed834495bff0.jpg",
+        "square": "https://shared.ldas.jp/omeka-s/files/square/bd4dfa8ac0b1fc54ffaec14d7dbbed834495bff0.jpg"
+    }
+}

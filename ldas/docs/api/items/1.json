@@ -1,0 +1,90 @@
+{
+    "@context": "https://shared.ldas.jp/omeka-s/api-context",
+    "@id": "https://shared.ldas.jp/omeka-s/api/items/1",
+    "@type": "o:Item",
+    "dcterms:description": [
+        {
+            "@value": "「大江直吉氏寄贈役者絵版画」（同志社大学所蔵）を改変",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "MD00000268-76414",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:source": [
+        {
+            "@value": "大江直吉氏寄贈役者絵版画",
+            "is_public": true,
+            "property_id": 11,
+            "property_label": "Source",
+            "type": "literal"
+        }
+    ],
+    "dcterms:subject": [
+        {
+            "@value": "コンテンツ",
+            "is_public": true,
+            "property_id": 3,
+            "property_label": "Subject",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "大江直吉氏寄贈役者絵版画・1コマ目",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2022-02-16T00:55:18+00:00"
+    },
+    "o:id": 1,
+    "o:is_public": true,
+    "o:item_set": [],
+    "o:media": [
+        {
+            "@id": "https://shared.ldas.jp/omeka-s/api/media/2",
+            "o:id": 2
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2022-02-16T01:01:19+00:00"
+    },
+    "o:owner": {
+        "@id": "https://shared.ldas.jp/omeka-s/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:site": [
+        {
+            "@id": "https://shared.ldas.jp/omeka-s/api/sites/1",
+            "o:id": 1
+        },
+        {
+            "@id": "https://shared.ldas.jp/omeka-s/api/sites/2",
+            "o:id": 2
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "大江直吉氏寄贈役者絵版画・1コマ目",
+    "thumbnail_display_urls": {
+        "large": "https://shared.ldas.jp/omeka-s/files/large/b0d6db41cf02b0ddd42d91e2f2ee487bbd27a0f6.jpg",
+        "medium": "https://shared.ldas.jp/omeka-s/files/medium/b0d6db41cf02b0ddd42d91e2f2ee487bbd27a0f6.jpg",
+        "square": "https://shared.ldas.jp/omeka-s/files/square/b0d6db41cf02b0ddd42d91e2f2ee487bbd27a0f6.jpg"
+    }
+}

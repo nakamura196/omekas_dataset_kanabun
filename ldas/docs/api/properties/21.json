@@ -1,0 +1,14 @@
+{
+    "@context": "https://shared.ldas.jp/omeka-s/api-context",
+    "@id": "https://shared.ldas.jp/omeka-s/api/properties/21",
+    "@type": "o:Property",
+    "o:comment": "Date (often a range) of validity of a resource.",
+    "o:id": 21,
+    "o:label": "Date Valid",
+    "o:local_name": "valid",
+    "o:term": "dcterms:valid",
+    "o:vocabulary": {
+        "@id": "https://shared.ldas.jp/omeka-s/api/vocabularies/1",
+        "o:id": 1
+    }
+}

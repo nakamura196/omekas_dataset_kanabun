@@ -1,0 +1,14 @@
+{
+    "@context": "https://shared.ldas.jp/omeka-s/api-context",
+    "@id": "https://shared.ldas.jp/omeka-s/api/properties/49",
+    "@type": "o:Property",
+    "o:comment": "A legal document giving official permission to do something with the resource.",
+    "o:id": 49,
+    "o:label": "License",
+    "o:local_name": "license",
+    "o:term": "dcterms:license",
+    "o:vocabulary": {
+        "@id": "https://shared.ldas.jp/omeka-s/api/vocabularies/1",
+        "o:id": 1
+    }
+}

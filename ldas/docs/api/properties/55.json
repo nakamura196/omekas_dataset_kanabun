@@ -1,0 +1,14 @@
+{
+    "@context": "https://shared.ldas.jp/omeka-s/api-context",
+    "@id": "https://shared.ldas.jp/omeka-s/api/properties/55",
+    "@type": "o:Property",
+    "o:comment": "The policy governing the addition of items to a collection.",
+    "o:id": 55,
+    "o:label": "Accrual Policy",
+    "o:local_name": "accrualPolicy",
+    "o:term": "dcterms:accrualPolicy",
+    "o:vocabulary": {
+        "@id": "https://shared.ldas.jp/omeka-s/api/vocabularies/1",
+        "o:id": 1
+    }
+}

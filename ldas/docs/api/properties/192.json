@@ -1,0 +1,14 @@
+{
+    "@context": "https://shared.ldas.jp/omeka-s/api-context",
+    "@id": "https://shared.ldas.jp/omeka-s/api/properties/192",
+    "@type": "o:Property",
+    "o:comment": "A way to group resources.",
+    "o:id": 192,
+    "o:label": "Collection",
+    "o:local_name": "collection",
+    "o:term": "curation:collection",
+    "o:vocabulary": {
+        "@id": "https://shared.ldas.jp/omeka-s/api/vocabularies/5",
+        "o:id": 5
+    }
+}

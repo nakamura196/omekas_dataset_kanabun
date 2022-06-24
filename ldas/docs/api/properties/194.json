@@ -1,0 +1,14 @@
+{
+    "@context": "https://shared.ldas.jp/omeka-s/api-context",
+    "@id": "https://shared.ldas.jp/omeka-s/api/properties/194",
+    "@type": "o:Property",
+    "o:comment": "Any data that can be used for any purpose.",
+    "o:id": 194,
+    "o:label": "Data",
+    "o:local_name": "data",
+    "o:term": "curation:data",
+    "o:vocabulary": {
+        "@id": "https://shared.ldas.jp/omeka-s/api/vocabularies/5",
+        "o:id": 5
+    }
+}

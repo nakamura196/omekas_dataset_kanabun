@@ -1,0 +1,14 @@
+{
+    "@context": "https://shared.ldas.jp/omeka-s/api-context",
+    "@id": "https://shared.ldas.jp/omeka-s/api/properties/56",
+    "@type": "o:Property",
+    "o:comment": "A legal decision that affirms a ruling.",
+    "o:id": 56,
+    "o:label": "affirmedBy",
+    "o:local_name": "affirmedBy",
+    "o:term": "bibo:affirmedBy",
+    "o:vocabulary": {
+        "@id": "https://shared.ldas.jp/omeka-s/api/vocabularies/3",
+        "o:id": 3
+    }
+}

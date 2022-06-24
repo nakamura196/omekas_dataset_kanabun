@@ -1,0 +1,14 @@
+{
+    "@context": "https://shared.ldas.jp/omeka-s/api-context",
+    "@id": "https://shared.ldas.jp/omeka-s/api/properties/117",
+    "@type": "o:Property",
+    "o:comment": "The abbreviation of a title.",
+    "o:id": 117,
+    "o:label": "short title",
+    "o:local_name": "shortTitle",
+    "o:term": "bibo:shortTitle",
+    "o:vocabulary": {
+        "@id": "https://shared.ldas.jp/omeka-s/api/vocabularies/3",
+        "o:id": 3
+    }
+}

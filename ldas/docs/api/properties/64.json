@@ -1,0 +1,14 @@
+{
+    "@context": "https://shared.ldas.jp/omeka-s/api-context",
+    "@id": "https://shared.ldas.jp/omeka-s/api/properties/64",
+    "@type": "o:Property",
+    "o:comment": "A Film director.",
+    "o:id": 64,
+    "o:label": "director",
+    "o:local_name": "director",
+    "o:term": "bibo:director",
+    "o:vocabulary": {
+        "@id": "https://shared.ldas.jp/omeka-s/api/vocabularies/3",
+        "o:id": 3
+    }
+}

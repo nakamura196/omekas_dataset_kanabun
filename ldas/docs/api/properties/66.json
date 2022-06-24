@@ -1,0 +1,14 @@
+{
+    "@context": "https://shared.ldas.jp/omeka-s/api-context",
+    "@id": "https://shared.ldas.jp/omeka-s/api/properties/66",
+    "@type": "o:Property",
+    "o:comment": "A person having managerial and sometimes policy-making responsibility for the editorial part of a publishing firm or of a newspaper, magazine, or other publication.",
+    "o:id": 66,
+    "o:label": "editor",
+    "o:local_name": "editor",
+    "o:term": "bibo:editor",
+    "o:vocabulary": {
+        "@id": "https://shared.ldas.jp/omeka-s/api/vocabularies/3",
+        "o:id": 3
+    }
+}

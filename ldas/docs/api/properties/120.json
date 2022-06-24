@@ -1,0 +1,14 @@
+{
+    "@context": "https://shared.ldas.jp/omeka-s/api-context",
+    "@id": "https://shared.ldas.jp/omeka-s/api/properties/120",
+    "@type": "o:Property",
+    "o:comment": null,
+    "o:id": 120,
+    "o:label": "upc",
+    "o:local_name": "upc",
+    "o:term": "bibo:upc",
+    "o:vocabulary": {
+        "@id": "https://shared.ldas.jp/omeka-s/api/vocabularies/3",
+        "o:id": 3
+    }
+}

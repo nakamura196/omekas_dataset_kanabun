@@ -1,0 +1,14 @@
+{
+    "@context": "https://shared.ldas.jp/omeka-s/api-context",
+    "@id": "https://shared.ldas.jp/omeka-s/api/properties/62",
+    "@type": "o:Property",
+    "o:comment": "A court associated with a legal document; for example, that which issues a decision.",
+    "o:id": 62,
+    "o:label": "court",
+    "o:local_name": "court",
+    "o:term": "bibo:court",
+    "o:vocabulary": {
+        "@id": "https://shared.ldas.jp/omeka-s/api/vocabularies/3",
+        "o:id": 3
+    }
+}

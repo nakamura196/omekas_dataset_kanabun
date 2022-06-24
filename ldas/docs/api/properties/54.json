@@ -1,0 +1,14 @@
+{
+    "@context": "https://shared.ldas.jp/omeka-s/api-context",
+    "@id": "https://shared.ldas.jp/omeka-s/api/properties/54",
+    "@type": "o:Property",
+    "o:comment": "The frequency with which items are added to a collection.",
+    "o:id": 54,
+    "o:label": "Accrual Periodicity",
+    "o:local_name": "accrualPeriodicity",
+    "o:term": "dcterms:accrualPeriodicity",
+    "o:vocabulary": {
+        "@id": "https://shared.ldas.jp/omeka-s/api/vocabularies/1",
+        "o:id": 1
+    }
+}

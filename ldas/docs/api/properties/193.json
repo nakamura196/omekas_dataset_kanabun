@@ -1,0 +1,14 @@
+{
+    "@context": "https://shared.ldas.jp/omeka-s/api-context",
+    "@id": "https://shared.ldas.jp/omeka-s/api/properties/193",
+    "@type": "o:Property",
+    "o:comment": "A specific or generic information on a resource, generally for internal purposes.",
+    "o:id": 193,
+    "o:label": "Note",
+    "o:local_name": "note",
+    "o:term": "curation:note",
+    "o:vocabulary": {
+        "@id": "https://shared.ldas.jp/omeka-s/api/vocabularies/5",
+        "o:id": 5
+    }
+}

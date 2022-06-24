@@ -1,0 +1,14 @@
+{
+    "@context": "https://shared.ldas.jp/omeka-s/api-context",
+    "@id": "https://shared.ldas.jp/omeka-s/api/properties/70",
+    "@type": "o:Property",
+    "o:comment": "An entity responsible for issuing often informally published documents such as press releases, reports, etc.",
+    "o:id": 70,
+    "o:label": "issuer",
+    "o:local_name": "issuer",
+    "o:term": "bibo:issuer",
+    "o:vocabulary": {
+        "@id": "https://shared.ldas.jp/omeka-s/api/vocabularies/3",
+        "o:id": 3
+    }
+}

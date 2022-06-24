@@ -1,0 +1,14 @@
+{
+    "@context": "https://shared.ldas.jp/omeka-s/api-context",
+    "@id": "https://shared.ldas.jp/omeka-s/api/properties/57",
+    "@type": "o:Property",
+    "o:comment": "Critical or explanatory note for a Document.",
+    "o:id": 57,
+    "o:label": "annotates",
+    "o:local_name": "annotates",
+    "o:term": "bibo:annotates",
+    "o:vocabulary": {
+        "@id": "https://shared.ldas.jp/omeka-s/api/vocabularies/3",
+        "o:id": 3
+    }
+}

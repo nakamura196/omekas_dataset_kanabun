@@ -1,0 +1,14 @@
+{
+    "@context": "https://shared.ldas.jp/omeka-s/api-context",
+    "@id": "https://shared.ldas.jp/omeka-s/api/properties/147",
+    "@type": "o:Property",
+    "o:comment": "A homepage for some thing.",
+    "o:id": 147,
+    "o:label": "homepage",
+    "o:local_name": "homepage",
+    "o:term": "foaf:homepage",
+    "o:vocabulary": {
+        "@id": "https://shared.ldas.jp/omeka-s/api/vocabularies/4",
+        "o:id": 4
+    }
+}

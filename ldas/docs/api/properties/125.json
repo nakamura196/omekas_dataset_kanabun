@@ -1,0 +1,14 @@
+{
+    "@context": "https://shared.ldas.jp/omeka-s/api-context",
+    "@id": "https://shared.ldas.jp/omeka-s/api/properties/125",
+    "@type": "o:Property",
+    "o:comment": "The gender of this Agent (typically but not necessarily 'male' or 'female').",
+    "o:id": 125,
+    "o:label": "gender",
+    "o:local_name": "gender",
+    "o:term": "foaf:gender",
+    "o:vocabulary": {
+        "@id": "https://shared.ldas.jp/omeka-s/api/vocabularies/4",
+        "o:id": 4
+    }
+}

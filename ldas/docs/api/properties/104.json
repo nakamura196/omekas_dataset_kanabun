@@ -1,0 +1,14 @@
+{
+    "@context": "https://shared.ldas.jp/omeka-s/api-context",
+    "@id": "https://shared.ldas.jp/omeka-s/api/properties/104",
+    "@type": "o:Property",
+    "o:comment": null,
+    "o:id": 104,
+    "o:label": "lccn",
+    "o:local_name": "lccn",
+    "o:term": "bibo:lccn",
+    "o:vocabulary": {
+        "@id": "https://shared.ldas.jp/omeka-s/api/vocabularies/3",
+        "o:id": 3
+    }
+}

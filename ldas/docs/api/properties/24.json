@@ -1,0 +1,14 @@
+{
+    "@context": "https://shared.ldas.jp/omeka-s/api-context",
+    "@id": "https://shared.ldas.jp/omeka-s/api/properties/24",
+    "@type": "o:Property",
+    "o:comment": "Date on which the resource was changed.",
+    "o:id": 24,
+    "o:label": "Date Modified",
+    "o:local_name": "modified",
+    "o:term": "dcterms:modified",
+    "o:vocabulary": {
+        "@id": "https://shared.ldas.jp/omeka-s/api/vocabularies/1",
+        "o:id": 1
+    }
+}

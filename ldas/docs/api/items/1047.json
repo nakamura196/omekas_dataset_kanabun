@@ -1,0 +1,90 @@
+{
+    "@context": "https://shared.ldas.jp/omeka-s/api-context",
+    "@id": "https://shared.ldas.jp/omeka-s/api/items/1047",
+    "@type": "o:Item",
+    "dcterms:created": [
+        {
+            "@value": "2022-02-15",
+            "is_public": true,
+            "property_id": 20,
+            "property_label": "Date Created",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "d51bc743-e966-4928-aaea-83af3e5c0398",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:relation": [
+        {
+            "@id": "https://fpac1.lib.a.u-tokyo.ac.jp/utcbf/largedrawings/",
+            "is_public": true,
+            "property_id": 13,
+            "property_label": "Relation",
+            "type": "uri"
+        }
+    ],
+    "dcterms:subject": [
+        {
+            "@value": "Omeka",
+            "is_public": true,
+            "property_id": 3,
+            "property_label": "Subject",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "千葉演習林所蔵大判資料群データベース",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2022-02-18T08:46:28+00:00"
+    },
+    "o:id": 1047,
+    "o:is_public": true,
+    "o:item_set": [],
+    "o:media": [
+        {
+            "@id": "https://shared.ldas.jp/omeka-s/api/media/1048",
+            "o:id": 1048
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2022-02-18T08:46:28+00:00"
+    },
+    "o:owner": {
+        "@id": "https://shared.ldas.jp/omeka-s/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:site": [
+        {
+            "@id": "https://shared.ldas.jp/omeka-s/api/sites/1",
+            "o:id": 1
+        },
+        {
+            "@id": "https://shared.ldas.jp/omeka-s/api/sites/2",
+            "o:id": 2
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "千葉演習林所蔵大判資料群データベース",
+    "thumbnail_display_urls": {
+        "large": "https://shared.ldas.jp/omeka-s/files/large/d1b2c2383c065578da8888e7ec124420e66af786.jpg",
+        "medium": "https://shared.ldas.jp/omeka-s/files/medium/d1b2c2383c065578da8888e7ec124420e66af786.jpg",
+        "square": "https://shared.ldas.jp/omeka-s/files/square/d1b2c2383c065578da8888e7ec124420e66af786.jpg"
+    }
+}

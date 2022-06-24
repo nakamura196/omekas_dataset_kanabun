@@ -1,0 +1,14 @@
+{
+    "@context": "https://shared.ldas.jp/omeka-s/api-context",
+    "@id": "https://shared.ldas.jp/omeka-s/api/properties/157",
+    "@type": "o:Property",
+    "o:comment": "A derived thumbnail image.",
+    "o:id": 157,
+    "o:label": "thumbnail",
+    "o:local_name": "thumbnail",
+    "o:term": "foaf:thumbnail",
+    "o:vocabulary": {
+        "@id": "https://shared.ldas.jp/omeka-s/api/vocabularies/4",
+        "o:id": 4
+    }
+}

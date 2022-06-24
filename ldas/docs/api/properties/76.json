@@ -1,0 +1,14 @@
+{
+    "@context": "https://shared.ldas.jp/omeka-s/api-context",
+    "@id": "https://shared.ldas.jp/omeka-s/api/properties/76",
+    "@type": "o:Property",
+    "o:comment": "Producer of a document or a collection of documents.",
+    "o:id": 76,
+    "o:label": "producer",
+    "o:local_name": "producer",
+    "o:term": "bibo:producer",
+    "o:vocabulary": {
+        "@id": "https://shared.ldas.jp/omeka-s/api/vocabularies/3",
+        "o:id": 3
+    }
+}

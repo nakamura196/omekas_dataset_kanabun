@@ -1,0 +1,142 @@
+{
+    "@context": "https://shared.ldas.jp/omeka-s/api-context",
+    "@id": "https://shared.ldas.jp/omeka-s/api/resource_templates/2",
+    "@type": "o:ResourceTemplate",
+    "o:data": {
+        "autocomplete": "no",
+        "autofillers": [],
+        "closed_property_list": "0",
+        "default_language": "",
+        "no_language": "0",
+        "require_resource_class": "0",
+        "suggested_resource_class_ids": [],
+        "value_languages": []
+    },
+    "o:description_property": null,
+    "o:id": 2,
+    "o:label": "oss",
+    "o:owner": {
+        "@id": "https://shared.ldas.jp/omeka-s/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": null,
+    "o:resource_template_property": [
+        {
+            "o:alternate_comment": null,
+            "o:alternate_label": null,
+            "o:data": [
+                {
+                    "autocomplete": "",
+                    "default_language": "",
+                    "default_value": "",
+                    "is-description-property": "0",
+                    "is-title-property": "0",
+                    "locked_value": "0",
+                    "max_values": "",
+                    "o:alternate_comment": "",
+                    "o:alternate_label": "",
+                    "o:data_type": [],
+                    "o:is_private": "0",
+                    "o:is_required": "0",
+                    "use_language": null,
+                    "value_languages": []
+                }
+            ],
+            "o:data_type": [],
+            "o:is_private": false,
+            "o:is_required": false,
+            "o:property": {
+                "@id": "https://shared.ldas.jp/omeka-s/api/properties/1",
+                "o:id": 1
+            }
+        },
+        {
+            "o:alternate_comment": null,
+            "o:alternate_label": "登録日",
+            "o:data": [
+                {
+                    "autocomplete": "",
+                    "default_language": "",
+                    "default_value": "",
+                    "is-description-property": "0",
+                    "is-title-property": "0",
+                    "locked_value": "0",
+                    "max_values": "",
+                    "o:alternate_comment": "",
+                    "o:alternate_label": "登録日",
+                    "o:data_type": [],
+                    "o:is_private": "0",
+                    "o:is_required": "0",
+                    "use_language": "",
+                    "value_languages": []
+                }
+            ],
+            "o:data_type": [],
+            "o:is_private": false,
+            "o:is_required": false,
+            "o:property": {
+                "@id": "https://shared.ldas.jp/omeka-s/api/properties/20",
+                "o:id": 20
+            }
+        },
+        {
+            "o:alternate_comment": null,
+            "o:alternate_label": "URL",
+            "o:data": [
+                {
+                    "autocomplete": "",
+                    "default_language": "",
+                    "default_value": "",
+                    "is-description-property": "0",
+                    "is-title-property": "0",
+                    "locked_value": "0",
+                    "max_values": "",
+                    "o:alternate_comment": "",
+                    "o:alternate_label": "URL",
+                    "o:data_type": [],
+                    "o:is_private": "0",
+                    "o:is_required": "0",
+                    "use_language": "",
+                    "value_languages": []
+                }
+            ],
+            "o:data_type": [],
+            "o:is_private": false,
+            "o:is_required": false,
+            "o:property": {
+                "@id": "https://shared.ldas.jp/omeka-s/api/properties/13",
+                "o:id": 13
+            }
+        },
+        {
+            "o:alternate_comment": null,
+            "o:alternate_label": "OSS",
+            "o:data": [
+                {
+                    "autocomplete": "",
+                    "default_language": "",
+                    "default_value": "",
+                    "is-description-property": "0",
+                    "is-title-property": "0",
+                    "locked_value": "0",
+                    "max_values": "",
+                    "o:alternate_comment": "",
+                    "o:alternate_label": "OSS",
+                    "o:data_type": [],
+                    "o:is_private": "0",
+                    "o:is_required": "0",
+                    "use_language": "",
+                    "value_languages": []
+                }
+            ],
+            "o:data_type": [],
+            "o:is_private": false,
+            "o:is_required": false,
+            "o:property": {
+                "@id": "https://shared.ldas.jp/omeka-s/api/properties/3",
+                "o:id": 3
+            }
+        }
+    ],
+    "o:title_property": null
+}

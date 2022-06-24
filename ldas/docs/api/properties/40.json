@@ -1,0 +1,14 @@
+{
+    "@context": "https://shared.ldas.jp/omeka-s/api-context",
+    "@id": "https://shared.ldas.jp/omeka-s/api/properties/40",
+    "@type": "o:Property",
+    "o:comment": "Spatial characteristics of the resource.",
+    "o:id": 40,
+    "o:label": "Spatial Coverage",
+    "o:local_name": "spatial",
+    "o:term": "dcterms:spatial",
+    "o:vocabulary": {
+        "@id": "https://shared.ldas.jp/omeka-s/api/vocabularies/1",
+        "o:id": 1
+    }
+}

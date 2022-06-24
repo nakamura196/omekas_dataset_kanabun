@@ -1,0 +1,14 @@
+{
+    "@context": "https://shared.ldas.jp/omeka-s/api-context",
+    "@id": "https://shared.ldas.jp/omeka-s/api/properties/142",
+    "@type": "o:Property",
+    "o:comment": "The given name of some person.",
+    "o:id": 142,
+    "o:label": "Given name",
+    "o:local_name": "givenname",
+    "o:term": "foaf:givenname",
+    "o:vocabulary": {
+        "@id": "https://shared.ldas.jp/omeka-s/api/vocabularies/4",
+        "o:id": 4
+    }
+}

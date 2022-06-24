@@ -1,0 +1,14 @@
+{
+    "@context": "https://shared.ldas.jp/omeka-s/api-context",
+    "@id": "https://shared.ldas.jp/omeka-s/api/properties/11",
+    "@type": "o:Property",
+    "o:comment": "A related resource from which the described resource is derived.",
+    "o:id": 11,
+    "o:label": "Source",
+    "o:local_name": "source",
+    "o:term": "dcterms:source",
+    "o:vocabulary": {
+        "@id": "https://shared.ldas.jp/omeka-s/api/vocabularies/1",
+        "o:id": 1
+    }
+}

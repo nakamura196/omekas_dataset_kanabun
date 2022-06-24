@@ -1,0 +1,14 @@
+{
+    "@context": "https://shared.ldas.jp/omeka-s/api-context",
+    "@id": "https://shared.ldas.jp/omeka-s/api/properties/158",
+    "@type": "o:Property",
+    "o:comment": "A Myers Briggs (MBTI) personality classification.",
+    "o:id": 158,
+    "o:label": "myersBriggs",
+    "o:local_name": "myersBriggs",
+    "o:term": "foaf:myersBriggs",
+    "o:vocabulary": {
+        "@id": "https://shared.ldas.jp/omeka-s/api/vocabularies/4",
+        "o:id": 4
+    }
+}

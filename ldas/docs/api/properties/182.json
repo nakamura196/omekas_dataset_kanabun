@@ -1,0 +1,14 @@
+{
+    "@context": "https://shared.ldas.jp/omeka-s/api-context",
+    "@id": "https://shared.ldas.jp/omeka-s/api/properties/182",
+    "@type": "o:Property",
+    "o:comment": "The birthday of this Agent, represented in mm-dd string form, eg. '12-31'.",
+    "o:id": 182,
+    "o:label": "birthday",
+    "o:local_name": "birthday",
+    "o:term": "foaf:birthday",
+    "o:vocabulary": {
+        "@id": "https://shared.ldas.jp/omeka-s/api/vocabularies/4",
+        "o:id": 4
+    }
+}

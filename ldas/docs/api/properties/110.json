@@ -1,0 +1,14 @@
+{
+    "@context": "https://shared.ldas.jp/omeka-s/api-context",
+    "@id": "https://shared.ldas.jp/omeka-s/api/properties/110",
+    "@type": "o:Property",
+    "o:comment": "Ending page number within a continuous page range.",
+    "o:id": 110,
+    "o:label": "page end",
+    "o:local_name": "pageEnd",
+    "o:term": "bibo:pageEnd",
+    "o:vocabulary": {
+        "@id": "https://shared.ldas.jp/omeka-s/api/vocabularies/3",
+        "o:id": 3
+    }
+}

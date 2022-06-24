@@ -1,0 +1,14 @@
+{
+    "@context": "https://shared.ldas.jp/omeka-s/api-context",
+    "@id": "https://shared.ldas.jp/omeka-s/api/properties/37",
+    "@type": "o:Property",
+    "o:comment": "A related resource that is substantially the same as the described resource, but in another format.",
+    "o:id": 37,
+    "o:label": "Is Format Of",
+    "o:local_name": "isFormatOf",
+    "o:term": "dcterms:isFormatOf",
+    "o:vocabulary": {
+        "@id": "https://shared.ldas.jp/omeka-s/api/vocabularies/1",
+        "o:id": 1
+    }
+}

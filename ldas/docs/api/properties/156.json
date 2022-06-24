@@ -1,0 +1,14 @@
+{
+    "@context": "https://shared.ldas.jp/omeka-s/api-context",
+    "@id": "https://shared.ldas.jp/omeka-s/api/properties/156",
+    "@type": "o:Property",
+    "o:comment": "A thing depicted in this representation.",
+    "o:id": 156,
+    "o:label": "depicts",
+    "o:local_name": "depicts",
+    "o:term": "foaf:depicts",
+    "o:vocabulary": {
+        "@id": "https://shared.ldas.jp/omeka-s/api/vocabularies/4",
+        "o:id": 4
+    }
+}

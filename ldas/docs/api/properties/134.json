@@ -1,0 +1,14 @@
+{
+    "@context": "https://shared.ldas.jp/omeka-s/api-context",
+    "@id": "https://shared.ldas.jp/omeka-s/api/properties/134",
+    "@type": "o:Property",
+    "o:comment": "A Skype ID",
+    "o:id": 134,
+    "o:label": "Skype ID",
+    "o:local_name": "skypeID",
+    "o:term": "foaf:skypeID",
+    "o:vocabulary": {
+        "@id": "https://shared.ldas.jp/omeka-s/api/vocabularies/4",
+        "o:id": 4
+    }
+}

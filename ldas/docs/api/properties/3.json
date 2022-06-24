@@ -1,0 +1,14 @@
+{
+    "@context": "https://shared.ldas.jp/omeka-s/api-context",
+    "@id": "https://shared.ldas.jp/omeka-s/api/properties/3",
+    "@type": "o:Property",
+    "o:comment": "The topic of the resource.",
+    "o:id": 3,
+    "o:label": "Subject",
+    "o:local_name": "subject",
+    "o:term": "dcterms:subject",
+    "o:vocabulary": {
+        "@id": "https://shared.ldas.jp/omeka-s/api/vocabularies/1",
+        "o:id": 1
+    }
+}

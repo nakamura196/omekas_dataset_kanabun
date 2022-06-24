@@ -1,0 +1,14 @@
+{
+    "@context": "https://shared.ldas.jp/omeka-s/api-context",
+    "@id": "https://shared.ldas.jp/omeka-s/api/properties/65",
+    "@type": "o:Property",
+    "o:comment": "Distributor of a document or a collection of documents.",
+    "o:id": 65,
+    "o:label": "distributor",
+    "o:local_name": "distributor",
+    "o:term": "bibo:distributor",
+    "o:vocabulary": {
+        "@id": "https://shared.ldas.jp/omeka-s/api/vocabularies/3",
+        "o:id": 3
+    }
+}

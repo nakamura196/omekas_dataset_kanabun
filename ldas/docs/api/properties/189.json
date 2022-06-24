@@ -1,0 +1,14 @@
+{
+    "@context": "https://shared.ldas.jp/omeka-s/api-context",
+    "@id": "https://shared.ldas.jp/omeka-s/api/properties/189",
+    "@type": "o:Property",
+    "o:comment": "A topic that can be used for some purposes.",
+    "o:id": 189,
+    "o:label": "Category",
+    "o:local_name": "category",
+    "o:term": "curation:category",
+    "o:vocabulary": {
+        "@id": "https://shared.ldas.jp/omeka-s/api/vocabularies/5",
+        "o:id": 5
+    }
+}

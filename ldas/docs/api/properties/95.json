@@ -1,0 +1,14 @@
+{
+    "@context": "https://shared.ldas.jp/omeka-s/api-context",
+    "@id": "https://shared.ldas.jp/omeka-s/api/properties/95",
+    "@type": "o:Property",
+    "o:comment": null,
+    "o:id": 95,
+    "o:label": "eissn",
+    "o:local_name": "eissn",
+    "o:term": "bibo:eissn",
+    "o:vocabulary": {
+        "@id": "https://shared.ldas.jp/omeka-s/api/vocabularies/3",
+        "o:id": 3
+    }
+}

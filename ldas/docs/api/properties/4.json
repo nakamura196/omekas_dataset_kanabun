@@ -1,0 +1,14 @@
+{
+    "@context": "https://shared.ldas.jp/omeka-s/api-context",
+    "@id": "https://shared.ldas.jp/omeka-s/api/properties/4",
+    "@type": "o:Property",
+    "o:comment": "An account of the resource.",
+    "o:id": 4,
+    "o:label": "Description",
+    "o:local_name": "description",
+    "o:term": "dcterms:description",
+    "o:vocabulary": {
+        "@id": "https://shared.ldas.jp/omeka-s/api/vocabularies/1",
+        "o:id": 1
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "https://shared.ldas.jp/omeka-s/api-context",
+    "@id": "https://shared.ldas.jp/omeka-s/api/properties/48",
+    "@type": "o:Property",
+    "o:comment": "A bibliographic reference for the resource.",
+    "o:id": 48,
+    "o:label": "Bibliographic Citation",
+    "o:local_name": "bibliographicCitation",
+    "o:term": "dcterms:bibliographicCitation",
+    "o:vocabulary": {
+        "@id": "https://shared.ldas.jp/omeka-s/api/vocabularies/1",
+        "o:id": 1
+    }
+}

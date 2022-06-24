@@ -1,0 +1,14 @@
+{
+    "@context": "https://shared.ldas.jp/omeka-s/api-context",
+    "@id": "https://shared.ldas.jp/omeka-s/api/properties/45",
+    "@type": "o:Property",
+    "o:comment": "Date of submission of the resource.",
+    "o:id": 45,
+    "o:label": "Date Submitted",
+    "o:local_name": "dateSubmitted",
+    "o:term": "dcterms:dateSubmitted",
+    "o:vocabulary": {
+        "@id": "https://shared.ldas.jp/omeka-s/api/vocabularies/1",
+        "o:id": 1
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "https://shared.ldas.jp/omeka-s/api-context",
+    "@id": "https://shared.ldas.jp/omeka-s/api/properties/165",
+    "@type": "o:Property",
+    "o:comment": "A link to the publications of this person.",
+    "o:id": 165,
+    "o:label": "publications",
+    "o:local_name": "publications",
+    "o:term": "foaf:publications",
+    "o:vocabulary": {
+        "@id": "https://shared.ldas.jp/omeka-s/api/vocabularies/4",
+        "o:id": 4
+    }
+}

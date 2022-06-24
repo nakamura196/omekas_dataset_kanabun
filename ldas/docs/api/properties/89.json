@@ -1,0 +1,14 @@
+{
+    "@context": "https://shared.ldas.jp/omeka-s/api-context",
+    "@id": "https://shared.ldas.jp/omeka-s/api/properties/89",
+    "@type": "o:Property",
+    "o:comment": "An chapter number",
+    "o:id": 89,
+    "o:label": "chapter",
+    "o:local_name": "chapter",
+    "o:term": "bibo:chapter",
+    "o:vocabulary": {
+        "@id": "https://shared.ldas.jp/omeka-s/api/vocabularies/3",
+        "o:id": 3
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "https://shared.ldas.jp/omeka-s/api-context",
+    "@id": "https://shared.ldas.jp/omeka-s/api/properties/162",
+    "@type": "o:Property",
+    "o:comment": "A person known by this person (indicating some level of reciprocated interaction between the parties).",
+    "o:id": 162,
+    "o:label": "knows",
+    "o:local_name": "knows",
+    "o:term": "foaf:knows",
+    "o:vocabulary": {
+        "@id": "https://shared.ldas.jp/omeka-s/api/vocabularies/4",
+        "o:id": 4
+    }
+}

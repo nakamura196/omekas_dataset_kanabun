@@ -1,0 +1,78 @@
+{
+    "@context": "https://shared.ldas.jp/omeka-s/api-context",
+    "@id": "https://shared.ldas.jp/omeka-s/api/items/1257",
+    "@type": "o:Item",
+    "dcterms:description": [
+        {
+            "@value": "Example",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        }
+    ],
+    "dcterms:relation": [
+        {
+            "@id": "http://example.org",
+            "is_public": true,
+            "o:label": "URLの例",
+            "property_id": 13,
+            "property_label": "Relation",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "校異源氏物語テキストの例",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2022-03-03T22:45:31+00:00"
+    },
+    "o:id": 1257,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://shared.ldas.jp/omeka-s/api/item_sets/1266",
+            "o:id": 1266
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://shared.ldas.jp/omeka-s/api/media/1260",
+            "o:id": 1260
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2022-03-20T21:37:37+00:00"
+    },
+    "o:owner": {
+        "@id": "https://shared.ldas.jp/omeka-s/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:site": [
+        {
+            "@id": "https://shared.ldas.jp/omeka-s/api/sites/1",
+            "o:id": 1
+        },
+        {
+            "@id": "https://shared.ldas.jp/omeka-s/api/sites/2",
+            "o:id": 2
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "校異源氏物語テキストの例",
+    "thumbnail_display_urls": {
+        "large": "/omeka-s/application/asset/thumbnails/default.png?v=3.1.1",
+        "medium": "/omeka-s/application/asset/thumbnails/default.png?v=3.1.1",
+        "square": "/omeka-s/application/asset/thumbnails/default.png?v=3.1.1"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "https://shared.ldas.jp/omeka-s/api-context",
+    "@id": "https://shared.ldas.jp/omeka-s/api/properties/176",
+    "@type": "o:Property",
+    "o:comment": "Indicates an account held by this agent.",
+    "o:id": 176,
+    "o:label": "account",
+    "o:local_name": "account",
+    "o:term": "foaf:account",
+    "o:vocabulary": {
+        "@id": "https://shared.ldas.jp/omeka-s/api/vocabularies/4",
+        "o:id": 4
+    }
+}

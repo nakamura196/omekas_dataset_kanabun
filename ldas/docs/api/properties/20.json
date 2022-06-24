@@ -1,0 +1,14 @@
+{
+    "@context": "https://shared.ldas.jp/omeka-s/api-context",
+    "@id": "https://shared.ldas.jp/omeka-s/api/properties/20",
+    "@type": "o:Property",
+    "o:comment": "Date of creation of the resource.",
+    "o:id": 20,
+    "o:label": "Date Created",
+    "o:local_name": "created",
+    "o:term": "dcterms:created",
+    "o:vocabulary": {
+        "@id": "https://shared.ldas.jp/omeka-s/api/vocabularies/1",
+        "o:id": 1
+    }
+}

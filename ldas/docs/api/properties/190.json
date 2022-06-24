@@ -1,0 +1,14 @@
+{
+    "@context": "https://shared.ldas.jp/omeka-s/api-context",
+    "@id": "https://shared.ldas.jp/omeka-s/api/properties/190",
+    "@type": "o:Property",
+    "o:comment": "Tag that can be used for some purposes or for upgrade from Omeka Classic.",
+    "o:id": 190,
+    "o:label": "Tag",
+    "o:local_name": "tag",
+    "o:term": "curation:tag",
+    "o:vocabulary": {
+        "@id": "https://shared.ldas.jp/omeka-s/api/vocabularies/5",
+        "o:id": 5
+    }
+}

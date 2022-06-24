@@ -1,0 +1,14 @@
+{
+    "@context": "https://shared.ldas.jp/omeka-s/api-context",
+    "@id": "https://shared.ldas.jp/omeka-s/api/properties/109",
+    "@type": "o:Property",
+    "o:comment": null,
+    "o:id": 109,
+    "o:label": "oclcnum",
+    "o:local_name": "oclcnum",
+    "o:term": "bibo:oclcnum",
+    "o:vocabulary": {
+        "@id": "https://shared.ldas.jp/omeka-s/api/vocabularies/3",
+        "o:id": 3
+    }
+}

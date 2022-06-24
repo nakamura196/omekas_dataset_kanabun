@@ -1,0 +1,14 @@
+{
+    "@context": "https://shared.ldas.jp/omeka-s/api-context",
+    "@id": "https://shared.ldas.jp/omeka-s/api/properties/60",
+    "@type": "o:Property",
+    "o:comment": "Relates a document to another document that is cited\nby the first document as reference, comment, review, quotation or for\nanother purpose.",
+    "o:id": 60,
+    "o:label": "cites",
+    "o:local_name": "cites",
+    "o:term": "bibo:cites",
+    "o:vocabulary": {
+        "@id": "https://shared.ldas.jp/omeka-s/api/vocabularies/3",
+        "o:id": 3
+    }
+}

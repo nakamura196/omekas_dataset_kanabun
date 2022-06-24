@@ -1,0 +1,14 @@
+{
+    "@context": "https://shared.ldas.jp/omeka-s/api-context",
+    "@id": "https://shared.ldas.jp/omeka-s/api/properties/78",
+    "@type": "o:Property",
+    "o:comment": "The resource in which another resource is reproduced.",
+    "o:id": 78,
+    "o:label": "reproducedIn",
+    "o:local_name": "reproducedIn",
+    "o:term": "bibo:reproducedIn",
+    "o:vocabulary": {
+        "@id": "https://shared.ldas.jp/omeka-s/api/vocabularies/3",
+        "o:id": 3
+    }
+}

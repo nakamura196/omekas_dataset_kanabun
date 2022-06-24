@@ -1,0 +1,14 @@
+{
+    "@context": "https://shared.ldas.jp/omeka-s/api-context",
+    "@id": "https://shared.ldas.jp/omeka-s/api/properties/167",
+    "@type": "o:Property",
+    "o:comment": "A project this person has previously worked on.",
+    "o:id": 167,
+    "o:label": "past project",
+    "o:local_name": "pastProject",
+    "o:term": "foaf:pastProject",
+    "o:vocabulary": {
+        "@id": "https://shared.ldas.jp/omeka-s/api/vocabularies/4",
+        "o:id": 4
+    }
+}

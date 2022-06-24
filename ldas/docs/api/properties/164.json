@@ -1,0 +1,14 @@
+{
+    "@context": "https://shared.ldas.jp/omeka-s/api-context",
+    "@id": "https://shared.ldas.jp/omeka-s/api/properties/164",
+    "@type": "o:Property",
+    "o:comment": "A thing of interest to this person.",
+    "o:id": 164,
+    "o:label": "topic_interest",
+    "o:local_name": "topic_interest",
+    "o:term": "foaf:topic_interest",
+    "o:vocabulary": {
+        "@id": "https://shared.ldas.jp/omeka-s/api/vocabularies/4",
+        "o:id": 4
+    }
+}

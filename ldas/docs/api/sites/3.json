@@ -1,0 +1,70 @@
+{
+    "@context": "https://shared.ldas.jp/omeka-s/api-context",
+    "@id": "https://shared.ldas.jp/omeka-s/api/sites/3",
+    "@type": "o:Site",
+    "o:assign_new_items": false,
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2022-02-17T02:05:20+00:00"
+    },
+    "o:homepage": {
+        "@id": "https://shared.ldas.jp/omeka-s/api/site_pages/3",
+        "o:id": 3
+    },
+    "o:id": 3,
+    "o:is_public": true,
+    "o:item_pool": [],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2022-02-18T00:12:56+00:00"
+    },
+    "o:navigation": [
+        {
+            "data": {
+                "id": 3,
+                "label": ""
+            },
+            "links": [],
+            "type": "page"
+        },
+        {
+            "data": {
+                "label": "閲覧",
+                "query": ""
+            },
+            "links": [],
+            "type": "browse"
+        }
+    ],
+    "o:owner": {
+        "@id": "https://shared.ldas.jp/omeka-s/api/users/1",
+        "o:id": 1
+    },
+    "o:page": [
+        {
+            "@id": "https://shared.ldas.jp/omeka-s/api/site_pages/3",
+            "o:id": 3
+        }
+    ],
+    "o:site_item": {
+        "@id": "https://shared.ldas.jp/omeka-s/api/items?site_id=3"
+    },
+    "o:site_item_set": [],
+    "o:site_permission": [
+        {
+            "o:role": "admin",
+            "o:user": {
+                "@id": "https://shared.ldas.jp/omeka-s/api/users/1",
+                "o:id": 1
+            }
+        }
+    ],
+    "o:slug": "oss",
+    "o:summary": null,
+    "o:theme": "default",
+    "o:thumbnail": {
+        "@id": "https://shared.ldas.jp/omeka-s/api/assets/1",
+        "o:id": 1
+    },
+    "o:title": "OSSで開発されたデジタルアーカイブサイトまとめ"
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "https://shared.ldas.jp/omeka-s/api-context",
+    "@id": "https://shared.ldas.jp/omeka-s/api/properties/17",
+    "@type": "o:Property",
+    "o:comment": "An alternative name for the resource.",
+    "o:id": 17,
+    "o:label": "Alternative Title",
+    "o:local_name": "alternative",
+    "o:term": "dcterms:alternative",
+    "o:vocabulary": {
+        "@id": "https://shared.ldas.jp/omeka-s/api/vocabularies/1",
+        "o:id": 1
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "https://shared.ldas.jp/omeka-s/api-context",
+    "@id": "https://shared.ldas.jp/omeka-s/api/properties/63",
+    "@type": "o:Property",
+    "o:comment": "The thesis degree.",
+    "o:id": 63,
+    "o:label": "degree",
+    "o:local_name": "degree",
+    "o:term": "bibo:degree",
+    "o:vocabulary": {
+        "@id": "https://shared.ldas.jp/omeka-s/api/vocabularies/3",
+        "o:id": 3
+    }
+}

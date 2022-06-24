@@ -1,0 +1,141 @@
+{
+    "@context": "https://shared.ldas.jp/omeka-s/api-context",
+    "@id": "https://shared.ldas.jp/omeka-s/api/media/1263",
+    "@type": "o:Media",
+    "data": {
+        "@context": "http://iiif.io/api/image/2/context.json",
+        "@id": "https://d15p7qhfz6y7dm.cloudfront.net/iiif/2/ezu%2F1286201",
+        "height": 10400,
+        "profile": [
+            "http://iiif.io/api/image/2/level2.json",
+            {
+                "formats": [
+                    "jpg",
+                    "jpeg",
+                    "tif",
+                    "tiff",
+                    "png",
+                    "webp"
+                ],
+                "qualities": [
+                    "color",
+                    "gray",
+                    "bitonal",
+                    "default"
+                ],
+                "supports": [
+                    "regionByPx",
+                    "sizeByW",
+                    "sizeByWhListed",
+                    "cors",
+                    "regionSquare",
+                    "sizeByDistortedWh",
+                    "sizeAboveFull",
+                    "canonicalLinkHeader",
+                    "sizeByConfinedWh",
+                    "sizeByPct",
+                    "jsonldMediaType",
+                    "regionByPct",
+                    "rotationArbitrary",
+                    "sizeByH",
+                    "baseUriRedirect",
+                    "rotationBy90s",
+                    "profileLinkHeader",
+                    "sizeByForcedWh",
+                    "sizeByWh",
+                    "mirroring"
+                ]
+            }
+        ],
+        "protocol": "http://iiif.io/api/image",
+        "sizes": [
+            {
+                "height": 10400,
+                "width": 13300
+            },
+            {
+                "height": 5200,
+                "width": 6650
+            },
+            {
+                "height": 2600,
+                "width": 3325
+            },
+            {
+                "height": 1300,
+                "width": 1662
+            },
+            {
+                "height": 650,
+                "width": 831
+            },
+            {
+                "height": 325,
+                "width": 415
+            },
+            {
+                "height": 162,
+                "width": 207
+            },
+            {
+                "height": 81,
+                "width": 103
+            }
+        ],
+        "tiles": [
+            {
+                "height": 512,
+                "scaleFactors": [
+                    1,
+                    2,
+                    4,
+                    8,
+                    16,
+                    32,
+                    64,
+                    128
+                ],
+                "width": 512
+            }
+        ],
+        "width": 13300
+    },
+    "o:alt_text": null,
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2022-03-16T22:19:54+00:00"
+    },
+    "o:filename": null,
+    "o:id": 1263,
+    "o:ingester": "iiif",
+    "o:is_public": true,
+    "o:item": {
+        "@id": "https://shared.ldas.jp/omeka-s/api/items/1261",
+        "o:id": 1261
+    },
+    "o:lang": null,
+    "o:media_type": null,
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2022-03-16T22:19:54+00:00"
+    },
+    "o:original_url": null,
+    "o:owner": {
+        "@id": "https://shared.ldas.jp/omeka-s/api/users/1",
+        "o:id": 1
+    },
+    "o:renderer": "iiif",
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:sha256": null,
+    "o:size": null,
+    "o:source": "https://d15p7qhfz6y7dm.cloudfront.net/iiif/2/ezu%2F1286201/info.json",
+    "o:thumbnail": null,
+    "o:thumbnail_urls": [],
+    "o:title": null,
+    "thumbnail_display_urls": {
+        "large": "/omeka-s/application/asset/thumbnails/default.png?v=3.1.1",
+        "medium": "/omeka-s/application/asset/thumbnails/default.png?v=3.1.1",
+        "square": "/omeka-s/application/asset/thumbnails/default.png?v=3.1.1"
+    }
+}

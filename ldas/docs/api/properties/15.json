@@ -1,0 +1,14 @@
+{
+    "@context": "https://shared.ldas.jp/omeka-s/api-context",
+    "@id": "https://shared.ldas.jp/omeka-s/api/properties/15",
+    "@type": "o:Property",
+    "o:comment": "Information about rights held in and over the resource.",
+    "o:id": 15,
+    "o:label": "Rights",
+    "o:local_name": "rights",
+    "o:term": "dcterms:rights",
+    "o:vocabulary": {
+        "@id": "https://shared.ldas.jp/omeka-s/api/vocabularies/1",
+        "o:id": 1
+    }
+}

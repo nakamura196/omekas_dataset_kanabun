@@ -1,0 +1,14 @@
+{
+    "@context": "https://shared.ldas.jp/omeka-s/api-context",
+    "@id": "https://shared.ldas.jp/omeka-s/api/properties/145",
+    "@type": "o:Property",
+    "o:comment": "The family name of some person.",
+    "o:id": 145,
+    "o:label": "familyName",
+    "o:local_name": "familyName",
+    "o:term": "foaf:familyName",
+    "o:vocabulary": {
+        "@id": "https://shared.ldas.jp/omeka-s/api/vocabularies/4",
+        "o:id": 4
+    }
+}

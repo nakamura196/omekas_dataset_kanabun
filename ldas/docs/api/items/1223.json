@@ -1,0 +1,91 @@
+{
+    "@context": "https://shared.ldas.jp/omeka-s/api-context",
+    "@id": "https://shared.ldas.jp/omeka-s/api/items/1223",
+    "@type": "o:Item",
+    "dcterms:created": [
+        {
+            "@value": "2022-02-16",
+            "is_public": true,
+            "property_id": 20,
+            "property_label": "Date Created",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "02c3f91f-bf1b-4070-abdf-cf668f554b52",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:relation": [
+        {
+            "@id": "https://dcollections.lib.keio.ac.jp/ja",
+            "is_public": true,
+            "property_id": 13,
+            "property_label": "Relation",
+            "type": "uri"
+        }
+    ],
+    "dcterms:subject": [
+        {
+            "@value": "Drupal",
+            "is_public": true,
+            "property_id": 3,
+            "property_label": "Subject",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "慶應義塾大学メディアセンターデジタルコレクション",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2022-02-18T14:42:23+00:00"
+    },
+    "o:id": 1223,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://shared.ldas.jp/omeka-s/api/item_sets/1264",
+            "o:id": 1264
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://shared.ldas.jp/omeka-s/api/media/1224",
+            "o:id": 1224
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2022-03-17T13:08:53+00:00"
+    },
+    "o:owner": {
+        "@id": "https://shared.ldas.jp/omeka-s/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:site": [
+        {
+            "@id": "https://shared.ldas.jp/omeka-s/api/sites/3",
+            "o:id": 3
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "慶應義塾大学メディアセンターデジタルコレクション",
+    "thumbnail_display_urls": {
+        "large": "https://shared.ldas.jp/omeka-s/files/large/b55c9321ca4fcee852636818014c657e972eb20f.jpg",
+        "medium": "https://shared.ldas.jp/omeka-s/files/medium/b55c9321ca4fcee852636818014c657e972eb20f.jpg",
+        "square": "https://shared.ldas.jp/omeka-s/files/square/b55c9321ca4fcee852636818014c657e972eb20f.jpg"
+    }
+}

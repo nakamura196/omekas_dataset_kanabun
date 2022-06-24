@@ -1,0 +1,14 @@
+{
+    "@context": "https://shared.ldas.jp/omeka-s/api-context",
+    "@id": "https://shared.ldas.jp/omeka-s/api/properties/9",
+    "@type": "o:Property",
+    "o:comment": "The file format, physical medium, or dimensions of the resource.",
+    "o:id": 9,
+    "o:label": "Format",
+    "o:local_name": "format",
+    "o:term": "dcterms:format",
+    "o:vocabulary": {
+        "@id": "https://shared.ldas.jp/omeka-s/api/vocabularies/1",
+        "o:id": 1
+    }
+}

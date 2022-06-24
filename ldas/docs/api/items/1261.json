@@ -1,0 +1,68 @@
+{
+    "@context": "https://shared.ldas.jp/omeka-s/api-context",
+    "@id": "https://shared.ldas.jp/omeka-s/api/items/1261",
+    "@type": "o:Item",
+    "dcterms:description": [
+        {
+            "@value": "国立国会図書館",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "和泉国絵図",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2022-03-16T22:18:27+00:00"
+    },
+    "o:id": 1261,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://shared.ldas.jp/omeka-s/api/item_sets/1265",
+            "o:id": 1265
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://shared.ldas.jp/omeka-s/api/media/1263",
+            "o:id": 1263
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2022-03-17T13:08:20+00:00"
+    },
+    "o:owner": {
+        "@id": "https://shared.ldas.jp/omeka-s/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:site": [
+        {
+            "@id": "https://shared.ldas.jp/omeka-s/api/sites/1",
+            "o:id": 1
+        },
+        {
+            "@id": "https://shared.ldas.jp/omeka-s/api/sites/2",
+            "o:id": 2
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "和泉国絵図",
+    "thumbnail_display_urls": {
+        "large": "/omeka-s/application/asset/thumbnails/default.png?v=3.1.1",
+        "medium": "/omeka-s/application/asset/thumbnails/default.png?v=3.1.1",
+        "square": "/omeka-s/application/asset/thumbnails/default.png?v=3.1.1"
+    }
+}

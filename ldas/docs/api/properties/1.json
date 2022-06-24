@@ -1,0 +1,14 @@
+{
+    "@context": "https://shared.ldas.jp/omeka-s/api-context",
+    "@id": "https://shared.ldas.jp/omeka-s/api/properties/1",
+    "@type": "o:Property",
+    "o:comment": "A name given to the resource.",
+    "o:id": 1,
+    "o:label": "Title",
+    "o:local_name": "title",
+    "o:term": "dcterms:title",
+    "o:vocabulary": {
+        "@id": "https://shared.ldas.jp/omeka-s/api/vocabularies/1",
+        "o:id": 1
+    }
+}

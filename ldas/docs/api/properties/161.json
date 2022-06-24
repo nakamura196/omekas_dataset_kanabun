@@ -1,0 +1,14 @@
+{
+    "@context": "https://shared.ldas.jp/omeka-s/api-context",
+    "@id": "https://shared.ldas.jp/omeka-s/api/properties/161",
+    "@type": "o:Property",
+    "o:comment": "A homepage of a school attended by the person.",
+    "o:id": 161,
+    "o:label": "schoolHomepage",
+    "o:local_name": "schoolHomepage",
+    "o:term": "foaf:schoolHomepage",
+    "o:vocabulary": {
+        "@id": "https://shared.ldas.jp/omeka-s/api/vocabularies/4",
+        "o:id": 4
+    }
+}

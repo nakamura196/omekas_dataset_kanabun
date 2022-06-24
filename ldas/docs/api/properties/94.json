@@ -1,0 +1,14 @@
+{
+    "@context": "https://shared.ldas.jp/omeka-s/api-context",
+    "@id": "https://shared.ldas.jp/omeka-s/api/properties/94",
+    "@type": "o:Property",
+    "o:comment": "The name defining a special edition of a document. Normally its a literal value composed of a version number and words.",
+    "o:id": 94,
+    "o:label": "edition",
+    "o:local_name": "edition",
+    "o:term": "bibo:edition",
+    "o:vocabulary": {
+        "@id": "https://shared.ldas.jp/omeka-s/api/vocabularies/3",
+        "o:id": 3
+    }
+}

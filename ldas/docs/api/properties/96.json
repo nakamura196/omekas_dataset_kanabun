@@ -1,0 +1,14 @@
+{
+    "@context": "https://shared.ldas.jp/omeka-s/api-context",
+    "@id": "https://shared.ldas.jp/omeka-s/api/properties/96",
+    "@type": "o:Property",
+    "o:comment": null,
+    "o:id": 96,
+    "o:label": "gtin14",
+    "o:local_name": "gtin14",
+    "o:term": "bibo:gtin14",
+    "o:vocabulary": {
+        "@id": "https://shared.ldas.jp/omeka-s/api/vocabularies/3",
+        "o:id": 3
+    }
+}

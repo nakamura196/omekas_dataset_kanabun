@@ -1,0 +1,14 @@
+{
+    "@context": "https://shared.ldas.jp/omeka-s/api-context",
+    "@id": "https://shared.ldas.jp/omeka-s/api/properties/43",
+    "@type": "o:Property",
+    "o:comment": "Date of acceptance of the resource.",
+    "o:id": 43,
+    "o:label": "Date Accepted",
+    "o:local_name": "dateAccepted",
+    "o:term": "dcterms:dateAccepted",
+    "o:vocabulary": {
+        "@id": "https://shared.ldas.jp/omeka-s/api/vocabularies/1",
+        "o:id": 1
+    }
+}

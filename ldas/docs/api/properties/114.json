@@ -1,0 +1,14 @@
+{
+    "@context": "https://shared.ldas.jp/omeka-s/api-context",
+    "@id": "https://shared.ldas.jp/omeka-s/api/properties/114",
+    "@type": "o:Property",
+    "o:comment": "The prefix of a name",
+    "o:id": 114,
+    "o:label": "prefix name",
+    "o:local_name": "prefixName",
+    "o:term": "bibo:prefixName",
+    "o:vocabulary": {
+        "@id": "https://shared.ldas.jp/omeka-s/api/vocabularies/3",
+        "o:id": 3
+    }
+}

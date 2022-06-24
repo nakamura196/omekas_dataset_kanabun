@@ -1,0 +1,14 @@
+{
+    "@context": "https://shared.ldas.jp/omeka-s/api-context",
+    "@id": "https://shared.ldas.jp/omeka-s/api/properties/149",
+    "@type": "o:Property",
+    "o:comment": "An OpenID for an Agent.",
+    "o:id": 149,
+    "o:label": "openid",
+    "o:local_name": "openid",
+    "o:term": "foaf:openid",
+    "o:vocabulary": {
+        "@id": "https://shared.ldas.jp/omeka-s/api/vocabularies/4",
+        "o:id": 4
+    }
+}
