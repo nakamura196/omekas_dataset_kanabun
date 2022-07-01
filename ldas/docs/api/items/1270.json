@@ -65,7 +65,7 @@
     ],
     "dcterms:title": [
         {
-            "@value": "横から見たオムツ姿の赤ちゃんのイラスト",
+            "@value": "Sample Item",
             "is_public": true,
             "property_id": 1,
             "property_label": "Title",
@@ -82,7 +82,7 @@
     "o:media": [],
     "o:modified": {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2022-06-29T21:31:37+00:00"
+        "@value": "2022-06-30T11:32:54+00:00"
     },
     "o:owner": {
         "@id": "https://shared.ldas.jp/omeka-s/api/users/1",
@@ -104,7 +104,7 @@
         }
     ],
     "o:thumbnail": null,
-    "o:title": "横から見たオムツ姿の赤ちゃんのイラスト",
+    "o:title": "Sample Item",
     "thumbnail_display_urls": {
         "large": null,
         "medium": null,
