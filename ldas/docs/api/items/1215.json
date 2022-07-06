@@ -79,6 +79,10 @@
         {
             "@id": "https://shared.ldas.jp/omeka-s/api/sites/3",
             "o:id": 3
+        },
+        {
+            "@id": "https://shared.ldas.jp/omeka-s/api/sites/6",
+            "o:id": 6
         }
     ],
     "o:thumbnail": null,
