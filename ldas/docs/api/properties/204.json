@@ -1,0 +1,14 @@
+{
+    "@context": "https://shared.ldas.jp/omeka-s/api-context",
+    "@id": "https://shared.ldas.jp/omeka-s/api/properties/204",
+    "@type": "o:Property",
+    "o:comment": "The status of the resource, generally for internal purposes.",
+    "o:id": 204,
+    "o:label": "Status",
+    "o:local_name": "status",
+    "o:term": "curation:status",
+    "o:vocabulary": {
+        "@id": "https://shared.ldas.jp/omeka-s/api/vocabularies/5",
+        "o:id": 5
+    }
+}

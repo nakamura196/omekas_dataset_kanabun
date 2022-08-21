@@ -79,7 +79,12 @@
     "o:id": 1271,
     "o:is_public": true,
     "o:item_set": [],
-    "o:media": [],
+    "o:media": [
+        {
+            "@id": "https://shared.ldas.jp/omeka-s/api/media/1272",
+            "o:id": 1272
+        }
+    ],
     "o:modified": {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
         "@value": "2022-06-29T21:31:37+00:00"
@@ -106,8 +111,8 @@
     "o:thumbnail": null,
     "o:title": "赤ちゃんの胸囲の測定のイラスト",
     "thumbnail_display_urls": {
-        "large": null,
-        "medium": null,
-        "square": null
+        "large": "https://shared.ldas.jp/omeka-s/files/large/9043142aa0d8a0e2f34b498ebb38a5ad1b137c44.jpg",
+        "medium": "https://shared.ldas.jp/omeka-s/files/medium/9043142aa0d8a0e2f34b498ebb38a5ad1b137c44.jpg",
+        "square": "https://shared.ldas.jp/omeka-s/files/square/9043142aa0d8a0e2f34b498ebb38a5ad1b137c44.jpg"
     }
 }

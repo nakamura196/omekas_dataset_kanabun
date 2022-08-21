@@ -1,0 +1,14 @@
+{
+    "@context": "https://shared.ldas.jp/omeka-s/api-context",
+    "@id": "https://shared.ldas.jp/omeka-s/api/properties/195",
+    "@type": "o:Property",
+    "o:comment": "Define an access to the resource.",
+    "o:id": 195,
+    "o:label": "Access",
+    "o:local_name": "access",
+    "o:term": "curation:access",
+    "o:vocabulary": {
+        "@id": "https://shared.ldas.jp/omeka-s/api/vocabularies/5",
+        "o:id": 5
+    }
+}

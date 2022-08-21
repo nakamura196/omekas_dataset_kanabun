@@ -1,0 +1,14 @@
+{
+    "@context": "https://shared.ldas.jp/omeka-s/api-context",
+    "@id": "https://shared.ldas.jp/omeka-s/api/properties/200",
+    "@type": "o:Property",
+    "o:comment": "End date related to the resource, for example an embargo.",
+    "o:id": 200,
+    "o:label": "Date of end",
+    "o:local_name": "dateEnd",
+    "o:term": "curation:dateEnd",
+    "o:vocabulary": {
+        "@id": "https://shared.ldas.jp/omeka-s/api/vocabularies/5",
+        "o:id": 5
+    }
+}

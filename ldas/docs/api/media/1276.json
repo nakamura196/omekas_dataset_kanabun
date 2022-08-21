@@ -1,0 +1,76 @@
+{
+    "@context": "https://shared.ldas.jp/omeka-s/api-context",
+    "@id": "https://shared.ldas.jp/omeka-s/api/media/1276",
+    "@type": "o:Media",
+    "data": {
+        "dimensions": {
+            "large": {
+                "height": 180,
+                "width": 180
+            },
+            "medium": {
+                "height": 180,
+                "width": 180
+            },
+            "original": {
+                "height": 180,
+                "width": 180
+            },
+            "square": {
+                "height": 200,
+                "width": 200
+            }
+        }
+    },
+    "dcterms:title": [
+        {
+            "@value": "ぴえんのイラスト（女性）",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:alt_text": null,
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2022-08-21T00:09:08+00:00"
+    },
+    "o:filename": "12a29f4162c178fcab652443237d62bdb9edf8c8.png",
+    "o:id": 1276,
+    "o:ingester": "url",
+    "o:is_public": true,
+    "o:item": {
+        "@id": "https://shared.ldas.jp/omeka-s/api/items/1270",
+        "o:id": 1270
+    },
+    "o:lang": null,
+    "o:media_type": "image/png",
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2022-08-21T00:09:08+00:00"
+    },
+    "o:original_url": "https://shared.ldas.jp/omeka-s/files/original/12a29f4162c178fcab652443237d62bdb9edf8c8.png",
+    "o:owner": {
+        "@id": "https://shared.ldas.jp/omeka-s/api/users/1",
+        "o:id": 1
+    },
+    "o:renderer": "file",
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:sha256": "7bd6851d9ebb23cd1423c689b6601bae4d8758684aaf1cca5e9e894082edddd0",
+    "o:size": 29864,
+    "o:source": "https://1.bp.blogspot.com/-ZOg0qAG4ewU/Xub_uw6q0DI/AAAAAAABZio/MshyuVBpHUgaOKJtL47LmVkCf5Vge6MQQCNcBGAsYHQ/s180-c/pose_pien_uruuru_woman.png",
+    "o:thumbnail": null,
+    "o:thumbnail_urls": {
+        "large": "https://shared.ldas.jp/omeka-s/files/large/12a29f4162c178fcab652443237d62bdb9edf8c8.jpg",
+        "medium": "https://shared.ldas.jp/omeka-s/files/medium/12a29f4162c178fcab652443237d62bdb9edf8c8.jpg",
+        "square": "https://shared.ldas.jp/omeka-s/files/square/12a29f4162c178fcab652443237d62bdb9edf8c8.jpg"
+    },
+    "o:title": "ぴえんのイラスト（女性）",
+    "thumbnail_display_urls": {
+        "large": "https://shared.ldas.jp/omeka-s/files/large/12a29f4162c178fcab652443237d62bdb9edf8c8.jpg",
+        "medium": "https://shared.ldas.jp/omeka-s/files/medium/12a29f4162c178fcab652443237d62bdb9edf8c8.jpg",
+        "square": "https://shared.ldas.jp/omeka-s/files/square/12a29f4162c178fcab652443237d62bdb9edf8c8.jpg"
+    }
+}

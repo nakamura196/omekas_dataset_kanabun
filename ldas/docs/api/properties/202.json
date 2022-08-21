@@ -1,0 +1,14 @@
+{
+    "@context": "https://shared.ldas.jp/omeka-s/api-context",
+    "@id": "https://shared.ldas.jp/omeka-s/api/properties/202",
+    "@type": "o:Property",
+    "o:comment": "A number related to the resource.",
+    "o:id": 202,
+    "o:label": "Number",
+    "o:local_name": "number",
+    "o:term": "curation:number",
+    "o:vocabulary": {
+        "@id": "https://shared.ldas.jp/omeka-s/api/vocabularies/5",
+        "o:id": 5
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "https://shared.ldas.jp/omeka-s/api-context",
+    "@id": "https://shared.ldas.jp/omeka-s/api/properties/198",
+    "@type": "o:Property",
+    "o:comment": "A type that can be used for some purposes.",
+    "o:id": 198,
+    "o:label": "Type",
+    "o:local_name": "type",
+    "o:term": "curation:type",
+    "o:vocabulary": {
+        "@id": "https://shared.ldas.jp/omeka-s/api/vocabularies/5",
+        "o:id": 5
+    }
+}

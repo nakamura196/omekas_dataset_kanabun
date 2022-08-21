@@ -1,0 +1,14 @@
+{
+    "@context": "https://shared.ldas.jp/omeka-s/api-context",
+    "@id": "https://shared.ldas.jp/omeka-s/api/properties/203",
+    "@type": "o:Property",
+    "o:comment": "A rank or a position related to the resource.",
+    "o:id": 203,
+    "o:label": "Rank",
+    "o:local_name": "rank",
+    "o:term": "curation:rank",
+    "o:vocabulary": {
+        "@id": "https://shared.ldas.jp/omeka-s/api/vocabularies/5",
+        "o:id": 5
+    }
+}

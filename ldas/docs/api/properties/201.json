@@ -1,0 +1,14 @@
+{
+    "@context": "https://shared.ldas.jp/omeka-s/api-context",
+    "@id": "https://shared.ldas.jp/omeka-s/api/properties/201",
+    "@type": "o:Property",
+    "o:comment": "A location related to the resource, for example the place of publication.",
+    "o:id": 201,
+    "o:label": "Location",
+    "o:local_name": "location",
+    "o:term": "curation:location",
+    "o:vocabulary": {
+        "@id": "https://shared.ldas.jp/omeka-s/api/vocabularies/5",
+        "o:id": 5
+    }
+}

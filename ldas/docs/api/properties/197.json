@@ -1,0 +1,14 @@
+{
+    "@context": "https://shared.ldas.jp/omeka-s/api-context",
+    "@id": "https://shared.ldas.jp/omeka-s/api/properties/197",
+    "@type": "o:Property",
+    "o:comment": "A subject to describe the resource.",
+    "o:id": 197,
+    "o:label": "Subject",
+    "o:local_name": "subject",
+    "o:term": "curation:subject",
+    "o:vocabulary": {
+        "@id": "https://shared.ldas.jp/omeka-s/api/vocabularies/5",
+        "o:id": 5
+    }
+}
