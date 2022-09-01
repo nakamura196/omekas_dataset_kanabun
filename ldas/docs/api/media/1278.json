@@ -1,0 +1,131 @@
+{
+    "@context": "https://shared.ldas.jp/omeka-s/api-context",
+    "@id": "https://shared.ldas.jp/omeka-s/api/media/1278",
+    "@type": "o:Media",
+    "data": {
+        "@context": "http://iiif.io/api/image/2/context.json",
+        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/001/001_0002.tif",
+        "height": 4810,
+        "profile": [
+            "http://iiif.io/api/image/2/level1.json",
+            {
+                "formats": [
+                    "jpg"
+                ],
+                "qualities": [
+                    "native",
+                    "color",
+                    "gray"
+                ],
+                "supports": [
+                    "regionByPct",
+                    "sizeByForcedWh",
+                    "sizeByWh",
+                    "sizeAboveFull",
+                    "rotationBy90s",
+                    "mirroring",
+                    "gray"
+                ]
+            }
+        ],
+        "protocol": "http://iiif.io/api/image",
+        "sizes": [
+            {
+                "height": 37,
+                "width": 50
+            },
+            {
+                "height": 75,
+                "width": 100
+            },
+            {
+                "height": 150,
+                "width": 200
+            },
+            {
+                "height": 300,
+                "width": 400
+            },
+            {
+                "height": 601,
+                "width": 800
+            },
+            {
+                "height": 1202,
+                "width": 1600
+            },
+            {
+                "height": 2405,
+                "width": 3200
+            }
+        ],
+        "tiles": [
+            {
+                "height": 256,
+                "scaleFactors": [
+                    1,
+                    2,
+                    4,
+                    8,
+                    16,
+                    32,
+                    64,
+                    128
+                ],
+                "width": 256
+            }
+        ],
+        "width": 6401
+    },
+    "dcterms:title": [
+        {
+            "@value": "あいう",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:alt_text": "",
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2022-09-01T01:14:00+00:00"
+    },
+    "o:filename": "67605a521dc0a956ba1000ff407c9152bb1a0b1f",
+    "o:id": 1278,
+    "o:ingester": "iiif",
+    "o:is_public": true,
+    "o:item": {
+        "@id": "https://shared.ldas.jp/omeka-s/api/items/1270",
+        "o:id": 1270
+    },
+    "o:lang": null,
+    "o:media_type": null,
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2022-09-01T01:22:29+00:00"
+    },
+    "o:original_url": null,
+    "o:owner": {
+        "@id": "https://shared.ldas.jp/omeka-s/api/users/1",
+        "o:id": 1
+    },
+    "o:renderer": "iiif",
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:sha256": null,
+    "o:size": null,
+    "o:source": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/001/001_0002.tif/info.json",
+    "o:thumbnail": null,
+    "o:thumbnail_urls": {
+        "large": "https://shared.ldas.jp/omeka-s/files/large/67605a521dc0a956ba1000ff407c9152bb1a0b1f.jpg",
+        "medium": "https://shared.ldas.jp/omeka-s/files/medium/67605a521dc0a956ba1000ff407c9152bb1a0b1f.jpg",
+        "square": "https://shared.ldas.jp/omeka-s/files/square/67605a521dc0a956ba1000ff407c9152bb1a0b1f.jpg"
+    },
+    "o:title": "あいう",
+    "thumbnail_display_urls": {
+        "large": "https://shared.ldas.jp/omeka-s/files/large/67605a521dc0a956ba1000ff407c9152bb1a0b1f.jpg",
+        "medium": "https://shared.ldas.jp/omeka-s/files/medium/67605a521dc0a956ba1000ff407c9152bb1a0b1f.jpg",
+        "square": "https://shared.ldas.jp/omeka-s/files/square/67605a521dc0a956ba1000ff407c9152bb1a0b1f.jpg"
+    }
+}
