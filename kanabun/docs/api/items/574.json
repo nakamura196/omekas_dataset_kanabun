@@ -95,6 +95,15 @@
             "type": "literal"
         }
     ],
+    "ex:number": [
+        {
+            "@value": "1通",
+            "is_public": true,
+            "property_id": 1669,
+            "property_label": "員数",
+            "type": "literal"
+        }
+    ],
     "ex:seiribango": [
         {
             "@value": "1042",
@@ -110,6 +119,15 @@
             "is_public": true,
             "property_id": 200,
             "property_label": "紙背",
+            "type": "literal"
+        }
+    ],
+    "ex:size": [
+        {
+            "@value": "縦32.6 x 横52.1",
+            "is_public": true,
+            "property_id": 204,
+            "property_label": "法量",
             "type": "literal"
         }
     ],
@@ -133,7 +151,7 @@
     ],
     "ex:volume": [
         {
-            "@value": "1通",
+            "@value": "1紙",
             "is_public": true,
             "property_id": 215,
             "property_label": "紙数",

@@ -68,6 +68,15 @@
             "type": "literal"
         }
     ],
+    "ex:number": [
+        {
+            "@value": "1通",
+            "is_public": true,
+            "property_id": 1669,
+            "property_label": "員数",
+            "type": "literal"
+        }
+    ],
     "ex:seiribango": [
         {
             "@value": "1763",
@@ -86,6 +95,15 @@
             "type": "literal"
         }
     ],
+    "ex:size": [
+        {
+            "@value": "縦28.3 x 横42.6",
+            "is_public": true,
+            "property_id": 204,
+            "property_label": "法量",
+            "type": "literal"
+        }
+    ],
     "ex:transcript": [
         {
             "@value": "この十二月ふんのさうせちは、にわせ\nの十郎とのゝ御さた\nにて候、入とかふん御\n□□へきり給はるへき\n御文ひとつ給はり\n候て、にわせ殿へつけ\n候へく候、又けさんに\nつけて申候し、\nまんところのふき\nやう、やへの二郎大郎\nとのと申候人候、\n入とかたいせちに\nおもふ人にて候、\nしかる人に候はゝ、\n入とはふんこのやへ\nの二郎大郎の\nふんなし、後をん\nに、御文を給はり\n候て、にわせとのゑ、つ\nけ候へく候、くはしくは\nけさんの時、申うけ\n給はるへく候、\n恐惶謹言、\n　　十二月九日　　さいれん（花押）\n　とのおかの又",
@@ -97,7 +115,7 @@
     ],
     "ex:volume": [
         {
-            "@value": "1通",
+            "@value": "一紙",
             "is_public": true,
             "property_id": 215,
             "property_label": "紙数",

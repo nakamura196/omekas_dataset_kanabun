@@ -1,0 +1,14 @@
+{
+    "@context": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api-context",
+    "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/properties/1669",
+    "@type": "o:Property",
+    "o:comment": null,
+    "o:id": 1669,
+    "o:label": "員数",
+    "o:local_name": "number",
+    "o:term": "ex:number",
+    "o:vocabulary": {
+        "@id": "https://kanazawabunko-db.pen-kanagawa.ed.jp/api/vocabularies/6",
+        "o:id": 6
+    }
+}
