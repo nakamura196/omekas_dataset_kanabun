@@ -165,13 +165,6 @@
             "property_id": 215,
             "property_label": "紙数",
             "type": "literal"
-        },
-        {
-            "@value": "1紙",
-            "is_public": true,
-            "property_id": 215,
-            "property_label": "紙数",
-            "type": "literal"
         }
     ],
     "o:created": {
